@@ -1,1169 +1,1217 @@
-FlexLM Feature Code,Description
-2D0,PDS 2D PID
-2D1,PDS 2D
-2D2,PDS 2D Graphics Only
-2D3,PDS IDM
-3D,PDS 3D
-40100ARCHDESK_3_3F,Architectural Desktop R3.3
-40200ACDLAND_3_0F,Land Development Desktop R3
-40300MAP_5_0F,Map R5
-40400AMECH_PP_6_0F,AutoCAD Mechanical R6
-40500A-CIVDES_3_0F,Civil Design R3
-40600A-SURV_3_0F,Autodesk Survey R3
-40700CADOV_2002_0F,CAD Overlay 2002
-408003DSMAX_4_3F,Autodesk 3ds max R4.3
-40900INVBUN_5_0F,Inventor Series 5
-40900MDT_PP_6_0F,Mechanical Desktop R6
-41100ACD_2002_0F,AutoCAD 2002
-41300BLDSYS_3_0F,Building Systems R3+B38
-41400BLDGEL_1_0F,Building Services Electrical R1 and R2
-41500BLDGME_1_0F,Building Services Mechanical R1 and R2
-41700INVNTOR_5_3F,Inventor 5.3
-41800DES_SER_7_0F,Autodesk GIS Design Server R7
-41900ARDES_3_0F,AutoCAD Raster Design R3
-42000GEN_UDS_2_0F,Autodesk Utility Design R2
-421003DSMAX_5_0F,Autodesk 3ds max R5
-42200CIVSER_3_0F,Civil Series R3
-42300DES_SER_8_0F,Autodesk GIS Design Server R8
-42400ARDES_2004_0F,AutoCAD Raster Design 2004
-42500MAPSER_5_0F,Map Series 5
-42600ACD_2004_0F,AutoCAD 2004
-42700OS_AUTH_6_0F,Onsite R6
-42800INVBUN_6_0F,Inventor Series 6
-42900CIVSER_2004_0F,Civil Series 2004
-43100MAP_6_0F,Map R6
-43300ACDLAND_2004_0F,Land Desktop 2004
-43400AMECH_PP_2004_0F,AutoCAD Mechanical 2004
-43500INVBUN_7_0F,Inventor Series 7
-43600MAP_2004_0F,Map 2004
-43800OS_AUTH_7_0F,Onsite R7
-43900MAPSER_6_0F,Map Series 6
-44200ADTRPVS_10_1F,CAiCE Visual Survey 10.1
-45000BLDSYS_2004_0F,Building Systems 2004
-45100OS_AUTH_8_0F,Envision R8
-45200MAPSER_2004_0F,Map Series 2004
-45300A-SURV_2004_0F,Autodesk Survey 2004
-45400A-CIVDES_2004_0F,Civil Design 2004
-455003DSMAX_6_0F,Autodesk 3ds max R6
-45600INVPRO_7_0F,Inventor Professional 7
-45900AMECH_PP_2004DX_0F,AutoCAD Mechanical 2004 DX
-46000INVPRO_8_0F,Inventor Professional 8
-46100INVBUN_8_0F,Inventor Series 8
-46300ACD_2005_0F,AutoCAD 2005
-46400INVBUN_9_0F,Inventor Series 9
-46500CIVSER_2005_0F,Civil Series 2005
-46600MAP_2005_0F,Map 3D 2005
-46700ARCHDESK_2005_0F,Architectural Desktop 2005
-46800ACDLAND_2005_0F,Land Desktop 2005
-46900AMECH_PP_2005_0F,AutoCAD Mechanical 2005
-47000MAPSER_2005_0F,Map Series 2005
-47100BLDSYS_2005_0F,Building Systems 2005
-47200INVPRO_9_0F,Inventor Professional 9
-47300ACAD_E_2004_0F,AutoCAD Electrical 2004
-47400ACAD_E_2005_0F,AutoCAD Electrical 2005
-47600REVITS_1_0F,AutoCAD Revit Series R1
-477003DSMAX_7_0F,Autodesk 3ds max R7
-47800VIZ_2005_0F,VIZ 2005
-48000A-SURV_2005_0F,Autodesk Survey 2005
-48100A-CIVDES_2005_0F,Civil Design 2005
-48200ARDES_2005_0F,AutoCAD Raster Design 2005
-48300CIV3D_2004_0F,Autodesk Civil 3D 2004
-48400CIV3D_2005_0F,Autodesk Civil 3D 2005
-48400REVITS_2_0F,Revit 6.1
-48500REVITS_2_0F,AutoCAD Revit Series R2
-48600GEN_UDS_2005_0F,Autodesk Utility Design 2005
-48700REVIT_7_0F,Revit 7.0
-48700VIZ_2006_0F,VIZ 2006
-48800ACD_2006_0F,AutoCAD 2006
-48900INVBUN_10_0F,Inventor Series 10
-49000INVPRO_10_0F,Inventor Professional 10
-49100ARCHDESK_2006_0F,Architectural Desktop 2006
-49200ACDLAND_2006_0F,Land Desktop 2006
-49300MAP_2006_0F,AutoCAD Map 3D 2006
-49400AMECH_PP_2006_0F,AutoCAD Mechanical 2006
-49500BLDSYS_2006_0F,Building Systems 2006
-49600ACAD_E_2006_0F,AutoCAD Electrical 2006
-49700CIV3D_2006_0F,Autodesk Civil 3D 2006
-49800REVITS_7_0F,AutoCAD Revit Series 7.0
-4D,ISOGEN - Batch
-50100REVIT_8_0F,Revit Building 8.0
-50200REVITST_1_0F,Revit Structural 1.0
-50300REVITS_8_0F,AutoCAD Revit Series 8.0
-50400A-SURV_2006_0F,Autodesk Survey 2006
-50500ARDES_2006_0F,AutoCAD Raster Design 2006
-506003DSMAX_8_0F,Autodesk 3ds max R8
-50700REVITS_8_1F,AutoCAD Revit Series 8.1
-50800UTLDESN_2006_0F,Autodesk Utility Design 2006
-50900REVIT_8_1F,Revit Building 8.1
-51000REVITST_2_0F,Revit Structural 2.0
-51100REVITSYS_0_5F,Revit Systems 1
-51200ACD_2007_0F,AutoCAD 2007
-51300INVBUN_11_0F,Inventor Series 11
-51400INVPRO_11_0F,Inventor Professional 11
-51500ARCHDESK_2007_0F,Architectural Desktop 2007
-51600ACDLAND_2007_0F,Land Desktop 2007
-51700MAP_2007_0F,AutoCAD Map 3D 2007
-51800BLDSYS_2007_0F,Building Systems 2007
-51900AMECH_PP_2007_0F,AutoCAD Mechanical 2007
-52100ACAD_E_2007_0F,AutoCAD Electrical 2007
-52200CIV3D_2007_0F,Autodesk Civil 3D 2007
-52300UTLDESN_2007_0F,Autodesk Utility Design 2007
-52500REVITS_9_0F,AutoCAD Revit Series Building 9
-52600REVIT_9_0F,Revit Building 9
-52700A-SURV_2007_0F,Autodesk Survey 2007
-52800ARDES_2007_0F,AutoCAD Raster Design 2007
-52900INVPRORS_11_0F,Inventor Professional 11 Routed Systems
-53000INVPROSIM_11_0F,Inventor Professional 11 Simulation
-53100REVSYP_1_0F,AutoCAD Revit Series - Systems Plus 1
-533003DSMAX_9_0F,Autodesk 3ds max R9
-53400REVITST_3_0F,Revit Structure 3
-53500VIZ_2007_0F,VIZ 2007
-53700REVSU_3_0F,AutoCAD Revit Series - Structure 3
-53900PNID_2007_0F,AutoCAD P&ID 2007
-54100REVITS_9_1F,AutoCAD Revit Series Building 9.1
-54200REVSU_4_0F,AutoCAD Revit Series - Structure 4
-54300REVIT_9_1F,Revit Building 9.1
-54500REVSYP_2_0F,AutoCAD Revit Series Systems Plus 2
-54600ACD_2008_0F,AutoCAD 2008
-54700REVITS_2008_0F,AutoCAD Revit Architecture Suite 2008
-54800REVSU_2008_0F,AutoCAD Revit Structure Suite 2008
-54900AMECH_PP_2008_0F,AutoCAD Mechanical 2008
-55000INVBUN_2008_0F,Autodesk Inventor Suite 2008
-55100INVPRORS_2008_0F,Autodesk Inventor Routed Systems Suite 2008
-55200INVPROSIM_2008_0F,Autodesk Inventor Simulation Suite 2008
-55300INVPRO_2008_0F,Inventor Professional 2008
-55400CIV3D_2008_0F,AutoCAD Civil 3D 2008
-55500ACDLAND_2008_0F,AutoCAD Land Desktop 2008
-55600BLDSYS_2008_0F,AutoCAD MEP 2008
-55700REVSYP_2008_0F,AutoCAD Revit MEP Suite 2008
-55800ARCHDESK_2008_0F,AutoCAD Architecture 2008
-55900MAP_2008_0F,AutoCAD Map 3D 2008
-56000ACAD_E_2008_0F,AutoCAD Electrical 2008
-56100UTLDESN_2008_0F,AutoCAD Utility Design 2008
-56200PNID_2008_0F,AutoCAD P&ID 2008
-568003DSMAX_2008_0F,Autodesk 3ds Max 2008
-56900VIZ_2008_0F,VIZ 2008
-57000ARDES_2008_0F,AutoCAD Raster Design 2008
-57100REVIT_2008_0F,Revit Architecture 2008
-57200REVITST_2008_0F,Revit Structure 2008
-57600ACD_2009_0F,AutoCAD 2009
-59200AMECH_PP_2009_0F,AutoCAD Mechanical 2009
-59300INVBUN_2009_0F,Autodesk Inventor Suite 2009
-59400INVPRORS_2009_0F,Autodesk Inventor Routed Systems Suite 2009
-59500INVPROSIM_2009_0F,Autodesk Inventor Simulation Suite 2009
-59600INVPRO_2009_0F,Inventor Professional 2009
-59700CIV3D_2009_0F,AutoCAD Civil 3D 2009
-59800ACDLAND_2009_0F,AutoCAD Land Desktop 2009
-59900BLDSYS_2009_0F,AutoCAD MEP 2009
-5D,ISOGEN - Interactive
-60000REVSYP_2009_0F,AutoCAD Revit MEP Suite 2009
-60100ARCHDESK_2009_0F,AutoCAD Architecture 2009
-60200MAP_2009_0F,AutoCAD Map 3D 2009
-60300ACAD_E_2009_0F,AutoCAD Electrical 2009
-60400UTLDESN_2009_0F,Autodesk Utility Design 2009
-60500PNID_2009_0F,AutoCAD P&ID 2009
-60800COMBUST_2008_0F,Autodesk Combustion
-60900REVITS_2009_0F,AutoCAD Revit Architecture Suite 2009
-61000REVSU_2009_0F,AutoCAD Revit Structure Suite 2009
-61100INVLT_2009_0F,Autodesk Inventor LT 2009
-612003DSMAX_2009_0F,Autodesk 3ds Max 2009
-61300ARDES_2009_0F,AutoCAD Raster Design 2009
-61400MAPGE_2009_0F,Autodesk MapGuide Enterprise 2009
-61500PLNT3D_2009_0F,AutoCAD Plant 3D 2009
-61700INVMFG_2009_0F,AutoCAD Inventor Tooling Suite 2009
-62100REVIT_2009_0F,Revit Architecture 2009
-62200REVITST_2009_0F,Revit Structure 2009
-62700NAVREV_2009_0F,Autodesk NavisWorks Review 2009
-62800NAVSIM_2009_0F,Autodesk NavisWorks Simulate 2009
-62900NAVMAN_2009_0F,Autodesk NavisWorks Manage 2009
-64300ACD_F,AutoCAD Package
-64400AMECH_PP_F,AutoCAD Mechanical Package
-64500INVBUN_F,Inventor Series Package
-64800INVPRO_F,Inventor Professional Package
-64900CIV3D_F,Autodesk Civil 3D Package
-65100BLDSYS_F,AutoCAD MEP Package
-65200REVSYP_F,AutoCAD Revit MEP Suite Package
-65300ARCHDESK_F,AutoCAD Architecture Package
-65500ACAD_E_F,AutoCAD Electrical Package
-65700PLNT3D_F,AutoCAD Plant 3D Package
-65900REVITS_F,AutoCAD Revit Architecture Suite Package
-66000REVSU_F,AutoCAD Revit Series - Structure Package
-662003DSMAX_F,Autodesk 3ds Max Package
-66300ARDES_F,AutoCAD Raster Design Package
-66800REVIT_F,Revit Architecture Package
-66900REVITST_F,Autodesk Revit Structure Package
-67400NAVREV_F,Autodesk NavisWorks Review Package
-67500NAVSIM_F,Autodesk NavisWorks Simulate Package
-67600NAVMAN_F,Autodesk Navisworks Manage Package
-67700PNID_F,AutoCAD P&ID Package
-67800RVTMPJ_2009_0F,Autodesk Revit MEP 2009
-68600AQTO_2010_0F,Autodesk Quantity Takeoff 2010
-68800CIVIL_2009_0F,AutoCAD Civil 2009
-68900NAVREV_2009_1F,Autodesk NavisWorks Review 2009.1
-68900NAVREV_2009_1P,Autodesk NavisWorks Review 2009.1 Pre-Release
-69000NAVSIM_2009_1F,Autodesk NavisWorks Simulate 2009.1
-69000NAVSIM_2009_1P,Autodesk NavisWorks Simulate 2009.1 Pre-Release
-69100NAVMAN_2009_1F,Autodesk NavisWorks Manage 2009.1
-69100NAVMAN_2009_1P,Autodesk NavisWorks Manage 2009.1 Pre-Release
-69300RSA_2009_0F,Autodesk Robot Structural Analysis 2009
-69400RSAPRO_2009_0F,Autodesk Robot Structural Analysis Professional 2009
-69600RSAPRO_F,Autodesk Robot Structural Analysis Professional Package
-699003DSMAX_2010_0F,AutodeskÂ® 3ds MaxÂ® 2010
-70000MAXDES_2010_0F,Autodesk 3ds Max Design 2010
-70100MAXDES_F,Autodesk 3ds Max Design Package
-70200MBXPRO_2009_0F,Autodesk Mudbox 2009
-70400INVBUN_2010_0F,AutoCAD Inventor Suite 2010
-70500INVPRO_2010_0F,AutoCAD Inventor Professional Suite 2010
-70600INVPRORS_2010_0F,AutoCAD Inventor Routed Systems Suite 2010
-70700INVPROSIM_2010_0F,AutoCAD Inventor Simulation Suite 2010
-70800VLTM_2010_0F,Autodesk Vault Manufacturing 2010
-71200ACD_2010_0F,AutoCAD 2010
-71400NAVMAN_2010_0F,Autodesk Navisworks Manage 2010
-71500NAVSIM_2010_0F,Autodesk Navisworks Simulate 2010
-71600NAVREV_2010_0F,Autodesk Navisworks Review 2010
-71700ACAD_E_2010_0F,AutoCAD Electrical 2010
-71800AMECH_PP_2010_0F,AutoCAD Mechanical 2010
-71900PCEASY_2010_0F,Autodesk Productstream Professional Easy 2011
-72000PCOFFI_2010_0F,Autodesk Productstream Professional 2010 Office
-72100PCPRO_2010_0F,Autodesk Productstream Professional 2011
-72200ARCHDESK_2010_0F,AutoCAD Architecture 2010
-72300PLNT3D_2010_0F,AutoCAD Plant 3D 2010
-72400VLTM_F,Vault Professional Package
-72500MAP_2010_0F,AutoCAD Map 3D 2010
-72600ARDES_2010_0F,AutoCAD Raster Design 2010
-72700MAPGE_2010_0F,Autodesk MapGuide Enterprise 2010
-72800TOPOBSCLNT_2010_0F,Autodesk Topobase Client 2010
-72900TOPOBSWEB_2010_0F,Autodesk Topobase Web 2010
-73000BLDSYS_2010_0F,AutoCAD MEP 2010
-73100REVSYP_2010_0F,AutoCAD Revit MEP Suite 2010
-73200INVMFG_2010_0F,AutoCAD Inventor Tooling Suite 2010
-73400PNID_2010_0F,Autodesk Plant P&ID 2010
-73500UTLDESN_2010_0F,Autodesk Utility Design 2010
-73700CIV3D_2010_0F,AutoCAD Civil 3D 2010
-73800RVTMPJ_2010_0F,Autodesk Revit MEP 2010
-73900REVITST_2010_0F,Autodesk Revit Structure 2010
-74000REVSU_2010_0F,AutoCAD Revit Structure Suite 2010
-74100REVIT_2010_0F,Autodesk Revit Architecture 2010
-74200REVITS_2010_0F,AutoCAD Revit Architecture Suite 2010
-74300CIVIL_2010_0F,AutoCAD Civil 2010
-74400INVAS_2010_0F,Autodesk Inventor Automation Professional 2010
-74500VLTC_2010_0F,Autodesk Vault Collaboration 2010
-74700VLTWG_2010_0F,Autodesk Vault Workgroup 2010
-74900RVTMPJ_F,Autodesk Revit MEP Package
-75100TOXIK_2010_0F,Autodesk Toxik 2010
-75200RSA_2010_0F,Autodesk Robot Structural Analysis 2010
-75300RSAPRO_2010_0F,Autodesk Robot Structural Analysis Professional 2010
-75600RSTR_2010_0F,AutoCAD Raster 2010
-75700MFDLC_2010_0F,Autodesk Moldflow Design Link for CATIA V5 2010
-75900MFDLPE_2010_0F,Autodesk Moldflow Design Link for Pro/ENGINEER 2010
-76100MFDLP_2010_0F,Autodesk Moldflow Design Link for Parasolid 2010
-76300MFAD_2010_0F,Autodesk Moldflow Adviser Design 2010
-76500MFAM_2010_0F,Autodesk Moldflow Adviser Manufacturing 2010
-76700MFAA_2010_0F,Autodesk Moldflow Adviser Advanced 2010
-76900MFIB_2010_0F,Autodesk Moldflow Insight Basic 2010
-77100MFIP_2010_0F,Autodesk Moldflow Insight Performance 2010
-77300MFIA_2010_0F,Autodesk Moldflow Insight Advanced 2010
-77500MFCD_2010_0F,Autodesk Moldflow CAD Doctor 2010
-77700MFS_2010_0F,Autodesk Moldflow Synergy 2010
-78000ECOA_2010_0F,Autodesk Ecotect Analysis 2010
-78100ECOA_F,Autodesk Ecotect Analysis Package
-78200RAV-S_2009_0F,AutoCAD Revit Architecture Visualization Suite 2009
-78600SFTIM_7_5F,Autodesk Softimage 7.5
-78800SFTIMA_7_5F,Autodesk Softimage Advanced 7.5
-78800SFTIMASIB1_7_5F,Autodesk Softimage Advanced 7.5 SIBatch1
-78800SFTIMASIB2_7_5F,Autodesk Softimage Advanced 7.5 SIBatch2
-78800SFTIMASIB3_7_5F,Autodesk Softimage Advanced 7.5 SIBatch3
-78800SFTIMASIB4_7_5F,Autodesk Softimage Advanced 7.5 SIBatch4
-78800SFTIMASIB5_7_5F,Autodesk Softimage Advanced 7.5 SIBatch5
-78900SFTIMA_F,Autodesk Softimage Advanced Package
-79000SFTIMASIB1_F,Autodesk Softimage SIBatch1 Package
-79100SFTIMASIB2_F,Autodesk Softimage SIBatch2 Package
-79200SFTIMASIB3_F,Autodesk Softimage SIBatch3 Package
-79300SFTIMASIB4_F,Autodesk Softimage SIBatch4 Package
-79400SFTIMASIB5_F,Autodesk Softimage SIBatch5 Package
-79500MOBPRO_2010_0F,Autodesk MotionBuilder 2010
-79600EMS_2010_0F,Autodesk Education Master Suite 2010
-79800ESAE_2010_0F,Autodesk Education Suite for Architecture and Engineering 2010
-80000ACDDS_2010_0F,AutoCAD Visualization Suite 2010
-80200DES_ACA_2010_0F,Autodesk Design Academy 2010
-80400ESID_2010_0F,Autodesk Education Suite for Industrial Design 2010
-80700ESME_2010_0F,Autodesk Education Suite for Mechanical Engineering 2010
-80900ESCSE_2010_0F,Autodesk Education Suite for Civil and Structural Engineering 2010
-81500RAVS_2010_0F,AutoCAD Revit Architecture Visualization Suite 2010
-81700MAYACP_2010_0F,Autodesk Maya Complete 2010
-81700MAYACPMR_2010_0F,Autodesk Maya Complete 2010 Mental Ray
-81800MAYAUL_2010_0F,Autodesk Maya Unlimited 2010
-81800MAYAULFS_2010_0F,Autodesk Maya Unlimited 2010 Fluid Simulation
-81800MAYAULMR_2010_0F,Autodesk Maya Unlimited 2010 Mental Ray
-82000BDFBS_2010_0F,Autodesk Building Fabrication Suite 2010
-82200STRDET_2010_0F,AutoCAD Structural Detailing 2010
-82400RVTMPB_2010_0F,Autodesk Revit MEP-B 2010
-82700NWMMAN_2010_0F,Autodesk Navisworks Manufacturing Manage 2010
-82900NWMSIM_2010_0F,Autodesk Navisworks Manufacturing Simulate 2010
-83100NWMREV_2010_0F,Autodesk Navisworks Manufacturing Review 2010
-83300INVAR_2010_0F,Autodesk Inventor Automation Runtime 2010
-83900MBXPRO_2010_0F,Autodesk Mudbox 2010
-84000SFTIM_2010_0F,Autodesk Softimage 2010
-84100SFTIMASIB1_2010_0F,Autodesk Softimage 2010 SIBatch1
-84100SFTIMASIB2_2010_0F,Autodesk Softimage 2010 SIBatch2
-84100SFTIMASIB3_2010_0F,Autodesk Softimage 2010 SIBatch3
-84100SFTIMASIB4_2010_0F,Autodesk Softimage 2010 SIBatch4
-84100SFTIMASIB5_2010_0F,Autodesk Softimage 2010 SIBatch5
-84600ACDLT_2010_0F,AutoCAD LT 2010
-84700ACDLT_F,AutoCAD LT Package
-84800AUTOST_2011_0F,Autodesk Alias Automotive 2011
-85000DESNST_2011_0F,Autodesk Alias Design 2011
-85200SURFST_2011_0F,Autodesk Alias Surface 2011
-85400MAYA_2010_0F,Maya 2010
-85400MAYAMFS_2010_0F,Autodesk Maya 2010 Fluid Simulation
-85400MAYAMMR_2010_0F,Autodesk Maya 2010 Mental Ray
-85400MAYAMMR1_2010_0F,Autodesk Maya 2010 Mental Ray 1
-85400MAYAMMR2_2010_0F,Autodesk Maya 2010 Mental Ray 2
-85400MAYAMMR3_2010_0F,Autodesk Maya 2010 Mental Ray 3
-85400MAYAMMR4_2010_0F,Autodesk Maya 2010 Mental Ray 4
-85400MAYAMMR5_2010_0F,Autodesk Maya 2010 Mental Ray 5
-855013DSMAX_2011_0F,Autodesk 3ds Max 2011
-855023DSMAX_F,Autodesk 3ds Max Package
-85503MAXDES_2011_0F,Autodesk 3ds Max Design 2011
-85504MAXDES_F,Autodesk 3ds Max Design Package
-85507ASMES_2010_0F,Autodesk Algor Simulation MES 2010
-85511MYECS_2010_0F,Autodesk Maya Entertainment Creation Suite 2010
-85512MYECS_F,Autodesk Maya Entertainment Creation Suite Standard
-85525ASMES_F,Autodesk Algor Simulation MES Package
-85536ACD_2011_0F,AutoCAD 2011
-85536ACD_2011_0P,AutoCAD 2011 Pre-Release
-85537MAYA_2011_0F,Autodesk Maya 2011
-85537MAYAMFS_2011_0F,Autodesk Maya 2011 Fluid Simulation
-85537MAYAMFS_F,Autodesk Maya Fluid Simulation
-85537MAYAMMR_2011_0F,Autodesk Maya 2011 Mental Ray
-85537MAYAMMR_F,Autodesk Maya Mental Ray Package
-85537MAYAMMR1_2011_0F,Autodesk Maya 2011 Mental Ray 1
-85537MAYAMMR1_F,Autodesk Maya Mental Ray 1 Package
-85537MAYAMMR2_2011_0F,Autodesk Maya 2011 Mental Ray 2
-85537MAYAMMR2_F,Autodesk Maya Mental Ray 2 Package
-85537MAYAMMR3_2011_0F,Autodesk Maya 2011 Mental Ray 3
-85537MAYAMMR3_F,Autodesk Maya Mental Ray 3 Package
-85537MAYAMMR4_2011_0F,Autodesk Maya 2011 Mental Ray 4
-85537MAYAMMR4_F,Autodesk Maya Mental Ray 4 Package
-85537MAYAMMR5_2011_0F,Autodesk Maya 2011 Mental Ray 5
-85537MAYAMMR5_F,Autodesk Maya Mental Ray 5 Package
-85538ACAD_E_2011_0F,AutoCAD Electrical 2011
-85541RVTMPB_2011_0F,Autodesk Revit MEP-B 2011
-85543REVITST_2011_0F,Autodesk Revit Structure 2011
-85545AMECH_PP_2011_0F,AutoCAD Mechanical 2011
-85550PCOFFI_2011_0F,Autodesk Productstream Professional Office 2011
-85552MAPGE_2011_0F,Autodesk MapGuide Enterprise 2011
-85554MOBPRO_2011_0F,Autodesk MotionBuilder 2011
-85555ACDLT_2011_0F,AutoCAD LT 2011
-85557MAP_2011_0F,AutoCAD Map 3D 2011
-85559TOPOBSCLNT_2011_0F,Autodesk Topobase Client 2011
-85560TOPOBSWEB_2011_0F,Autodesk Topobase Web 2011
-85561ARCHDESK_2011_0F,AutoCAD Architecture 2011
-85562BLDSYS_2011_0F,AutoCAD MEP 2011
-85563SFTIM_2011_0F,Autodesk Softimage 2011
-85563SFTIMSIB1_2011_0F,Autodesk Softimage 2011 SIBatch1
-85563SFTIMSIB2_2011_0F,Autodesk Softimage 2011 SIBatch2
-85563SFTIMSIB3_2011_0F,Autodesk Softimage 2011 SIBatch3
-85563SFTIMSIB4_2011_0F,Autodesk Softimage 2011 SIBatch4
-85563SFTIMSIB5_2011_0F,Autodesk Softimage 2011 SIBatch5
-85567INVPRO_2011_0F,AutoCAD Inventor Professional Suite 2011
-85569INVPRORS_2011_0F,AutoCAD Inventor Routed Systems Suite 2011
-85571INVPROSIM_2011_0F,AutoCAD Inventor Simulation Suite 2011
-85573INVBUN_2011_0F,AutoCAD Inventor Suite 2011
-85575INVMFG_2011_0F,AutoCAD Inventor Tooling Suite 2011
-85577INVNTOR_2010_0F,Autodesk Inventor 2010
-85579INVNTOR_2011_0F,Autodesk Inventor 2011
-85580MBXPRO_2011_0F,Autodesk Mudbox 2011
-85581ECSCAD_2011_0F,AutoCAD ecscad 2011
-85583LDXSP_2011_0F,Autodesk LandXplorer Studio Professional 2011
-85585RSA_2011_0F,Autodesk Robot Structural Analysis 2011
-85586RSAPRO_2011_0F,Autodesk Robot Structural Analysis Professional 2011
-85587REVIT_2011_0F,Autodesk Revit Architecture 2011
-85588VLTM_2011_0F,Autodesk Vault Professional 2011
-85590ALGSIM_2011_0F,Autodesk Algor Simulation 2011
-85591ASCFD_2011_0F,Autodesk Algor Simulation CFD 2011
-85592ASMES_2011_0F,Autodesk Algor Simulation MES 2011
-85593ASPRO_2011_0F,Autodesk Algor Simulation Professional 2011
-85594REVSU_2011_0F,AutoCAD Revit Structure Suite 2011
-85595STRDET_2011_0F,AutoCAD Structural Detailing 2011
-85596VLTWG_2011_0F,Autodesk Vault Workgroup 2011
-85598VLTC_2011_0F,Autodesk Vault Collaboration 2011
-85600NAVMAN_2011_0F,Autodesk Navisworks Manage 2011
-85601NAVSIM_2011_0F,Autodesk Navisworks Simulate 2011
-85602PLNT3D_2011_0F,AutoCAD Plant 3D 2011
-85603PNID_2011_0F,AutoCAD P&ID 2011
-85604CIV3D_2011_0F,AutoCAD Civil 3D 2011
-85606SHOWPRO_2011_0F,Autodesk Showcase Professional 2011
-85607SHOWCASE_2011_0F,Autodesk Showcase 2011
-85608SHCSPR_2011_0F,Autodesk Showcase Presenter 2011
-85609DC_JT_2011_0F,Autodesk DirectConnect JT 2011
-85611DC_UG_2011_0F,Autodesk DirectConnect NX 2011
-85614RVTMPJ_2011_0F,Autodesk Revit MEP 2011
-85615ALSK_2011_0F,Autodesk Alias Sketch 2011
-85617MXECS_2011_0F,Autodesk 3ds Max Entertainment Creation Suite 2011
-85618AAA_2011_0F,Autodesk Animation Academy 2011
-85619ESEC_2011_0F,Autodesk Education Suite for Entertainment Creation 2011
-85620MYECS_2011_0F,Autodesk Maya Entertainment Creation Suite 2011
-85621SIECS_2011_0F,Autodesk Softimage Entertainment Creation Suite 2011
-85623REVITS_2011_0F,AutoCAD Revit Architecture Suite 2011
-85624REVSYP_2011_0F,AutoCAD Revit MEP Suite 2011
-85625DES_ACA_2011_0F,Autodesk Design Academy 2011
-85626EMS_2011_0F,Autodesk Education Master Suite 2011
-85627ESAE_2011_0F,Autodesk Education Suite for Architecture and Engineering 2011
-85628ESCSE_2011_0F,Autodesk Education Suite for Civil and Structural Engineering 2011
-85629ESID_2011_0F,Autodesk Education Suite for Industrial Design 2011
-85630ESME_2011_0F,Autodesk Education Suite for Mechanical Engineering 2011
-85631INVFPR_2011_0F,Autodesk Inventor Factory Premium 2011
-85632INVFAD_2011_0F,Autodesk Inventor Factory Advanced 2011
-85633NWFPR_2011_0F,Autodesk Navisworks Factory Premium 2011
-85634NWFAD_2011_0F,Autodesk Navisworks Factory Advanced 2011
-85635FDSPRM_2011_0F,Autodesk Factory Design Suite Premium 2011
-85636FDSADV_2011_0F,Autodesk Factory Design Suite Advanced 2011
-85637MFAA_2011_0F,Autodesk Moldflow Adviser Advanced 2011
-85638MFAD_2011_0F,Autodesk Moldflow Adviser Design 2011
-85639MFAM_2011_0F,Autodesk Moldflow Adviser Manufacturing 2011
-85640MFCD_2011_0F,Autodesk Moldflow CAD Doctor 2011
-85641MFDLC_2011_0F,Autodesk Moldflow Design Link for CATIA V5 2011
-85642MFDLP_2011_0F,Autodesk Moldflow Design Link for Parasolid 2011
-85643MFDLPE_2011_0F,Autodesk Moldflow Design Link for Pro/ENGINEER 2011
-85644MFIA_2011_0F,Autodesk Moldflow Insight Advanced 2011
-85645MFIB_2011_0F,Autodesk Moldflow Insight Basic 2011
-85646MFIP_2011_0F,Autodesk Moldflow Insight Performance 2011
-85647MFS_2011_0F,Autodesk Moldflow Synergy 2011
-85648INVRT_2011_0F,Autodesk Inventor Runtime 2011
-85649INVLT_2011_0F,Autodesk Inventor LT 2011
-85650INVLTS_2011_0F,AutoCAD Inventor LT Suite 2011
-85651BDSADV_2011_0F,Autodesk Building Design Suite Advanced 2011
-85652BDSPRM_2011_0F,Autodesk Building Design Suite Premium 2011
-85653DSSTD_2011_0F,Autodesk Design Suite Standard 2011
-85654DSADV_2011_0F,Autodesk Design Suite Advanced 2011
-85655DSPRM_2011_0F,Autodesk Design Suite Premium 2011
-85656RAVS_2011_0F,AutoCAD Revit Architecture Visualization Suite 2011
-85657ACDDS_2011_0F,AutoCAD Visualization Suite 2011
-85658PDSADV_2011_0F,Autodesk Plant Design Suite Advanced 2011
-85659PDSPRM_2011_0F,Autodesk Plant Design Suite Premium 2011
-85660PDSPRM_F,Autodesk Plant Design Suite Premium Package
-85662ACDLTC_2011_0F,AutoCAD LT Civil Suite 2011
-85663GMCADC_2011_0F,Autodesk GM CAD Convertors 2011
-85667INVPUB_2011_0F,Autodesk Inventor Publisher 2011
-85668INVAS_2011_0F,Autodesk Intent Professional 2011
-85670INVAR_2011_0F,Autodesk Intent Runtime 2011
-85671INTSER_2011_0F,Autodesk Intent Server 2011
-85672ECOA_2011_0F,Autodesk Ecotect Analysis 2011
-85674T1MF_2011_0F,T1 Enterprise Multi-flex 2011
-85677ECSCAD_2012_0F,AutoCAD ecscad 2012
-85677FDSADV_F,Autodesk Factory Design Suite Ultimate Package
-85677FDSPRM_F,Autodesk Factory Design Suite Premium Package
-85678ACAD_E_2012_0F,AutoCAD Electrical 2012
-85683ARDES_2011_0F,AutoCAD Raster Design 2011
-85685MXECSP_2011_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2011
-85687MYECSP_2011_0F,Autodesk Maya Entertainment Creation Suite Premium 2011
-85689DSSTD_F,Autodesk Design Suite Standard Package
-85692PDSADV_F,Autodesk Plant Design Suite Ultimate Package
-85693SMKMAC_2011_0F,Autodesk Smoke 2011 for Mac OS X
-85693SMKMAC_2011_0P,Autodesk Smoke 2011 for Mac OS X
-85694MAYA_2012_0F,Autodesk Maya 2012
-85694MAYAMMR1_2012_0F,Autodesk Maya 2012 Mental Ray 1
-85694MAYAMMR1_F,Autodesk Maya Mental Ray 1 Package
-85696MBXPRO_2012_0F,Autodesk Mudbox 2012
-856983DSMAX_2012_0F,Autodesk 3ds Max 2012
-85700MAXDES_2012_0F,Autodesk 3ds Max Design 2012
-85702MOBPRO_2012_0F,Autodesk MotionBuilder 2012
-85704SHOWCASE_2012_0F,Autodesk Showcase 2012
-85705SFTIM_2012_0F,Autodesk Softimage 2012
-85705SFTIMASIB_F,Autodesk Softimage 2013 Batch Package
-85705SFTIMSIB_2012_0F,Autodesk Softimage 2012 SIBatch
-85708MXECS_2012_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2012
-85710MXECSP_2012_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2012
-85712AAA_2012_0F,Autodesk Animation Academy 2012
-85714ESEC_2012_0F,Autodesk Entertainment Creation Suite for Education 2012
-85716MYECS_2012_0F,Autodesk Maya Entertainment Creation Suite Standard 2012
-85718MYECSP_2012_0F,Autodesk Maya Entertainment Creation Suite Premium 2012
-85720SIECS_2012_0F,Autodesk Softimage Entertainment Creation Suite Standard 2012
-85726ASMES_2012_0F,Autodesk Simulation Mechanical 2012
-85728ASPRO_2012_0F,Autodesk Simulation Multiphysics 2012
-85730ACD_2012_0F,AutoCAD 2012
-85731ARCHDESK_2012_0F,AutoCAD Architecture 2012
-85732ACDLT_2012_0F,AutoCAD LT 2012
-85733AMECH_PP_2012_0F,AutoCAD Mechanical 2012
-85734BLDSYS_2012_0F,AutoCAD MEP 2012
-85737SMKMAC_2012_0F,Autodesk Smoke 2012 for Mac OS X
-85737SMKMACBRN_2012_0F,Autodesk Smoke Burn 2012
-85737SMKMACBRN_F,Autodesk Smoke Burn Package
-85737SMKMACWG_2012_0F,Autodesk Smoke Wiretap Gateway 2012
-85737SMKMACWG_F,Autodesk Smoke Wiretap Gateway Package
-85738SMKMAC_F,Autodesk Smoke for Mac OS X Package
-85740AUTOST_2012_0F,Autodesk Alias Automotive 2012
-85741DESNST_2012_0F,Autodesk Alias Design 2012
-85742SURFST_2012_0F,Autodesk Alias Surface 2012
-85744STRDET_2012_0F,AutoCAD Structural Detailing 2012
-85747REVIT_2012_0F,Autodesk Revit Architecture 2012
-85748RVTMPB_2012_0F,Autodesk Revit MEP 2012
-85749REVITST_2012_0F,Autodesk Revit Structure 2012
-85750VLTC_2012_0F,Autodesk Vault Collaboration 2012
-85752VLTWG_2012_0F,Autodesk Vault Workgroup 2012
-85753VLTM_2012_0F,Autodesk Vault Professional 2012
-85754DC_JT_2012_0F,Autodesk DirectConnect JT 2012
-85755DC_UG_2012_0F,Autodesk DirectConnect NX 2012
-85758ATCIGM_2012_0F,Autodesk Alias TC Integrator for GM 2012
-85759INVLTS_2012_0F,AutoCAD Inventor LT Suite 2012
-85762INVPRORS_2012_0F,AutoCAD Inventor Routed Systems Suite 2012
-85765INVLT_2012_0F,Autodesk Inventor LT 2012
-85766INVFPR_2012_0F,Autodesk Inventor Factory Premium 2012
-85767INVFAD_2012_0F,Autodesk Inventor Factory Ultimate 2012
-85768INVNTOR_2012_0F,Autodesk Inventor 2012
-85769EMS_2012_0F,Autodesk Education Master Suite 2012
-85770ESAE_2012_0F,Autodesk Building Design Suite for Education 2012
-85771ESCSE_2012_0F,Autodesk Infrastructure Design Suite for Education 2012
-85773ESME_2012_0F,Autodesk Product Design Suite for Education 2012
-85774DES_ACA_2012_0F,Autodesk Design Academy 2012
-85776MAP_2012_0F,AutoCAD Map 3D 2012
-85777RSA_2012_0F,Autodesk Robot Structural Analysis 2012
-85778RSAPRO_2012_0F,Autodesk Robot Structural Analysis Professional 2012
-85779PLNT3D_2012_0F,AutoCAD Plant 3D 2012
-85780PNID_2012_0F,AutoCAD P&ID 2012
-85781INVPUB_2012_0F,Autodesk Inventor Publisher 2012
-85783DSSTD_2012_0F,Autodesk Design Suite Standard 2012
-85784DSPRM_2012_0F,Autodesk Design Suite Premium 2012
-85785PDSPRM_2012_0F,Autodesk Plant Design Suite Premium 2012
-85786PDSADV_2012_0F,Autodesk Plant Design Suite Ultimate 2012
-85787BDSPRM_2012_0F,Autodesk Building Design Suite Premium 2012
-85787BDSPRM_F,Autodesk Building Design Suite Premium Package
-85788BDSADV_2012_0F,Autodesk Building Design Suite Ultimate 2012
-85788BDSADV_F,Autodesk Building Design Suite Ultimate Package
-85789FDSPRM_2012_0F,Autodesk Factory Design Suite Premium 2012
-85790FDSADV_2012_0F,Autodesk Factory Design Suite Ultimate 2012
-85791REVITS_2012_0F,AutoCAD Revit Architecture Suite 2012
-85792REVSU_2012_0F,AutoCAD Revit Structure Suite 2012
-85793REVSYP_2012_0F,AutoCAD Revit MEP Suite 2012
-85794PDSS_2012_0F,Autodesk Product Design Suite Standard 2012
-85795PDSP_2012_0F,Autodesk Product Design Suite Premium 2012
-85796PDSU_2012_0F,Autodesk Product Design Suite Ultimate 2012
-85797BDSS_2012_0F,Autodesk Building Design Suite Standard 2012
-85797BDSS_F,Autodesk Building Design Suite Standard Package
-85798IDSU_2012_0F,Autodesk Infrastructure Design Suite Ultimate 2012
-85799IDSP_2012_0F,Autodesk Infrastructure Design Suite Premium 2012
-85800IDSS_2012_0F,Autodesk Infrastructure Design Suite Standard 2012
-85801DSADV_2012_0F,Autodesk Design Suite Ultimate 2012
-85802PLTDSS_2012_0F,Autodesk Plant Design Suite Standard 2012
-85804FDSS_2012_0F,Autodesk Factory Design Suite Standard 2012
-85805FDSS_F,Autodesk Factory Design Suite Standard Package
-85806ENCSU_2012_0F,Autodesk Entertainment Creation Suite Ultimate 2012
-85807ENCSU_F,Autodesk Entertainment Creation Suite Ultimate Package
-85808ACDLTC_2012_0F,AutoCAD LT Civil Suite 2012
-85810IDSU_F,Autodesk Infrastructure Design Suite Ultimate Package
-85812IDSP_F,Autodesk Infrastructure Design Suite Premium Package
-85813PDSS_F,Autodesk Product Design Suite Standard Package
-85814PDSP_F,Autodesk Product Design Suite Premium Package
-85815PDSU_F,Autodesk Product Design Suite Ultimate Package
-85816MFAA_2012_0F,Autodesk Moldflow Adviser Advanced 2012
-85817MFCD_2012_0F,Autodesk Moldflow CAD Doctor 2012
-85818MFAD_2012_0F,Autodesk Moldflow Adviser Design 2012
-85819MFAM_2012_0F,Autodesk Moldflow Adviser Manufacturing 2012
-85820MFDLC_2012_0F,Autodesk Moldflow Design Link for CATIA V5 2012
-85821MFDLP_2012_0F,Autodesk Moldflow Design Link for Parasolid 2012
-85822MFDLPE_2012_0F,Autodesk Moldflow Design Link for Pro/ENGINEER 2012
-85823MFIA_2012_0F,Autodesk Moldflow Insight Advanced 2012
-85824MFIP_2012_0F,Autodesk Moldflow Insight Performance 2012
-85825MFIB_2012_0F,Autodesk Moldflow Insight Basic 2012
-85826MFS_2012_0F,Autodesk Moldflow Synergy 2012
-85827UTLDESN_2012_0F,Autodesk Utility Design 2012
-85828ALSK_2012_0F,Autodesk SketchBook Designer 2012
-85830CIV3D_2012_0F,AutoCAD Civil 3D 2012
-85831MRSTND_2012_0F,mental ray Standalone 2012
-85833AQTO_2012_0F,Autodesk Quantity Takeoff 2012
-85834AQTO_F,Autodesk Quantity Takeoff Package
-85837NAVSIM_2012_0F,Autodesk Navisworks Simulate 2012
-85838NAVSIM_F,Autodesk NavisWorks Simulate Package
-85839NAVMAN_2012_0F,Autodesk Navisworks Manage 2012
-85840ECOA_2012_0F,Autodesk Ecotect Analysis 2012
-85841ARDES_2012_0F,AutoCAD Raster Design 2012
-85842GMCADC_2012_0F,Autodesk GM CAD Convertors 2012
-85843PCOFFI_2012_0F,Autodesk Vault Office 2012
-85844IMS_2012_0F,Autodesk Infrastructure Map Server 2012
-85846INVPROSA_2012_0F,Autodesk Inventor Professional 2012
-85847SHOWPRO_2012_0F,Autodesk Showcase Professional 2012
-85849INVOEM_2012_0F,Autodesk Inventor OEM 2012
-85850MAP3DE_2012_0F,AutoCAD Map 3D Enterprise 2012
-85852RTRTCL_2012_0F,Autodesk Real-Time Ray Tracing Cluster 2012
-85853ACD_2012_0F,Autodesk Vault Base Server 2012
-85854OSPRO_2012_0F,Autodesk Opticore Studio Professional 2012
-85856VTCAEC_2012_0F,Autodesk Vault Collaboration AEC 2012
-85857MAYA_2013_0F,Autodesk Maya 2013
-85857MAYAMMR1_2013_0F,Autodesk Maya 2013 Mental Ray 1
-85859TRTLS_2012_0F,Turtle For Maya Standard 2012
-85860TRTLP_2012_0F,Turtle For Maya Premium 2012
-85860TRTLPB_2012_0F,Turtle For Maya Premium 2012
-85860TRTLPB_F,Turtle For Maya Premium Package
-85862REVIT_2013_0F,Autodesk Revit Architecture 2013
-85864RVTMPB_2013_0F,Autodesk Revit MEP 2013
-85866REVITST_2013_0F,Autodesk Revit Structure 2013
-85868KYNGMS_2012_0F,Autodesk Kynapse 2012
-85869MBXPRO_2013_0F,Autodesk Mudbox 2013
-85871ACD_2013_0F,AutoCAD 2013
-85872ACDLT_2013_0F,AutoCAD LT 2013
-85873INVETO_2012_0F,Autodesk Inventor Engineer-to-Order Series 2012
-85875ACDMAC_2012_0F,AutoCAD for Mac 2012
-85877INTSER_2012_0F,Autodesk Inventor Engineer-to-Order Server 2012
-85881AUTOST_2013_0F,Autodesk Alias Automotive 2013
-85882INFMDR_2012_0F,Autodesk Infrastructure Modeler 2012
-85883ARCHDESK_2013_0F,AutoCAD Architecture 2013
-85885AMECH_PP_2013_0F,AutoCAD Mechanical 2013
-85887BLDSYS_2013_0F,AutoCAD MEP 2013
-85889ECSCAD_2013_0F,AutoCAD ecscad 2013
-85890ACAD_E_2013_0F,AutoCAD Electrical 2013
-858923DSMAX_2013_0F,Autodesk 3ds Max 2013
-85893MAXDES_2013_0F,Autodesk 3ds Max Design 2013
-85895SURFST_2013_0F,Autodesk Alias Surface 2013
-85896DESNST_2013_0F,Autodesk Alias Design 2013
-85897T1MF_2012_0F,T1 Enterprise Multi-flex 2012
-85899T1MFPV_2012_0F,T1 Enterprise Multi-flex Prior Version 2012
-85902SCFD_2012_0F,Autodesk Simulation CFD 2012
-85903SCFDA_2012_0F,Autodesk Simulation CFD 2012 Advanced
-85904SCACIS_2012_0F,Autodesk Simulation CFD 2012 Connection for ACIS
-85905SCCV5_2012_0F,Autodesk Simulation CFD 2012 Connection for Catia V5
-85906SCCOC_2012_0F,Autodesk Simulation CFD 2012 Connection for CoCreate
-85907SCFDCD_2012_0F,Autodesk Simulation CFD 2012 Connection for Discrete
-85908SCFDCI_2012_0F,Autodesk Simulation CFD 2012 Connection for Inventor
-85909SCFDNX_2012_0F,Autodesk Simulation CFD 2012 Connection for NX
-85910SCFDP_2012_0F,Autodesk Simulation CFD 2012 Connection for Parasolid
-85911SCPROE_2012_0F,Autodesk Simulation CFD 2012 Connection for Pro/ENGINEER
-85912SCFDCR_2012_0F,Autodesk Simulation CFD 2012 Connection for Revit
-85913SCFDSE_2012_0F,Autodesk Simulation CFD 2012 Connection for SolidEdge
-85914SCFDSW_2012_0F,Autodesk Simulation CFD 2012 Connection for SolidWorks
-85915SCFDSC_2012_0F,Autodesk Simulation CFD 2012 Connection for SpaceClaim
-85916SCDSE_2012_0F,Autodesk Simulation CFD 2012 Design Study Environment
-85917SCFDM_2012_0F,Autodesk Simulation CFD 2012 Motion
-85918MXECSP_2013_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2013
-85920MXECS_2013_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2013
-85922AAA_2013_0F,Autodesk Animation Academy 2013
-85926ENCSU_2013_0F,Autodesk Entertainment Creation Suite Ultimate 2013
-85928MYECSP_2013_0F,Autodesk Maya Entertainment Creation Suite Premium 2013
-85930MYECS_2013_0F,Autodesk Maya Entertainment Creation Suite Standard 2013
-85932SIECS_2013_0F,Autodesk Softimage Entertainment Creation Suite Standard 2013
-85934SFTIM_2013_0F,Autodesk Softimage 2013
-85934SFTIMSIB_2013_0F,Autodesk Softimage 2013 SIBatch
-85936MOBPRO_2013_0F,Autodesk MotionBuilder 2013
-85937SMKMAC_2013_0F,Autodesk Smoke 2013 for Mac OS X
-85937SMKMACBRN_2013_0F,Autodesk Smoke 2013 for Mac OS X Burn
-85937SMKMACWG_2013_0F,Autodesk Smoke 2013 for Mac OS X Wiretap Gateway
-85940ASMES_2013_0F,Autodesk Simulation Mechanical 2013
-85942ASPRO_2013_0F,Autodesk Simulation Multiphysics 2013
-85943STRDET_2013_0F,AutoCAD Structural Detailing 2013
-85946BDSPRM_2013_0F,Autodesk Building Design Suite Premium 2013
-85947BDSS_2013_0F,Autodesk Building Design Suite Standard 2013
-85948BDSADV_2013_0F,Autodesk Building Design Suite Ultimate 2013
-85949SHOWPRO_2013_0F,Autodesk Showcase Professional 2013
-85950RVT_2013_0F,Autodesk Revit 2013
-85952ARDES_2013_0F,AutoCAD Raster Design 2013
-85954REVITS_2013_0F,AutoCAD Revit Architecture Suite 2013
-85955REVSYP_2013_0F,AutoCAD Revit MEP Suite 2013
-85956SHOWCASE_2013_0F,Autodesk Showcase 2013
-85957REVSU_2013_0F,AutoCAD Revit Structure Suite 2013
-85958INVLTS_2013_0F,AutoCAD Inventor LT Suite 2013
-85959INVETO_2013_0F,Autodesk Inventor Engineer-to-Order Series 2013
-85961ESME_2013_0F,Autodesk Product Design Suite for Education 2013
-85962PDSP_2013_0F,Autodesk Product Design Suite Premium 2013
-85963PDSU_2013_0F,Autodesk Product Design Suite Ultimate 2013
-85964PDSS_2013_0F,Autodesk Product Design Suite Standard 2013
-85965FDSPRM_2013_0F,Autodesk Factory Design Suite Premium 2013
-85966FDSS_2013_0F,Autodesk Factory Design Suite Standard 2013
-85967FDSADV_2013_0F,Autodesk Factory Design Suite Ultimate 2013
-85969DSPRM_2013_0F,AutoCAD Design Suite Premium 2013
-85970DSSTD_2013_0F,AutoCAD Design Suite Standard 2013
-85971DSADV_2013_0F,AutoCAD Design Suite Ultimate 2013
-85974ESCSE_2013_0F,Autodesk Infrastructure Design Suite for Education 2013
-85975RSAPRO_2013_0F,Autodesk Robot Structural Analysis Professional 2013
-85976CIV3D_2013_0F,AutoCAD Civil 3D 2013
-85977PNID_2013_0F,AutoCAD P&ID 2013
-85978PLNT3D_2013_0F,AutoCAD Plant 3D 2013
-85979INVPUB_2013_0F,Autodesk Inventor Publisher 2013
-85981MAP_2013_0F,AutoCAD Map 3D 2013
-85982MAP3DE_2013_0F,AutoCAD Map 3D Enterprise 2013
-85983VLTC_2013_0F,Autodesk 360 Vault Collaboration 2013
-85984VTCAEC_2013_0F,Autodesk 360 Vault Collaboration AEC 2013
-85986PCOFFI_2013_0F,Autodesk 360 Vault Office 2013
-85987VLTM_2013_0F,Autodesk 360 Vault Professional 2013
-85988VLTWG_2013_0F,Autodesk 360 Vault Workgroup 2013
-85989ACDMAC_2013_0F,AutoCAD for Mac 2013
-85990ALSK_2013_0F,Autodesk SketchBook Designer 2013
-85991ACDLTC_2013_0F,AutoCAD LT Civil Suite 2013
-85992IDSP_2013_0F,Autodesk Infrastructure Design Suite Premium 2013
-85993IDSS_2013_0F,Autodesk Infrastructure Design Suite Standard 2013
-85994IDSU_2013_0F,Autodesk Infrastructure Design Suite Ultimate 2013
-85995PDSPRM_2013_0F,Autodesk Plant Design Suite Premium 2013
-85996PLTDSS_2013_0F,Autodesk Plant Design Suite Standard 2013
-85997PDSADV_2013_0F,Autodesk Plant Design Suite Ultimate 2013
-85998INVNTOR_2013_0F,Autodesk Inventor 2013
-85999INVFPR_2013_0F,Autodesk Inventor Factory Premium 2013
-86000INVFAD_2013_0F,Autodesk Inventor Factory Ultimate 2013
-86001INVPROSA_2013_0F,Autodesk Inventor Professional 2013
-86002INVOEM_2013_0F,Autodesk Inventor OEM 2013
-86004INVLT_2013_0F,Autodesk Inventor LT 2013
-86005RSA_2013_0F,Autodesk Robot Structural Analysis 2013
-86006MFAM_2013_0F,Autodesk Simulation Moldflow Adviser Premium 2013
-86007MFAA_2013_0F,Autodesk Simulation Moldflow Adviser Ultimate 2013
-86008MFAD_2013_0F,Autodesk Simulation Moldflow Adviser Standard 2013
-86009MFCD_2013_0F,Autodesk Simulation Moldflow CAD Doctor 2013
-86010MFDL_2013_0F,Autodesk Simulation Moldflow Design Link 2013
-86012MFS_2013_0F,Autodesk Simulation Moldflow Synergy 2013
-86013INFMDR_2013_0F,Autodesk Infrastructure Modeler 2013
-86014IMS_2013_0F,Autodesk Infrastructure Map Server 2013
-86019MRSTND_2013_0F,mental ray Standalone 2013
-86021ACDLTM_2013_0F,AutoCAD LT for Mac 2013
-86022NAVMAN_2013_0F,Autodesk Navisworks Manage 2013
-86023NAVSIM_2013_0F,Autodesk Navisworks Simulate 2013
-86024AQTO_2013_0F,Autodesk Quantity Takeoff 2013
-86025SCFD_2013_0F,Autodesk Simulation CFD 2013
-86027UTLDESN_2013_0F,AutoCAD Utility Design 2013
-86028SCFDA_2013_0F,Autodesk Simulation CFD 2013 Advanced
-86030SCFDNX_2013_0F,Autodesk Simulation CFD 2013 Connection for NX
-86032SCPROE_2013_0F,Autodesk Simulation CFD 2013 Connection for Pro/E
-86034SCDSE_2013_0F,Autodesk Simulation CFD 2013 Design Study Environment
-86036SCFDM_2013_0F,Autodesk Simulation CFD 2013 Motion
-86038MFIP_2013_0F,Autodesk Simulation Moldflow Insight Premium 2013
-86040MFIA_2013_0F,Autodesk Simulation Moldflow Insight Ultimate 2013
-86042MFIB_2013_0F,Autodesk Simulation Moldflow Insight Standard 2013
-86043ECSPE_2013_0F,Autodesk Entertainment Creation Suite Premium 2013 Exclusives
-86043TRTLPB_2013_0F,Turtle For Maya Premium 2013
-86044ECSSE_2013_0F,Autodesk Entertainment Creation Suite Standard 2013 Exclusives
-86045SCACIS_2013_0F,Autodesk Simulation CFD 2013 Connection for ACIS
-86047SCFDP_2013_0F,Autodesk Simulation CFD 2013 Connection for Parasolid
-86049CADMEP_2013_0F,Autodesk Fabrication CADmep 2013
-86056SIMDFM_2013_0F,Autodesk Simulation DFM 2013
-86058MAYA_2014_0F,Autodesk Maya 2014
-86058MAYAMMR1_2014_0F,Autodesk Maya Mental Ray 1 2014
-86059T1MF_2013_0F,T1 Enterprise Multi-flex 2013
-86061T1MFPV_2013_0F,T1 Enterprise Multi-flex Prior Version 2013
-86063ACD_2014_0F,AutoCAD 2014
-86064ACDLT_2014_0F,AutoCAD LT 2014
-86067REVITS_2014_0F,AutoCAD Revit Architecture Suite 2014
-86068RVTLTS_2014_0F,AutoCAD Revit LT Suite 2014
-86069REVSYP_2014_0F,AutoCAD Revit MEP Suite 2014
-86070REVSU_2014_0F,AutoCAD Revit Structure Suite 2014
-86071BDSPRM_2014_0F,Autodesk Building Design Suite Premium 2014
-86072BDSS_2014_0F,Autodesk Building Design Suite Standard 2014
-86073BDSADV_2014_0F,Autodesk Building Design Suite Ultimate 2014
-86074STRDET_2014_0F,AutoCAD Structural Detailing 2014
-86075RVT_2014_0F,Autodesk Revit 2014
-86076REVIT_2014_0F,Autodesk Revit Architecture 2014
-86077RVTLT_2014_0F,Autodesk Revit LT 2014
-86078RVTMPB_2014_0F,Autodesk Revit MEP 2014
-86079REVITST_2014_0F,Autodesk Revit Structure 2014
-860803DSMAX_2014_0F,Autodesk 3ds Max 2014
-86081MAXDES_2014_0F,Autodesk 3ds Max Design 2014
-86082AUTOST_2014_0F,Autodesk Alias Automotive 2014
-86083DESNST_2014_0F,Autodesk Alias Design 2014
-86084SURFST_2014_0F,Autodesk Alias Surface 2014
-86086RSAPRO_2014_0F,Autodesk Robot Structural Analysis Professional 2014
-86087ENCSU_2014_0F,Autodesk Entertainment Creation Suite Ultimate 2014
-86090MXECSP_2014_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2014
-86090SFTIMSIB_2014_0F,Autodesk Softimage 2014 SIBatch
-86091MXECS_2014_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2014
-86092MYECS_2014_0F,Autodesk Maya Entertainment Creation Suite Standard 2014
-86093MYECSP_2014_0F,Autodesk Maya Entertainment Creation Suite Premium 2014
-86095TRTLPB_2014_0F,Turtle For Maya Premium 2014
-86099MOBPRO_2014_0F,Autodesk MotionBuilder 2014
-86100MBXPRO_2014_0F,Autodesk Mudbox 2014
-86101MRSTND_2014_0F,mental ray Standalone 2014
-86102SFTIM_2014_0F,Autodesk Softimage 2014 
-86104DES_ACA_2014_0F,Autodesk Design Academy 2014
-86106PLTDSS_2014_0F,Autodesk Plant Design Suite Standard 2014
-86107PDSADV_2014_0F,Autodesk Plant Design Suite Ultimate 2014
-86108PDSPRM_2014_0F,Autodesk Plant Design Suite Premium 2014
-86109PNID_2014_0F,AutoCAD P&ID 2014
-86110PLNT3D_2014_0F,AutoCAD Plant 3D 2014
-86112EMS_2014_0F,Autodesk Education Master Suite 2014
-86114ASPRO_2014_0F,Autodesk Simulation Multiphysics 2014
-86115ASMES_2014_0F,Autodesk Simulation Mechanical 2014
-86116ASMES_F,Autodesk Simulation Mechanical Package
-86117SHOWCASE_2014_0F,Autodesk Showcase 2014 
-86118SHOWPRO_2014_0F,Autodesk Showcase Professional 2014
-86119DSPRM_2014_0F,AutoCAD Design Suite Premium 2014
-86120DSSTD_2014_0F,AutoCAD Design Suite Standard 2014
-86121DSADV_2014_0F,AutoCAD Design Suite Ultimate 2014
-86122ALSK_2014_0F,Autodesk Alias Sketch 2014
-86123IDSP_2014_0F,Autodesk Infrastructure Design Suite Premium 2014
-86124IDSS_2014_0F,Autodesk Infrastructure Design Suite Standard 2014
-86125IDSU_2014_0F,Autodesk Infrastructure Design Suite Ultimate 2014
-86126UTLDESN_2014_0F,Autodesk AutoCAD Utility Design 2014
-86127INVLTS_2014_0F,AutoCAD Inventor LT Suite 2014
-86128FDSPRM_2014_0F,Autodesk Factory Design Suite Premium 2014
-86129FDSS_2014_0F,Autodesk Factory Design Suite Standard 2014
-86130FDSADV_2014_0F,Autodesk Factory Design Suite Ultimate 2014
-86131PDSP_2014_0F,Autodesk Product Design Suite Premium 2014
-86132PDSS_2014_0F,Autodesk Product Design Suite Standard 2014
-86133PDSU_2014_0F,Autodesk Product Design Suite Ultimate 2014
-86135INVETO_2014_0F,Autodesk Inventor Engineer-to-Order Series 2014
-86136INTSER_2014_0F,Autodesk Inventor Engineer-to-Order Server 2014
-86137ARCHDESK_2014_0F,AutoCAD Architecture 2014
-86138AMECH_PP_2014_0F,AutoCAD Mechanical 2014
-86139BLDSYS_2014_0F,AutoCAD MEP 2014
-86140ARDES_2014_0F,AutoCAD Raster Design 2014
-86141SCFD_2014_0F,Autodesk Simulation CFD 2014
-86142SCFDA_2014_0F,Autodesk Simulation CFD 2014 Advanced
-86144SCFDNX_2014_0F,Autodesk Simulation CFD 2014 Connection for NX
-86145SCFDP_2014_0F,Autodesk Simulation CFD 2014 Connection for Parasolid
-86146SCPROE_2014_0F,Autodesk Simulation CFD 2014 Connection for Pro/E
-86147SCDSE_2014_0F,Autodesk Simulation CFD 2014 Design Study Environment
-86148SCFDM_2014_0F,Autodesk Simulation CFD 2014 Motion
-86149ECSCAD_2014_0F,AutoCAD ecscad 2014
-86150ACAD_E_2014_0F,AutoCAD Electrical 2014
-86151SIMDFM_2014_0F,Autodesk Simulation DFM 2014
-86152MFAA_2014_0F,Autodesk Simulation Moldflow Adviser Ultimate 2014
-86153MFAM_2014_0F,Autodesk Simulation Moldflow Adviser Premium 2014
-86154MFAD_2014_0F,Autodesk Simulation Moldflow Adviser Standard 2014
-86155MFIP_2014_0F,Autodesk Simulation Moldflow Insight Premium 2014
-86156MFIA_2014_0F,Autodesk Simulation Moldflow Insight Ultimate 2014
-86157MFIB_2014_0F,Autodesk Simulation Moldflow Insight Standard 2014
-86158MFS_2014_0F,Autodesk Simulation Moldflow Synergy 2014
-86159INVNTOR_2014_0F,Autodesk Inventor 2014
-86161INVLT_2014_0F,Autodesk Inventor LT 2014
-86163INVPROSA_2014_0F,Autodesk Inventor Professional 2014
-86166NAVMAN_2014_0F,Autodesk Navisworks Manage 2014
-86167VLTC_2014_0F,Autodesk Vault Collaboration 2014
-86168VTCAEC_2014_0F,Autodesk Vault Collaboration AEC 2014
-86169PCOFFI_2014_0F,Autodesk Vault Office 2014
-86170VLTM_2014_0F,Autodesk Vault Professional 2014
-86171VLTWG_2014_0F,Autodesk Vault Workgroup 2014
-86172NAVSIM_2014_0F,Autodesk Navisworks Simulate 2014
-86173CIV3D_2014_0F,AutoCAD Civil 3D 2014
-86174MAP_2014_0F,AutoCAD Map 3D 2014
-86175INFMDR_2014_0F,Autodesk InfraWorks 2014
-86176IMS_2014_0F,Autodesk Infrastructure Map Server 2014
-86178CAMDCT_2014_0F,Autodesk Fabrication CAMduct 2014
-86180INVPUB_2014_0F,Autodesk Inventor Publisher 2014
-86181CAMLTE_2014_0F,Autodesk Fabrication CAMduct Components 2014
-86184CADMEP_2014_0F,Autodesk Fabrication CADmep 2014
-86185ESTMEP_2014_0F,Autodesk Fabrication ESTmep 2014
-86187RMNTRY_2014_0F,Autodesk Fabrication RemoteEntry 2014
-86189TRCKIT_2014_0F,Autodesk Fabrication Tracker 2014
-86191T1MF_2014_0F,T1 Enterprise Multi-flex 2014
-86193T1MFPV_2014_0F,T1 Enterprise Multi-flex Prior Version 2014
-86197IMRH_2014_0F,Autodesk InfraWorks Roads & Highways 2014
-86198FDU_2014_0F,Autodesk Factory Design Utilities 2014
-86200SMKMAC_2014_0F,Autodesk Smoke 2014 for Mac OS X
-86200SMKMACBRN_2014_0F,Autodesk Smoke 2014 for Mac OS X Burn
-86200SMKMACWG_2014_0F,Autodesk Smoke Wiretap Gateway 2014
-86201INVPUB_2013_1F,Autodesk Inventor Publisher 2013 R1
-86202INVPUB_F,Autodesk Inventor Publisher Package
-86207VRDDES_2014_0F,Autodesk VRED Design 2014
-86208VRDPRO_2014_0F,Autodesk VRED Professional 2014
-86213MAYA_2015_0F,Autodesk Maya 2015
-86213MAYAMMR1_2015_0F,Autodesk Maya 2015 Mental Ray 1
-86214TRTLPB_2015_0F,Turtle for Maya 2015
-86221AUTOST_2015_0F,Autodesk Alias Automotive 2015
-86222DESNST_2015_0F,Autodesk Alias Design 2015
-86223SURFST_2015_0F,Autodesk Alias Surface 2015
-86227DSPRM_2015_0F,Autodesk AutoCAD Design Suite Premium 2015
-86228DSSTD_2015_0F,Autodesk AutoCAD Design Suite Standard 2015
-86229DSADV_2015_0F,Autodesk AutoCAD Design Suite Ultimate 2015
-86232ACDLTC_2015_0F,Autodesk AutoCAD LT Civil Suite 2015
-86233INVLTS_2015_0F,Autodesk AutoCAD Inventor LT Suite 2015
-86234REVITS_2015_0F,Autodesk AutoCAD Revit Architecture Suite 2015
-86235RVTLTS_2015_0F,Autodesk AutoCAD Revit LT Suite 2015
-86236REVSYP_2015_0F,Autodesk AutoCAD Revit MEP Suite 2015
-86237REVSU_2015_0F,Autodesk AutoCAD Revit Structure Suite 2015
-86238BDSPRM_2015_0F,Autodesk Building Design Suite Premium 2015
-86241MXECSP_2015_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2015
-86242MXECS_2015_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2015
-86243ENCSU_2015_0F,Autodesk Entertainment Creation Suite Ultimate 2015
-86244BDSS_2015_0F,Autodesk Building Design Suite Standard 2015
-86245BDSADV_2015_0F,Autodesk Building Design Suite Ultimate 2015
-86247EMS_2015_0F,Autodesk Education Master Suite 2015
-86248ESEC_2015_0F,Autodesk Entertainment Creation Suite For Education 2015
-86249FDSPRM_2015_0F,Autodesk Factory Design Suite Premium 2015
-86250FDSS_2015_0F,Autodesk Factory Design Suite Standard 2015
-86251FDSADV_2015_0F,Autodesk Factory Design Suite Ultimate 2015
-86252IDSP_2015_0F,Autodesk Infrastructure Design Suite Premium 2015
-86253IDSS_2015_0F,Autodesk Infrastructure Design Suite Standard 2015
-86254IDSU_2015_0F,Autodesk Infrastructure Design Suite Ultimate 2015
-86255INVETO_2015_0F,Autodesk Inventor Engineer-to-Order Series 2015
-86257MYECS_2015_0F,Autodesk Maya Entertainment Creation Suite Standard 2015
-86258PDSPRM_2015_0F,Autodesk Plant Design Suite Premium 2015
-86259PLTDSS_2015_0F,Autodesk Plant Design Suite Standard 2015
-86260PDSADV_2015_0F,Autodesk Plant Design Suite Ultimate 2015
-86261ESME_2015_0F,Autodesk Product Design Suite for Education 2015
-862623DSMAX_2015_0F,Autodesk 3ds Max 2015
-86263MAXDES_2015_0F,Autodesk 3ds Max Design 2015
-86264MOBPRO_2015_0F,Autodesk MotionBuilder 2015
-86265MBXPRO_2015_0F,Autodesk Mudbox 2015
-86266PDSP_2015_0F,Autodesk Product Design Suite Premium 2015
-86267PDSS_2015_0F,Autodesk Product Design Suite Standard 2015
-86268PDSU_2015_0F,Autodesk Product Design Suite Ultimate 2015
-86269SFTIM_2015_0F,Autodesk Softimage 2015
-86269SFTIMSIB_2015_0F,Autodesk Softimage 2015 SIBatch
-86270SIECS_2015_0F,Autodesk Softimage Entertainment Creation Suite Standard 2015
-86271MRSTND_2015_0F,mental ray Standalone 2015
-86273RVT_2015_0F,Autodesk Revit 2015
-86274REVIT_2015_0F,Autodesk Revit Architecture 2015
-86275RVTLT_2015_0F,Autodesk Revit LT 2015
-86276RVTMPB_2015_0F,Autodesk Revit MEP 2015
-86277REVITST_2015_0F,Autodesk Revit Structure 2015
-86279AMECH_PP_2015_0F,Autodesk AutoCAD Mechanical 2015
-86280STRDET_2015_0F,Autodesk AutoCAD Structural Detailing 2015
-86281CADMEP_2015_0F,Autodesk Fabrication CADmep 2015
-86283CAMDCT_2015_0F,Autodesk Fabrication CAMduct 2015
-86284CAMLTE_2015_0F,Autodesk Fabrication CAMduct Components 2015
-86285ESTMEP_2015_0F,Autodesk Fabrication ESTmep 2015
-86286RMNTRY_2015_0F,Autodesk Fabrication RemoteEntry 2015
-86287TRCKIT_2015_0F,Autodesk Fabrication Tracker 2015
-86288ARCHDESK_2015_0F,Autodesk AutoCAD Architecture 2015
-86290ACAD_E_2015_0F,Autodesk AutoCAD Electrical 2015
-86292BLDSYS_2015_0F,Autodesk AutoCAD MEP 2015
-86293ACDLT_2015_0F,Autodesk AutoCAD LT 2015
-86294ARDES_2015_0F,Autodesk AutoCAD Raster Design 2015
-86295ACD_2015_0F,Autodesk AutoCAD 2015
-86296PLNT3D_2015_0F,Autodesk AutoCAD Plant 3D 2015
-86297RSAPRO_2015_0F,Autodesk Robot Structural Analysis Professional 2015
-86298PNTLAY_2014_0F,Autodesk Point Layout 2014
-86301PNID_2015_0F,Autodesk AutoCAD P&ID 2015
-86304PCOFFI_2015_0F,Autodesk Vault Office 2015
-86305VLTM_2015_0F,Autodesk Vault Professional 2015
-86306VLTWG_2015_0F,Autodesk Vault Workgroup 2015
-86314INVNTOR_2015_0F,Autodesk Inventor 2015
-86315INTSER_2015_0F,Autodesk Inventor Engineer-to-Order Server 2015
-86316INVLT_2015_0F,Autodesk Inventor LT 2015
-86317INVOEM_2015_0F,Autodesk Inventor OEM 2015
-86318INVPROSA_2015_0F,Autodesk Inventor Professional 2015
-86319SIMDFM_2015_0F,Autodesk Simulation DFM 2015
-86320MFAM_2015_0F,Autodesk Simulation Moldflow Adviser Premium 2015
-86321MFAD_2015_0F,Autodesk Simulation Moldflow Adviser Standard 2015
-86322MFAA_2015_0F,Autodesk Simulation Moldflow Adviser Ultimate 2015
-86323MFIP_2015_0F,Autodesk Simulation Moldflow Insight Premium 2015
-86324MFIB_2015_0F,Autodesk Simulation Moldflow Insight Standard 2015
-86325MFIA_2015_0F,Autodesk Simulation Moldflow Insight Ultimate 2015
-86326MFS_2015_0F,Autodesk Simulation Moldflow Synergy 2015
-86327MFCD_2015_0F,CADdoctor for Autodesk Simulation 2015
-86328SBRDES_2014_0F,Autodesk Structural Bridge Design 2014
-86328SBRDES_2016_0F,Autodesk Structural Bridge Design 2016
-86333VEHTRK_2014_0F,Autodesk Vehicle Tracking 2014
-86335FDU_2015_0F,Autodesk Factory Design Utilities 2015
-86336SCFD_2015_0F,Autodesk Simulation CFD 2015
-86337SCFDA_2015_0F,Autodesk Simulation CFD 2015 Advanced
-86338SCACIS_2015_0F,Autodesk Simulation CFD 2015 Connection for ACIS
-86339SCFDNX_2015_0F,Autodesk Simulation CFD 2015 Connection for NX
-86340SCFDP_2015_0F,Autodesk Simulation CFD 2015 Connection for Parasolid
-86341SCPROE_2015_0F,Autodesk Simulation CFD 2015 Connection for Pro/E
-86342SCDSE_2015_0F,Autodesk Simulation CFD 2015 Design Study Environment
-86343SCFDM_2015_0F,Autodesk Simulation CFD 2015 Motion
-86344ACMPAN_2015_0F,Autodesk Simulation Composite Analysis 2015
-86346ACMPDS_2015_0F,Autodesk Simulation Composite Design 2015
-86348ASMES_2015_0F,Autodesk Simulation Mechanical 2015
-86350NAVMAN_2015_0F,Autodesk Navisworks Manage 2015
-86351NAVSIM_2015_0F,Autodesk Navisworks Simulate 2015
-86352SBPNL_2015_0F,Autodesk SketchBook Pro 2015
-86354CIV3D_2015_0F,Autodesk AutoCAD Civil 3D 2015
-86355MAP_2015_0F,Autodesk AutoCAD Map 3D 2015
-86356UTLDESN_2015_0F,Autodesk AutoCAD Utility Design 2015
-86359INFMDR_2015_0F,Autodesk InfraWorks 2015
-86366VRDPRS_2015_0F,Autodesk VRED Presenter 2015
-86367VRDPRO_2015_0F,Autodesk VRED Professional 2015
-86369SHOWCASE_2015_0F,Autodesk Showcase 2015
-86371ALAUST_2015_0F,Autodesk Alias AutoStudio 2015
-86373ADSTCP_2015_0F,Autodesk Advance Concrete 2015
-86375ADSTPR_2015_0F,Autodesk Advance Steel 2015
-86377SMKMAC_2015_0F,Autodesk Smoke 2015 for Mac OS X
-86377SMKMACBRN_2015_0F,Autodesk Smoke 2015 for Mac OS X Burn
-86377SMKMACWG_2015_0F,Autodesk Smoke Wiretap Gateway 2015
-86378VRDDES_2015_0F,Autodesk VRED Design 2015
-86379ADKVRD_2015_0F,Autodesk VRED 2015
-86380VRDSRV_2015_0F,Autodesk VRED Server 2015
-86381ASPACD_2015_0F,Autodesk Advance Steel 2015 with AutoCAD
-86383DCMVRD_2015_0F,Autodesk Display Cluster Module for Autodesk VRED Design 2015
-86384PNTLAY_2015_0F,Autodesk Point Layout 2015
-86385PNTLAY_F,Autodesk Point Layout Bundle
-86386RCMVRD_2015_0F,Autodesk Raytracing Cluster Module for Autodesk VRED 2015
-86388VEHTRK_2015_0F,Autodesk Vehicle Tracking 2015
-86390IW360P_2015_0F,Autodesk InfraWorks 360 2015
-86392INVHSM_2015_0F,Autodesk Inventor HSM 2015
-86394INHSMP_2015_0F,Autodesk Inventor HSM Pro 2015
-86396IW360C_2015_0F,Autodesk InfraWorks 360 - companion 2015
-863983DSMXS_2015_0F,Autodesk 3ds Max with SoftImage 2015
-86400MAYAS_2015_0F,Autodesk Maya with SoftImage 2015
-86402RECAP_2015_0F,Autodesk ReCap 2015
-86404HSMPRM_2015_0F,Autodesk HSMWorks Premium 2015
-86406HSMPRO_2015_0F,Autodesk HSMWorks Professional 2015
-86408T1MF_2015_0F,T1 Enterprise Multi-flex 2015
-86412T1MFPV_2015_0F,T1 Enterprise Multi-flex Prior Version 2015
-86414T1MFSB_2015_0F,T1 Enterprise Multi-flex Standard Bundle 2015
-86416T1MFPB_2015_0F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2015
-86417EMFEB_2015_0F,Enterprise Multi-Flex Enhanced Bundle 2015
-86419BRDGMD_2015_0F,Autodesk Bridge Module 2015
-86421GEOMOD_2015_0F,Autodesk Geotechnical Module 2015
-86423RFAMOD_2015_0F,Autodesk River and Flood Analysis Module 2015
-86427ALAUST_2016_0F,Autodesk Alias AutoStudio 2016
-86428DESNST_2016_0F,Autodesk Alias Design 2016
-86429SURFST_2016_0F,Autodesk Alias Surface 2016
-86430ATCIGM_2016_0F,Autodesk Alias TC Integrator for GM 2016
-86432DSADV_2016_0F,Autodesk AutoCAD Design Suite Ultimate 2016
-86435ENCSU_2016_0F,Autodesk Entertainment Creation Suite Ultimate 2016
-86436GMCADC_2016_0F,Autodesk GM CAD Convertors 2016
-86437MAYA_2016_0F,Autodesk Maya 2016
-86437MAYAMMR1_2016_0F,Autodesk Maya 2016 Mental Ray 1
-86438MYECS_2016_0F,Autodesk Maya Entertainment Creation Suite Standard 2016
-86439RSAPRO_2016_0F,Autodesk Robot Structural Analysis Professional 2016
-86440SBPNL_2016_0F,Autodesk SketchBook Pro 2016
-86441MAYAS_2016_0F,Autodesk Maya with SoftImage 2016
-86442IDSU_2016_0F,Autodesk Infrastructure Design Suite Ultimate 2016
-86443BDSADV_2016_0F,Autodesk Building Design Suite Ultimate 2016
-86444DSPRM_2016_0F,Autodesk AutoCAD Design Suite Premium 2016
-86445ACD_2016_0F,Autodesk AutoCAD 2016
-86446DSSTD_2016_0F,Autodesk AutoCAD Design Suite Standard 2016
-86447ACDLT_2016_0F,Autodesk AutoCAD LT 2016
-86448ACLTNL_2016_0F,Autodesk AutoCAD LT 2016 Flexible License
-86449RVTLTS_2016_0F,Autodesk AutoCAD Revit LT Suite 2016
-86451BDSPRM_2016_0F,Autodesk Building Design Suite Premium 2016
-86452BDSS_2016_0F,Autodesk Building Design Suite Standard 2016
-86453RVT_2016_0F,Autodesk Revit 2016
-86454REVIT_2016_0F,Autodesk Revit Architecture 2016
-86455RVTLT_2016_0F,Autodesk Revit LT 2016
-86456RVTMPB_2016_0F,Autodesk Revit MEP 2016
-86457REVITST_2016_0F,Autodesk Revit Structure 2016
-86459MRSTND_2016_0F,mental ray Standalone 2016
-86460MOBPRO_2016_0F,Autodesk MotionBuilder 2016
-86461MBXPRO_2016_0F,Autodesk Mudbox 2016
-86462PDSU_2016_0F,Autodesk Product Design Suite Ultimate 2016
-86464MXECS_2016_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2016
-86465REVITS_2016_0F,Autodesk AutoCAD Revit Architecture Suite 2016
-86466REVSYP_2016_0F,Autodesk AutoCAD Revit MEP Suite 2016
-86467REVSU_2016_0F,Autodesk AutoCAD Revit Structure Suite 2016
-86468IDSP_2016_0F,Autodesk Infrastructure Design Suite Premium 2016
-86469PDSPRM_2016_0F,Autodesk Plant Design Suite Premium 2016
-86470PDSADV_2016_0F,Autodesk Plant Design Suite Ultimate 2016
-864713DSMAX_2016_0F,Autodesk 3ds Max 2016
-864733DSMXS_2016_0F,Autodesk 3ds Max with SoftImage 2016
-86474ARDES_2016_0F,Autodesk AutoCAD Raster Design 2016
-86475FDSPRM_2016_0F,Autodesk Factory Design Suite Premium 2016
-86476FDSADV_2016_0F,Autodesk Factory Design Suite Ultimate 2016
-86477PDSP_2016_0F,Autodesk Product Design Suite Premium 2016
-86478AMECH_PP_2016_0F,Autodesk AutoCAD Mechanical 2016
-86479BLDSYS_2016_0F,Autodesk AutoCAD MEP 2016
-86480ARCHDESK_2016_0F,Autodesk AutoCAD Architecture 2016
-86481ACAD_E_2016_0F,Autodesk AutoCAD Electrical 2016
-86485INVLTS_2016_0F,Autodesk AutoCAD Inventor LT Suite 2016
-86487INTSER_2016_0F,Autodesk Inventor Engineer-to-Order Server 2016
-86490ADSTPR_2015_1F,Autodesk Advance Steel 2015_1
-86491FDU_2016_0F,Autodesk Factory Design Utilities 2016
-86492INVNTOR_2016_0F,Autodesk Inventor 2016
-86493INVHSM_2016_0F,Autodesk Inventor HSM 2016
-86494INHSMP_2016_0F,Autodesk Inventor HSM Pro 2016
-86495INVOEM_2016_0F,Autodesk Inventor OEM 2016
-86496INVLT_2016_0F,Autodesk Inventor LT 2016
-86497INVPROSA_2016_0F,Autodesk Inventor Professional 2016
-86502FDSS_2016_0F,Autodesk Factory Design Suite Standard 2016
-86503INVETO_2016_0F,Autodesk Inventor Engineer-to-Order Series 2016
-86506ASPACD_2016_0F,Autodesk Advance Steel 2016 with AutoCAD
-86507ADSTPR_2016_0F,Autodesk Advance Steel 2016
-86508IDSS_2016_0F,Autodesk Infrastructure Design Suite Standard 2016
-86509PLTDSS_2016_0F,Autodesk Plant Design Suite Standard 2016
-86511ACDMAC_2016_0F,Autodesk AutoCAD 2016 for Mac
-86512ACDLTM_2016_0F,Autodesk AutoCAD LT 2016 for Mac
-86513ACDLTC_2016_0F,Autodesk AutoCAD LT Civil Suite 2016
-86514CIV3D_2016_0F,Autodesk AutoCAD Civil 3D 2016
-86515ADSTCP_2016_0F,Autodesk Advance Concrete 2016
-86515MFCD_2016_0F,CADdoctor for Autodesk Simulation 2016
-86516ADKVRD_2016_0F,Autodesk VRED 2016
-86517MAP_2016_0F,Autodesk AutoCAD Map 3D 2016
-86517PLNT3D_2016_0F,Autodesk AutoCAD Plant 3D 2016
-86517PNID_2016_0F,Autodesk AutoCAD P&ID 2016
-86517UTLDESN_2016_0F,Autodesk AutoCAD Utility Design 2016
-86518DCMVRD_2016_0F,Autodesk Display Cluster Module for Autodesk VRED Design 2016
-86519CADMEP_2016_0F,Autodesk Fabrication CADmep 2016
-86520CAMDCT_2016_0F,Autodesk Fabrication CAMduct 2016
-86521CAMLTE_2016_0F,Autodesk Fabrication CAMduct Components 2016
-86522ESTMEP_2016_0F,Autodesk Fabrication ESTmep 2016
-86523RMNTRY_2016_0F,Autodesk Fabrication RemoteEntry 2016
-86524TRCKIT_2016_0F,Autodesk Fabrication Tracker 2016
-86525HSMPRM_2016_0F,Autodesk HSMWorks Premium 2016
-86526HSMPRO_2016_0F,Autodesk HSMWorks Professional 2016
-86529INFMDR_2016_0F,Autodesk InfraWorks 2016
-86530IW360C_2016_0F,Autodesk InfraWorks 360 - companion 2016
-86531IW360P_2016_0F,Autodesk InfraWorks 360 2016
-86532IMRH_2016_0F,Autodesk InfraWorks bundle â€“ Roads & Highways 2016
-86533INVPUB_2016_0F,Autodesk Inventor Publisher 2016
-86534NAVMAN_2016_0F,Autodesk Navisworks Manage 2016
-86535PNTLAY_2016_0F,Autodesk Point Layout 2016
-86537RCMVRD_2016_0F,Autodesk Raytracing Cluster Module for Autodesk VRED 2016
-86538RECAP_2016_0F,Autodesk ReCap 2016
-86540SCFD_2016_0F,Autodesk CFD 2016
-86541SCFDA_2016_0F,Autodesk CFD 2016 Advanced
-86542SCACIS_2016_0F,Autodesk Simulation CFD 2016 Connection for ACIS
-86543SCFDNX_2016_0F,Autodesk CFD 2016 Connection for NX
-86544SCFDP_2016_0F,Autodesk CFD 2016 Connection for Parasolid
-86545SCPROE_2016_0F,Autodesk CFD 2016 Connection for Pro ENGINEER
-86546SCDSE_2016_0F,Autodesk CFD 2016 Design Study Environment
-86547SCFDM_2016_0F,Autodesk CFD 2016 Motion
-86548ACMPAN_2016_0F,Autodesk Helius PFA 2016
-86549ACMPDS_2016_0F,Autodesk Helius Composite 2016
-86550SIMDFM_2016_0F,Autodesk Moldflow Design 2016
-86551ASMES_2016_0F,Autodesk Simulation Mechanical 2016
-86552MFAM_2016_0F,Autodesk Moldflow Adviser Premium 2016
-86553NAVSIM_2016_0F,Autodesk Navisworks Simulate 2016
-86554MFAD_2016_0F,Autodesk Moldflow Adviser Standard 2016
-86555MFIP_2016_0F,Autodesk Moldflow Insight Premium 2016
-86556MFIB_2016_0F,Autodesk Moldflow Insight Standard 2016
-86557MFIA_2016_0F,Autodesk Moldflow Insight Ultimate 2016
-86558MFS_2016_0F,Autodesk Moldflow Synergy 2016
-86561TSPRHN_2016_0F,Autodesk T-Splines Plug-in for Rhino 2016
-86562PCOFFI_2016_0F,Autodesk Vault Office 2016
-86563VLTM_2016_0F,Autodesk Vault Professional 2016
-86564VLTWG_2016_0F,Autodesk Vault Workgroup 2016
-86565VEHTRK_2016_0F,Autodesk Vehicle Tracking 2016
-86566VRDDES_2016_0F,Autodesk VRED Design 2016
-86567VRDPRS_2016_0F,Autodesk VRED Presenter 2016
-86568VRDPRO_2016_0F,Autodesk VRED Professional 2016
-86569EMFEB_2016_0F,Enterprise Multi-Flex Enhanced Bundle 2016
-86571T1MF_2016_0F,T1 Enterprise Multi-flex 2016
-86572VRDSRV_2016_0F,Autodesk VRED Server 2016
-86573T1MFPV_2016_0F,T1 Enterprise Multi-flex Prior Version 2016
-86574T1MFPB_2016_0F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2016
-86575T1MFSB_2016_0F,T1 Enterprise Multi-flex Standard Bundle 2016
-86576MFAA_2016_0F,Autodesk Moldflow Adviser Ultimate 2016
-86579NSTRN_2016_0F,Autodesk Nastran 2016
-86580NINCAD_2016_0F,Autodesk Nastran In-CAD 2016
-86581ALSCPT_2016_0F,Autodesk Alias Concept 2016
-86581ALSSF_2016_0F,Autodesk Alias SpeedForm 2016
-86582SHOWCASE_2016_0F,Autodesk Showcase 2016
-86589RETODP_2016_0F,Autodesk Revit Engineer-to-Order 2016 - Distribution Package
-86593IETODIS_2016_0F,Autodesk Inventor Engineer-to-Order 2016 - Distribution
-86595STUWAL_2016_0F,Autodesk Studio Wall 2016
-AVEVA201,AVEVA Everything3D
-AVEVA231,AVEVA Administration (admin module)
-AVEVA232,AVEVA Catalogue (paragon)
-CW_ACAD,CloudWorx for AutoCAD
-CW_ACAD_PRO,CloudWorx for AutoCAD Pro
-CW_SPR,CloudWorx for SmartPlant Review
-DESIGN-PLATFORM,AVEVA DESIGN-PLATFORM
-FWP,FrameWorks Plus
-INB,SmartPlant Instrumentation modules
-INK,SmartPlant Instrumentation (Currently Not Used)
-INM,SmartPlant Instrumentation (INtools) Maintenance
-INS,SmartPlant Instrumentation (INtools) Standard
-INV,SmartPlant Instrumentation (INtools) View Only / API
-IS,SmartMarine 3D
-ISK,SmartPlant Isometrics
-ISM,SmartPlant Isometrics Modules
-ISO,SmartMarine 3D Outfitting
-IST,SmartMarine 3D Tribon
-MAT,SmartPlant Materials
-PLIST,PLIST
-PMD,SupportModeler for PDS
-PMN,SupportManager for PDS
-PWN1400,GTXRaster CAD PLUS
-RD,SmartPlant Reference Data
-RWN1400,GTXRaster CAD
-S3D,SmartPlant 3D
-SDF,SDNF Import
-SEB,SmartPlant Electrical SAP Module
-SEI,SmartPlant Electrical Import Manager
-SEL,SmartPlant Electrical
-SIM,SmartPlant 3D PDS Model and Data Translators
-SLA,SmartMarine 3D Layout
-SPG,SmartPlant Spoolgen
-SPP,SmartPlant P&ID
-SPPD,SmartPlant P&ID
-SPR,SmartPlant Review
-SRM,SmartPlant Review Modules
-SRP,SmartPlant Review Publisher
-SSK,SmartSketch
+lm_feature_code,description,lm_system,lm_vendor
+2D0,PDS 2D PID,flexlm,adskflex
+2D1,PDS 2D,flexlm,adskflex
+2D2,PDS 2D Graphics Only,flexlm,adskflex
+2D3,PDS IDM,flexlm,adskflex
+3D,PDS 3D,flexlm,adskflex
+40100ARCHDESK_3_3F,Architectural Desktop R3.3,flexlm,adskflex
+40200ACDLAND_3_0F,Land Development Desktop R3,flexlm,adskflex
+40300MAP_5_0F,Map R5,flexlm,adskflex
+40400AMECH_PP_6_0F,AutoCAD Mechanical R6,flexlm,adskflex
+40500A-CIVDES_3_0F,Civil Design R3,flexlm,adskflex
+40600A-SURV_3_0F,Autodesk Survey R3,flexlm,adskflex
+40700CADOV_2002_0F,CAD Overlay 2002,flexlm,adskflex
+408003DSMAX_4_3F,Autodesk 3ds max R4.3,flexlm,adskflex
+40900INVBUN_5_0F,Inventor Series 5,flexlm,adskflex
+40900MDT_PP_6_0F,Mechanical Desktop R6,flexlm,adskflex
+41100ACD_2002_0F,AutoCAD 2002,flexlm,adskflex
+41300BLDSYS_3_0F,Building Systems R3+B38,flexlm,adskflex
+41400BLDGEL_1_0F,Building Services Electrical R1 and R2,flexlm,adskflex
+41500BLDGME_1_0F,Building Services Mechanical R1 and R2,flexlm,adskflex
+41700INVNTOR_5_3F,Inventor 5.3,flexlm,adskflex
+41800DES_SER_7_0F,Autodesk GIS Design Server R7,flexlm,adskflex
+41900ARDES_3_0F,AutoCAD Raster Design R3,flexlm,adskflex
+42000GEN_UDS_2_0F,Autodesk Utility Design R2,flexlm,adskflex
+421003DSMAX_5_0F,Autodesk 3ds max R5,flexlm,adskflex
+42200CIVSER_3_0F,Civil Series R3,flexlm,adskflex
+42300DES_SER_8_0F,Autodesk GIS Design Server R8,flexlm,adskflex
+42400ARDES_2004_0F,AutoCAD Raster Design 2004,flexlm,adskflex
+42500MAPSER_5_0F,Map Series 5,flexlm,adskflex
+42600ACD_2004_0F,AutoCAD 2004,flexlm,adskflex
+42700OS_AUTH_6_0F,Onsite R6,flexlm,adskflex
+42800INVBUN_6_0F,Inventor Series 6,flexlm,adskflex
+42900CIVSER_2004_0F,Civil Series 2004,flexlm,adskflex
+43100MAP_6_0F,Map R6,flexlm,adskflex
+43300ACDLAND_2004_0F,Land Desktop 2004,flexlm,adskflex
+43400AMECH_PP_2004_0F,AutoCAD Mechanical 2004,flexlm,adskflex
+43500INVBUN_7_0F,Inventor Series 7,flexlm,adskflex
+43600MAP_2004_0F,Map 2004,flexlm,adskflex
+43800OS_AUTH_7_0F,Onsite R7,flexlm,adskflex
+43900MAPSER_6_0F,Map Series 6,flexlm,adskflex
+44200ADTRPVS_10_1F,CAiCE Visual Survey 10.1,flexlm,adskflex
+45000BLDSYS_2004_0F,Building Systems 2004,flexlm,adskflex
+45100OS_AUTH_8_0F,Envision R8,flexlm,adskflex
+45200MAPSER_2004_0F,Map Series 2004,flexlm,adskflex
+45300A-SURV_2004_0F,Autodesk Survey 2004,flexlm,adskflex
+45400A-CIVDES_2004_0F,Civil Design 2004,flexlm,adskflex
+455003DSMAX_6_0F,Autodesk 3ds max R6,flexlm,adskflex
+45600INVPRO_7_0F,Inventor Professional 7,flexlm,adskflex
+45900AMECH_PP_2004DX_0F,AutoCAD Mechanical 2004 DX,flexlm,adskflex
+46000INVPRO_8_0F,Inventor Professional 8,flexlm,adskflex
+46100INVBUN_8_0F,Inventor Series 8,flexlm,adskflex
+46300ACD_2005_0F,AutoCAD 2005,flexlm,adskflex
+46400INVBUN_9_0F,Inventor Series 9,flexlm,adskflex
+46500CIVSER_2005_0F,Civil Series 2005,flexlm,adskflex
+46600MAP_2005_0F,Map 3D 2005,flexlm,adskflex
+46700ARCHDESK_2005_0F,Architectural Desktop 2005,flexlm,adskflex
+46800ACDLAND_2005_0F,Land Desktop 2005,flexlm,adskflex
+46900AMECH_PP_2005_0F,AutoCAD Mechanical 2005,flexlm,adskflex
+47000MAPSER_2005_0F,Map Series 2005,flexlm,adskflex
+47100BLDSYS_2005_0F,Building Systems 2005,flexlm,adskflex
+47200INVPRO_9_0F,Inventor Professional 9,flexlm,adskflex
+47300ACAD_E_2004_0F,AutoCAD Electrical 2004,flexlm,adskflex
+47400ACAD_E_2005_0F,AutoCAD Electrical 2005,flexlm,adskflex
+47600REVITS_1_0F,AutoCAD Revit Series R1,flexlm,adskflex
+477003DSMAX_7_0F,Autodesk 3ds max R7,flexlm,adskflex
+47800VIZ_2005_0F,VIZ 2005,flexlm,adskflex
+48000A-SURV_2005_0F,Autodesk Survey 2005,flexlm,adskflex
+48100A-CIVDES_2005_0F,Civil Design 2005,flexlm,adskflex
+48200ARDES_2005_0F,AutoCAD Raster Design 2005,flexlm,adskflex
+48300CIV3D_2004_0F,Autodesk Civil 3D 2004,flexlm,adskflex
+48400CIV3D_2005_0F,Autodesk Civil 3D 2005,flexlm,adskflex
+48400REVITS_2_0F,Revit 6.1,flexlm,adskflex
+48500REVITS_2_0F,AutoCAD Revit Series R2,flexlm,adskflex
+48600GEN_UDS_2005_0F,Autodesk Utility Design 2005,flexlm,adskflex
+48700REVIT_7_0F,Revit 7.0,flexlm,adskflex
+48700VIZ_2006_0F,VIZ 2006,flexlm,adskflex
+48800ACD_2006_0F,AutoCAD 2006,flexlm,adskflex
+48900INVBUN_10_0F,Inventor Series 10,flexlm,adskflex
+49000INVPRO_10_0F,Inventor Professional 10,flexlm,adskflex
+49100ARCHDESK_2006_0F,Architectural Desktop 2006,flexlm,adskflex
+49200ACDLAND_2006_0F,Land Desktop 2006,flexlm,adskflex
+49300MAP_2006_0F,AutoCAD Map 3D 2006,flexlm,adskflex
+49400AMECH_PP_2006_0F,AutoCAD Mechanical 2006,flexlm,adskflex
+49500BLDSYS_2006_0F,Building Systems 2006,flexlm,adskflex
+49600ACAD_E_2006_0F,AutoCAD Electrical 2006,flexlm,adskflex
+49700CIV3D_2006_0F,Autodesk Civil 3D 2006,flexlm,adskflex
+49800REVITS_7_0F,AutoCAD Revit Series 7.0,flexlm,adskflex
+4D,ISOGEN - Batch,flexlm,adskflex
+50100REVIT_8_0F,Revit Building 8.0,flexlm,adskflex
+50200REVITST_1_0F,Revit Structural 1.0,flexlm,adskflex
+50300REVITS_8_0F,AutoCAD Revit Series 8.0,flexlm,adskflex
+50400A-SURV_2006_0F,Autodesk Survey 2006,flexlm,adskflex
+50500ARDES_2006_0F,AutoCAD Raster Design 2006,flexlm,adskflex
+506003DSMAX_8_0F,Autodesk 3ds max R8,flexlm,adskflex
+50700REVITS_8_1F,AutoCAD Revit Series 8.1,flexlm,adskflex
+50800UTLDESN_2006_0F,Autodesk Utility Design 2006,flexlm,adskflex
+50900REVIT_8_1F,Revit Building 8.1,flexlm,adskflex
+51000REVITST_2_0F,Revit Structural 2.0,flexlm,adskflex
+51100REVITSYS_0_5F,Revit Systems 1,flexlm,adskflex
+51200ACD_2007_0F,AutoCAD 2007,flexlm,adskflex
+51300INVBUN_11_0F,Inventor Series 11,flexlm,adskflex
+51400INVPRO_11_0F,Inventor Professional 11,flexlm,adskflex
+51500ARCHDESK_2007_0F,Architectural Desktop 2007,flexlm,adskflex
+51600ACDLAND_2007_0F,Land Desktop 2007,flexlm,adskflex
+51700MAP_2007_0F,AutoCAD Map 3D 2007,flexlm,adskflex
+51800BLDSYS_2007_0F,Building Systems 2007,flexlm,adskflex
+51900AMECH_PP_2007_0F,AutoCAD Mechanical 2007,flexlm,adskflex
+52100ACAD_E_2007_0F,AutoCAD Electrical 2007,flexlm,adskflex
+52200CIV3D_2007_0F,Autodesk Civil 3D 2007,flexlm,adskflex
+52300UTLDESN_2007_0F,Autodesk Utility Design 2007,flexlm,adskflex
+52500REVITS_9_0F,AutoCAD Revit Series Building 9,flexlm,adskflex
+52600REVIT_9_0F,Revit Building 9,flexlm,adskflex
+52700A-SURV_2007_0F,Autodesk Survey 2007,flexlm,adskflex
+52800ARDES_2007_0F,AutoCAD Raster Design 2007,flexlm,adskflex
+52900INVPRORS_11_0F,Inventor Professional 11 Routed Systems,flexlm,adskflex
+53000INVPROSIM_11_0F,Inventor Professional 11 Simulation,flexlm,adskflex
+53100REVSYP_1_0F,AutoCAD Revit Series - Systems Plus 1,flexlm,adskflex
+533003DSMAX_9_0F,Autodesk 3ds max R9,flexlm,adskflex
+53400REVITST_3_0F,Revit Structure 3,flexlm,adskflex
+53500VIZ_2007_0F,VIZ 2007,flexlm,adskflex
+53700REVSU_3_0F,AutoCAD Revit Series - Structure 3,flexlm,adskflex
+53900PNID_2007_0F,AutoCAD P&ID 2007,flexlm,adskflex
+54100REVITS_9_1F,AutoCAD Revit Series Building 9.1,flexlm,adskflex
+54200REVSU_4_0F,AutoCAD Revit Series - Structure 4,flexlm,adskflex
+54300REVIT_9_1F,Revit Building 9.1,flexlm,adskflex
+54500REVSYP_2_0F,AutoCAD Revit Series Systems Plus 2,flexlm,adskflex
+54600ACD_2008_0F,AutoCAD 2008,flexlm,adskflex
+54700REVITS_2008_0F,AutoCAD Revit Architecture Suite 2008,flexlm,adskflex
+54800REVSU_2008_0F,AutoCAD Revit Structure Suite 2008,flexlm,adskflex
+54900AMECH_PP_2008_0F,AutoCAD Mechanical 2008,flexlm,adskflex
+55000INVBUN_2008_0F,Autodesk Inventor Suite 2008,flexlm,adskflex
+55100INVPRORS_2008_0F,Autodesk Inventor Routed Systems Suite 2008,flexlm,adskflex
+55200INVPROSIM_2008_0F,Autodesk Inventor Simulation Suite 2008,flexlm,adskflex
+55300INVPRO_2008_0F,Inventor Professional 2008,flexlm,adskflex
+55400CIV3D_2008_0F,AutoCAD Civil 3D 2008,flexlm,adskflex
+55500ACDLAND_2008_0F,AutoCAD Land Desktop 2008,flexlm,adskflex
+55600BLDSYS_2008_0F,AutoCAD MEP 2008,flexlm,adskflex
+55700REVSYP_2008_0F,AutoCAD Revit MEP Suite 2008,flexlm,adskflex
+55800ARCHDESK_2008_0F,AutoCAD Architecture 2008,flexlm,adskflex
+55900MAP_2008_0F,AutoCAD Map 3D 2008,flexlm,adskflex
+56000ACAD_E_2008_0F,AutoCAD Electrical 2008,flexlm,adskflex
+56100UTLDESN_2008_0F,AutoCAD Utility Design 2008,flexlm,adskflex
+56200PNID_2008_0F,AutoCAD P&ID 2008,flexlm,adskflex
+568003DSMAX_2008_0F,Autodesk 3ds Max 2008,flexlm,adskflex
+56900VIZ_2008_0F,VIZ 2008,flexlm,adskflex
+57000ARDES_2008_0F,AutoCAD Raster Design 2008,flexlm,adskflex
+57100REVIT_2008_0F,Revit Architecture 2008,flexlm,adskflex
+57200REVITST_2008_0F,Revit Structure 2008,flexlm,adskflex
+57600ACD_2009_0F,AutoCAD 2009,flexlm,adskflex
+59200AMECH_PP_2009_0F,AutoCAD Mechanical 2009,flexlm,adskflex
+59300INVBUN_2009_0F,Autodesk Inventor Suite 2009,flexlm,adskflex
+59400INVPRORS_2009_0F,Autodesk Inventor Routed Systems Suite 2009,flexlm,adskflex
+59500INVPROSIM_2009_0F,Autodesk Inventor Simulation Suite 2009,flexlm,adskflex
+59600INVPRO_2009_0F,Inventor Professional 2009,flexlm,adskflex
+59700CIV3D_2009_0F,AutoCAD Civil 3D 2009,flexlm,adskflex
+59800ACDLAND_2009_0F,AutoCAD Land Desktop 2009,flexlm,adskflex
+59900BLDSYS_2009_0F,AutoCAD MEP 2009,flexlm,adskflex
+5D,ISOGEN - Interactive,flexlm,adskflex
+60000REVSYP_2009_0F,AutoCAD Revit MEP Suite 2009,flexlm,adskflex
+60100ARCHDESK_2009_0F,AutoCAD Architecture 2009,flexlm,adskflex
+60200MAP_2009_0F,AutoCAD Map 3D 2009,flexlm,adskflex
+60300ACAD_E_2009_0F,AutoCAD Electrical 2009,flexlm,adskflex
+60400UTLDESN_2009_0F,Autodesk Utility Design 2009,flexlm,adskflex
+60500PNID_2009_0F,AutoCAD P&ID 2009,flexlm,adskflex
+60800COMBUST_2008_0F,Autodesk Combustion,flexlm,adskflex
+60900REVITS_2009_0F,AutoCAD Revit Architecture Suite 2009,flexlm,adskflex
+61000REVSU_2009_0F,AutoCAD Revit Structure Suite 2009,flexlm,adskflex
+61100INVLT_2009_0F,Autodesk Inventor LT 2009,flexlm,adskflex
+612003DSMAX_2009_0F,Autodesk 3ds Max 2009,flexlm,adskflex
+61300ARDES_2009_0F,AutoCAD Raster Design 2009,flexlm,adskflex
+61400MAPGE_2009_0F,Autodesk MapGuide Enterprise 2009,flexlm,adskflex
+61500PLNT3D_2009_0F,AutoCAD Plant 3D 2009,flexlm,adskflex
+61700INVMFG_2009_0F,AutoCAD Inventor Tooling Suite 2009,flexlm,adskflex
+62100REVIT_2009_0F,Revit Architecture 2009,flexlm,adskflex
+62200REVITST_2009_0F,Revit Structure 2009,flexlm,adskflex
+62700NAVREV_2009_0F,Autodesk NavisWorks Review 2009,flexlm,adskflex
+62800NAVSIM_2009_0F,Autodesk NavisWorks Simulate 2009,flexlm,adskflex
+62900NAVMAN_2009_0F,Autodesk NavisWorks Manage 2009,flexlm,adskflex
+64300ACD_F,AutoCAD Package,flexlm,adskflex
+64400AMECH_PP_F,AutoCAD Mechanical Package,flexlm,adskflex
+64500INVBUN_F,Inventor Series Package,flexlm,adskflex
+64800INVPRO_F,Inventor Professional Package,flexlm,adskflex
+64900CIV3D_F,Autodesk Civil 3D Package,flexlm,adskflex
+65100BLDSYS_F,AutoCAD MEP Package,flexlm,adskflex
+65200REVSYP_F,AutoCAD Revit MEP Suite Package,flexlm,adskflex
+65300ARCHDESK_F,AutoCAD Architecture Package,flexlm,adskflex
+65500ACAD_E_F,AutoCAD Electrical Package,flexlm,adskflex
+65700PLNT3D_F,AutoCAD Plant 3D Package,flexlm,adskflex
+65900REVITS_F,AutoCAD Revit Architecture Suite Package,flexlm,adskflex
+66000REVSU_F,AutoCAD Revit Series - Structure Package,flexlm,adskflex
+662003DSMAX_F,Autodesk 3ds Max Package,flexlm,adskflex
+66300ARDES_F,AutoCAD Raster Design Package,flexlm,adskflex
+66800REVIT_F,Revit Architecture Package,flexlm,adskflex
+66900REVITST_F,Autodesk Revit Structure Package,flexlm,adskflex
+67400NAVREV_F,Autodesk NavisWorks Review Package,flexlm,adskflex
+67500NAVSIM_F,Autodesk NavisWorks Simulate Package,flexlm,adskflex
+67600NAVMAN_F,Autodesk Navisworks Manage Package,flexlm,adskflex
+67700PNID_F,AutoCAD P&ID Package,flexlm,adskflex
+67800RVTMPJ_2009_0F,Autodesk Revit MEP 2009,flexlm,adskflex
+68600AQTO_2010_0F,Autodesk Quantity Takeoff 2010,flexlm,adskflex
+68800CIVIL_2009_0F,AutoCAD Civil 2009,flexlm,adskflex
+68900NAVREV_2009_1F,Autodesk NavisWorks Review 2009.1,flexlm,adskflex
+68900NAVREV_2009_1P,Autodesk NavisWorks Review 2009.1 Pre-Release,flexlm,adskflex
+69000NAVSIM_2009_1F,Autodesk NavisWorks Simulate 2009.1,flexlm,adskflex
+69000NAVSIM_2009_1P,Autodesk NavisWorks Simulate 2009.1 Pre-Release,flexlm,adskflex
+69100NAVMAN_2009_1F,Autodesk NavisWorks Manage 2009.1,flexlm,adskflex
+69100NAVMAN_2009_1P,Autodesk NavisWorks Manage 2009.1 Pre-Release,flexlm,adskflex
+69300RSA_2009_0F,Autodesk Robot Structural Analysis 2009,flexlm,adskflex
+69400RSAPRO_2009_0F,Autodesk Robot Structural Analysis Professional 2009,flexlm,adskflex
+69600RSAPRO_F,Autodesk Robot Structural Analysis Professional Package,flexlm,adskflex
+699003DSMAX_2010_0F,Autodesk® 3ds Max® 2010,flexlm,adskflex
+70000MAXDES_2010_0F,Autodesk 3ds Max Design 2010,flexlm,adskflex
+70100MAXDES_F,Autodesk 3ds Max Design Package,flexlm,adskflex
+70200MBXPRO_2009_0F,Autodesk Mudbox 2009,flexlm,adskflex
+70400INVBUN_2010_0F,AutoCAD Inventor Suite 2010,flexlm,adskflex
+70500INVPRO_2010_0F,AutoCAD Inventor Professional Suite 2010,flexlm,adskflex
+70600INVPRORS_2010_0F,AutoCAD Inventor Routed Systems Suite 2010,flexlm,adskflex
+70700INVPROSIM_2010_0F,AutoCAD Inventor Simulation Suite 2010,flexlm,adskflex
+70800VLTM_2010_0F,Autodesk Vault Manufacturing 2010,flexlm,adskflex
+71200ACD_2010_0F,AutoCAD 2010,flexlm,adskflex
+71400NAVMAN_2010_0F,Autodesk Navisworks Manage 2010,flexlm,adskflex
+71500NAVSIM_2010_0F,Autodesk Navisworks Simulate 2010,flexlm,adskflex
+71600NAVREV_2010_0F,Autodesk Navisworks Review 2010,flexlm,adskflex
+71700ACAD_E_2010_0F,AutoCAD Electrical 2010,flexlm,adskflex
+71800AMECH_PP_2010_0F,AutoCAD Mechanical 2010,flexlm,adskflex
+71900PCEASY_2010_0F,Autodesk Productstream Professional Easy 2011,flexlm,adskflex
+72000PCOFFI_2010_0F,Autodesk Productstream Professional 2010 Office,flexlm,adskflex
+72100PCPRO_2010_0F,Autodesk Productstream Professional 2011,flexlm,adskflex
+72200ARCHDESK_2010_0F,AutoCAD Architecture 2010,flexlm,adskflex
+72300PLNT3D_2010_0F,AutoCAD Plant 3D 2010,flexlm,adskflex
+72400VLTM_F,Vault Professional Package,flexlm,adskflex
+72500MAP_2010_0F,AutoCAD Map 3D 2010,flexlm,adskflex
+72600ARDES_2010_0F,AutoCAD Raster Design 2010,flexlm,adskflex
+72700MAPGE_2010_0F,Autodesk MapGuide Enterprise 2010,flexlm,adskflex
+72800TOPOBSCLNT_2010_0F,Autodesk Topobase Client 2010,flexlm,adskflex
+72900TOPOBSWEB_2010_0F,Autodesk Topobase Web 2010,flexlm,adskflex
+73000BLDSYS_2010_0F,AutoCAD MEP 2010,flexlm,adskflex
+73100REVSYP_2010_0F,AutoCAD Revit MEP Suite 2010,flexlm,adskflex
+73200INVMFG_2010_0F,AutoCAD Inventor Tooling Suite 2010,flexlm,adskflex
+73400PNID_2010_0F,Autodesk Plant P&ID 2010,flexlm,adskflex
+73500UTLDESN_2010_0F,Autodesk Utility Design 2010,flexlm,adskflex
+73700CIV3D_2010_0F,AutoCAD Civil 3D 2010,flexlm,adskflex
+73800RVTMPJ_2010_0F,Autodesk Revit MEP 2010,flexlm,adskflex
+73900REVITST_2010_0F,Autodesk Revit Structure 2010,flexlm,adskflex
+74000REVSU_2010_0F,AutoCAD Revit Structure Suite 2010,flexlm,adskflex
+74100REVIT_2010_0F,Autodesk Revit Architecture 2010,flexlm,adskflex
+74200REVITS_2010_0F,AutoCAD Revit Architecture Suite 2010,flexlm,adskflex
+74300CIVIL_2010_0F,AutoCAD Civil 2010,flexlm,adskflex
+74400INVAS_2010_0F,Autodesk Inventor Automation Professional 2010,flexlm,adskflex
+74500VLTC_2010_0F,Autodesk Vault Collaboration 2010,flexlm,adskflex
+74700VLTWG_2010_0F,Autodesk Vault Workgroup 2010,flexlm,adskflex
+74900RVTMPJ_F,Autodesk Revit MEP Package,flexlm,adskflex
+75100TOXIK_2010_0F,Autodesk Toxik 2010,flexlm,adskflex
+75200RSA_2010_0F,Autodesk Robot Structural Analysis 2010,flexlm,adskflex
+75300RSAPRO_2010_0F,Autodesk Robot Structural Analysis Professional 2010,flexlm,adskflex
+75600RSTR_2010_0F,AutoCAD Raster 2010,flexlm,adskflex
+75700MFDLC_2010_0F,Autodesk Moldflow Design Link for CATIA V5 2010,flexlm,adskflex
+75900MFDLPE_2010_0F,Autodesk Moldflow Design Link for Pro/ENGINEER 2010,flexlm,adskflex
+76100MFDLP_2010_0F,Autodesk Moldflow Design Link for Parasolid 2010,flexlm,adskflex
+76300MFAD_2010_0F,Autodesk Moldflow Adviser Design 2010,flexlm,adskflex
+76500MFAM_2010_0F,Autodesk Moldflow Adviser Manufacturing 2010,flexlm,adskflex
+76700MFAA_2010_0F,Autodesk Moldflow Adviser Advanced 2010,flexlm,adskflex
+76900MFIB_2010_0F,Autodesk Moldflow Insight Basic 2010,flexlm,adskflex
+77100MFIP_2010_0F,Autodesk Moldflow Insight Performance 2010,flexlm,adskflex
+77300MFIA_2010_0F,Autodesk Moldflow Insight Advanced 2010,flexlm,adskflex
+77500MFCD_2010_0F,Autodesk Moldflow CAD Doctor 2010,flexlm,adskflex
+77700MFS_2010_0F,Autodesk Moldflow Synergy 2010,flexlm,adskflex
+78000ECOA_2010_0F,Autodesk Ecotect Analysis 2010,flexlm,adskflex
+78100ECOA_F,Autodesk Ecotect Analysis Package,flexlm,adskflex
+78200RAV-S_2009_0F,AutoCAD Revit Architecture Visualization Suite 2009,flexlm,adskflex
+78600SFTIM_7_5F,Autodesk Softimage 7.5,flexlm,adskflex
+78800SFTIMA_7_5F,Autodesk Softimage Advanced 7.5,flexlm,adskflex
+78800SFTIMASIB1_7_5F,Autodesk Softimage Advanced 7.5 SIBatch1,flexlm,adskflex
+78800SFTIMASIB2_7_5F,Autodesk Softimage Advanced 7.5 SIBatch2,flexlm,adskflex
+78800SFTIMASIB3_7_5F,Autodesk Softimage Advanced 7.5 SIBatch3,flexlm,adskflex
+78800SFTIMASIB4_7_5F,Autodesk Softimage Advanced 7.5 SIBatch4,flexlm,adskflex
+78800SFTIMASIB5_7_5F,Autodesk Softimage Advanced 7.5 SIBatch5,flexlm,adskflex
+78900SFTIMA_F,Autodesk Softimage Advanced Package,flexlm,adskflex
+79000SFTIMASIB1_F,Autodesk Softimage SIBatch1 Package,flexlm,adskflex
+79100SFTIMASIB2_F,Autodesk Softimage SIBatch2 Package,flexlm,adskflex
+79200SFTIMASIB3_F,Autodesk Softimage SIBatch3 Package,flexlm,adskflex
+79300SFTIMASIB4_F,Autodesk Softimage SIBatch4 Package,flexlm,adskflex
+79400SFTIMASIB5_F,Autodesk Softimage SIBatch5 Package,flexlm,adskflex
+79500MOBPRO_2010_0F,Autodesk MotionBuilder 2010,flexlm,adskflex
+79600EMS_2010_0F,Autodesk Education Master Suite 2010,flexlm,adskflex
+79800ESAE_2010_0F,Autodesk Education Suite for Architecture and Engineering 2010,flexlm,adskflex
+80000ACDDS_2010_0F,AutoCAD Visualization Suite 2010,flexlm,adskflex
+80200DES_ACA_2010_0F,Autodesk Design Academy 2010,flexlm,adskflex
+80400ESID_2010_0F,Autodesk Education Suite for Industrial Design 2010,flexlm,adskflex
+80700ESME_2010_0F,Autodesk Education Suite for Mechanical Engineering 2010,flexlm,adskflex
+80900ESCSE_2010_0F,Autodesk Education Suite for Civil and Structural Engineering 2010,flexlm,adskflex
+81500RAVS_2010_0F,AutoCAD Revit Architecture Visualization Suite 2010,flexlm,adskflex
+81700MAYACP_2010_0F,Autodesk Maya Complete 2010,flexlm,adskflex
+81700MAYACPMR_2010_0F,Autodesk Maya Complete 2010 Mental Ray,flexlm,adskflex
+81800MAYAUL_2010_0F,Autodesk Maya Unlimited 2010,flexlm,adskflex
+81800MAYAULFS_2010_0F,Autodesk Maya Unlimited 2010 Fluid Simulation,flexlm,adskflex
+81800MAYAULMR_2010_0F,Autodesk Maya Unlimited 2010 Mental Ray,flexlm,adskflex
+82000BDFBS_2010_0F,Autodesk Building Fabrication Suite 2010,flexlm,adskflex
+82200STRDET_2010_0F,AutoCAD Structural Detailing 2010,flexlm,adskflex
+82400RVTMPB_2010_0F,Autodesk Revit MEP-B 2010,flexlm,adskflex
+82700NWMMAN_2010_0F,Autodesk Navisworks Manufacturing Manage 2010,flexlm,adskflex
+82900NWMSIM_2010_0F,Autodesk Navisworks Manufacturing Simulate 2010,flexlm,adskflex
+83100NWMREV_2010_0F,Autodesk Navisworks Manufacturing Review 2010,flexlm,adskflex
+83300INVAR_2010_0F,Autodesk Inventor Automation Runtime 2010,flexlm,adskflex
+83900MBXPRO_2010_0F,Autodesk Mudbox 2010,flexlm,adskflex
+84000SFTIM_2010_0F,Autodesk Softimage 2010,flexlm,adskflex
+84100SFTIMASIB1_2010_0F,Autodesk Softimage 2010 SIBatch1,flexlm,adskflex
+84100SFTIMASIB2_2010_0F,Autodesk Softimage 2010 SIBatch2,flexlm,adskflex
+84100SFTIMASIB3_2010_0F,Autodesk Softimage 2010 SIBatch3,flexlm,adskflex
+84100SFTIMASIB4_2010_0F,Autodesk Softimage 2010 SIBatch4,flexlm,adskflex
+84100SFTIMASIB5_2010_0F,Autodesk Softimage 2010 SIBatch5,flexlm,adskflex
+84600ACDLT_2010_0F,AutoCAD LT 2010,flexlm,adskflex
+84700ACDLT_F,AutoCAD LT Package,flexlm,adskflex
+84800AUTOST_2011_0F,Autodesk Alias Automotive 2011,flexlm,adskflex
+85000DESNST_2011_0F,Autodesk Alias Design 2011,flexlm,adskflex
+85200SURFST_2011_0F,Autodesk Alias Surface 2011,flexlm,adskflex
+85400MAYA_2010_0F,Maya 2010,flexlm,adskflex
+85400MAYAMFS_2010_0F,Autodesk Maya 2010 Fluid Simulation,flexlm,adskflex
+85400MAYAMMR_2010_0F,Autodesk Maya 2010 Mental Ray,flexlm,adskflex
+85400MAYAMMR1_2010_0F,Autodesk Maya 2010 Mental Ray 1,flexlm,adskflex
+85400MAYAMMR2_2010_0F,Autodesk Maya 2010 Mental Ray 2,flexlm,adskflex
+85400MAYAMMR3_2010_0F,Autodesk Maya 2010 Mental Ray 3,flexlm,adskflex
+85400MAYAMMR4_2010_0F,Autodesk Maya 2010 Mental Ray 4,flexlm,adskflex
+85400MAYAMMR5_2010_0F,Autodesk Maya 2010 Mental Ray 5,flexlm,adskflex
+855013DSMAX_2011_0F,Autodesk 3ds Max 2011,flexlm,adskflex
+855023DSMAX_F,Autodesk 3ds Max Package,flexlm,adskflex
+85503MAXDES_2011_0F,Autodesk 3ds Max Design 2011,flexlm,adskflex
+85504MAXDES_F,Autodesk 3ds Max Design Package,flexlm,adskflex
+85507ASMES_2010_0F,Autodesk Algor Simulation MES 2010,flexlm,adskflex
+85511MYECS_2010_0F,Autodesk Maya Entertainment Creation Suite 2010,flexlm,adskflex
+85512MYECS_F,Autodesk Maya Entertainment Creation Suite Standard,flexlm,adskflex
+85525ASMES_F,Autodesk Algor Simulation MES Package,flexlm,adskflex
+85536ACD_2011_0F,AutoCAD 2011,flexlm,adskflex
+85536ACD_2011_0P,AutoCAD 2011 Pre-Release,flexlm,adskflex
+85537MAYA_2011_0F,Autodesk Maya 2011,flexlm,adskflex
+85537MAYAMFS_2011_0F,Autodesk Maya 2011 Fluid Simulation,flexlm,adskflex
+85537MAYAMFS_F,Autodesk Maya Fluid Simulation,flexlm,adskflex
+85537MAYAMMR_2011_0F,Autodesk Maya 2011 Mental Ray,flexlm,adskflex
+85537MAYAMMR_F,Autodesk Maya Mental Ray Package,flexlm,adskflex
+85537MAYAMMR1_2011_0F,Autodesk Maya 2011 Mental Ray 1,flexlm,adskflex
+85537MAYAMMR1_F,Autodesk Maya Mental Ray 1 Package,flexlm,adskflex
+85537MAYAMMR2_2011_0F,Autodesk Maya 2011 Mental Ray 2,flexlm,adskflex
+85537MAYAMMR2_F,Autodesk Maya Mental Ray 2 Package,flexlm,adskflex
+85537MAYAMMR3_2011_0F,Autodesk Maya 2011 Mental Ray 3,flexlm,adskflex
+85537MAYAMMR3_F,Autodesk Maya Mental Ray 3 Package,flexlm,adskflex
+85537MAYAMMR4_2011_0F,Autodesk Maya 2011 Mental Ray 4,flexlm,adskflex
+85537MAYAMMR4_F,Autodesk Maya Mental Ray 4 Package,flexlm,adskflex
+85537MAYAMMR5_2011_0F,Autodesk Maya 2011 Mental Ray 5,flexlm,adskflex
+85537MAYAMMR5_F,Autodesk Maya Mental Ray 5 Package,flexlm,adskflex
+85538ACAD_E_2011_0F,AutoCAD Electrical 2011,flexlm,adskflex
+85541RVTMPB_2011_0F,Autodesk Revit MEP-B 2011,flexlm,adskflex
+85543REVITST_2011_0F,Autodesk Revit Structure 2011,flexlm,adskflex
+85545AMECH_PP_2011_0F,AutoCAD Mechanical 2011,flexlm,adskflex
+85550PCOFFI_2011_0F,Autodesk Productstream Professional Office 2011,flexlm,adskflex
+85552MAPGE_2011_0F,Autodesk MapGuide Enterprise 2011,flexlm,adskflex
+85554MOBPRO_2011_0F,Autodesk MotionBuilder 2011,flexlm,adskflex
+85555ACDLT_2011_0F,AutoCAD LT 2011,flexlm,adskflex
+85557MAP_2011_0F,AutoCAD Map 3D 2011,flexlm,adskflex
+85559TOPOBSCLNT_2011_0F,Autodesk Topobase Client 2011,flexlm,adskflex
+85560TOPOBSWEB_2011_0F,Autodesk Topobase Web 2011,flexlm,adskflex
+85561ARCHDESK_2011_0F,AutoCAD Architecture 2011,flexlm,adskflex
+85562BLDSYS_2011_0F,AutoCAD MEP 2011,flexlm,adskflex
+85563SFTIM_2011_0F,Autodesk Softimage 2011,flexlm,adskflex
+85563SFTIMSIB1_2011_0F,Autodesk Softimage 2011 SIBatch1,flexlm,adskflex
+85563SFTIMSIB2_2011_0F,Autodesk Softimage 2011 SIBatch2,flexlm,adskflex
+85563SFTIMSIB3_2011_0F,Autodesk Softimage 2011 SIBatch3,flexlm,adskflex
+85563SFTIMSIB4_2011_0F,Autodesk Softimage 2011 SIBatch4,flexlm,adskflex
+85563SFTIMSIB5_2011_0F,Autodesk Softimage 2011 SIBatch5,flexlm,adskflex
+85567INVPRO_2011_0F,AutoCAD Inventor Professional Suite 2011,flexlm,adskflex
+85569INVPRORS_2011_0F,AutoCAD Inventor Routed Systems Suite 2011,flexlm,adskflex
+85571INVPROSIM_2011_0F,AutoCAD Inventor Simulation Suite 2011,flexlm,adskflex
+85573INVBUN_2011_0F,AutoCAD Inventor Suite 2011,flexlm,adskflex
+85575INVMFG_2011_0F,AutoCAD Inventor Tooling Suite 2011,flexlm,adskflex
+85577INVNTOR_2010_0F,Autodesk Inventor 2010,flexlm,adskflex
+85579INVNTOR_2011_0F,Autodesk Inventor 2011,flexlm,adskflex
+85580MBXPRO_2011_0F,Autodesk Mudbox 2011,flexlm,adskflex
+85581ECSCAD_2011_0F,AutoCAD ecscad 2011,flexlm,adskflex
+85583LDXSP_2011_0F,Autodesk LandXplorer Studio Professional 2011,flexlm,adskflex
+85585RSA_2011_0F,Autodesk Robot Structural Analysis 2011,flexlm,adskflex
+85586RSAPRO_2011_0F,Autodesk Robot Structural Analysis Professional 2011,flexlm,adskflex
+85587REVIT_2011_0F,Autodesk Revit Architecture 2011,flexlm,adskflex
+85588VLTM_2011_0F,Autodesk Vault Professional 2011,flexlm,adskflex
+85590ALGSIM_2011_0F,Autodesk Algor Simulation 2011,flexlm,adskflex
+85591ASCFD_2011_0F,Autodesk Algor Simulation CFD 2011,flexlm,adskflex
+85592ASMES_2011_0F,Autodesk Algor Simulation MES 2011,flexlm,adskflex
+85593ASPRO_2011_0F,Autodesk Algor Simulation Professional 2011,flexlm,adskflex
+85594REVSU_2011_0F,AutoCAD Revit Structure Suite 2011,flexlm,adskflex
+85595STRDET_2011_0F,AutoCAD Structural Detailing 2011,flexlm,adskflex
+85596VLTWG_2011_0F,Autodesk Vault Workgroup 2011,flexlm,adskflex
+85598VLTC_2011_0F,Autodesk Vault Collaboration 2011,flexlm,adskflex
+85600NAVMAN_2011_0F,Autodesk Navisworks Manage 2011,flexlm,adskflex
+85601NAVSIM_2011_0F,Autodesk Navisworks Simulate 2011,flexlm,adskflex
+85602PLNT3D_2011_0F,AutoCAD Plant 3D 2011,flexlm,adskflex
+85603PNID_2011_0F,AutoCAD P&ID 2011,flexlm,adskflex
+85604CIV3D_2011_0F,AutoCAD Civil 3D 2011,flexlm,adskflex
+85606SHOWPRO_2011_0F,Autodesk Showcase Professional 2011,flexlm,adskflex
+85607SHOWCASE_2011_0F,Autodesk Showcase 2011,flexlm,adskflex
+85608SHCSPR_2011_0F,Autodesk Showcase Presenter 2011,flexlm,adskflex
+85609DC_JT_2011_0F,Autodesk DirectConnect JT 2011,flexlm,adskflex
+85611DC_UG_2011_0F,Autodesk DirectConnect NX 2011,flexlm,adskflex
+85614RVTMPJ_2011_0F,Autodesk Revit MEP 2011,flexlm,adskflex
+85615ALSK_2011_0F,Autodesk Alias Sketch 2011,flexlm,adskflex
+85617MXECS_2011_0F,Autodesk 3ds Max Entertainment Creation Suite 2011,flexlm,adskflex
+85618AAA_2011_0F,Autodesk Animation Academy 2011,flexlm,adskflex
+85619ESEC_2011_0F,Autodesk Education Suite for Entertainment Creation 2011,flexlm,adskflex
+85620MYECS_2011_0F,Autodesk Maya Entertainment Creation Suite 2011,flexlm,adskflex
+85621SIECS_2011_0F,Autodesk Softimage Entertainment Creation Suite 2011,flexlm,adskflex
+85623REVITS_2011_0F,AutoCAD Revit Architecture Suite 2011,flexlm,adskflex
+85624REVSYP_2011_0F,AutoCAD Revit MEP Suite 2011,flexlm,adskflex
+85625DES_ACA_2011_0F,Autodesk Design Academy 2011,flexlm,adskflex
+85626EMS_2011_0F,Autodesk Education Master Suite 2011,flexlm,adskflex
+85627ESAE_2011_0F,Autodesk Education Suite for Architecture and Engineering 2011,flexlm,adskflex
+85628ESCSE_2011_0F,Autodesk Education Suite for Civil and Structural Engineering 2011,flexlm,adskflex
+85629ESID_2011_0F,Autodesk Education Suite for Industrial Design 2011,flexlm,adskflex
+85630ESME_2011_0F,Autodesk Education Suite for Mechanical Engineering 2011,flexlm,adskflex
+85631INVFPR_2011_0F,Autodesk Inventor Factory Premium 2011,flexlm,adskflex
+85632INVFAD_2011_0F,Autodesk Inventor Factory Advanced 2011,flexlm,adskflex
+85633NWFPR_2011_0F,Autodesk Navisworks Factory Premium 2011,flexlm,adskflex
+85634NWFAD_2011_0F,Autodesk Navisworks Factory Advanced 2011,flexlm,adskflex
+85635FDSPRM_2011_0F,Autodesk Factory Design Suite Premium 2011,flexlm,adskflex
+85636FDSADV_2011_0F,Autodesk Factory Design Suite Advanced 2011,flexlm,adskflex
+85637MFAA_2011_0F,Autodesk Moldflow Adviser Advanced 2011,flexlm,adskflex
+85638MFAD_2011_0F,Autodesk Moldflow Adviser Design 2011,flexlm,adskflex
+85639MFAM_2011_0F,Autodesk Moldflow Adviser Manufacturing 2011,flexlm,adskflex
+85640MFCD_2011_0F,Autodesk Moldflow CAD Doctor 2011,flexlm,adskflex
+85641MFDLC_2011_0F,Autodesk Moldflow Design Link for CATIA V5 2011,flexlm,adskflex
+85642MFDLP_2011_0F,Autodesk Moldflow Design Link for Parasolid 2011,flexlm,adskflex
+85643MFDLPE_2011_0F,Autodesk Moldflow Design Link for Pro/ENGINEER 2011,flexlm,adskflex
+85644MFIA_2011_0F,Autodesk Moldflow Insight Advanced 2011,flexlm,adskflex
+85645MFIB_2011_0F,Autodesk Moldflow Insight Basic 2011,flexlm,adskflex
+85646MFIP_2011_0F,Autodesk Moldflow Insight Performance 2011,flexlm,adskflex
+85647MFS_2011_0F,Autodesk Moldflow Synergy 2011,flexlm,adskflex
+85648INVRT_2011_0F,Autodesk Inventor Runtime 2011,flexlm,adskflex
+85649INVLT_2011_0F,Autodesk Inventor LT 2011,flexlm,adskflex
+85650INVLTS_2011_0F,AutoCAD Inventor LT Suite 2011,flexlm,adskflex
+85651BDSADV_2011_0F,Autodesk Building Design Suite Advanced 2011,flexlm,adskflex
+85652BDSPRM_2011_0F,Autodesk Building Design Suite Premium 2011,flexlm,adskflex
+85653DSSTD_2011_0F,Autodesk Design Suite Standard 2011,flexlm,adskflex
+85654DSADV_2011_0F,Autodesk Design Suite Advanced 2011,flexlm,adskflex
+85655DSPRM_2011_0F,Autodesk Design Suite Premium 2011,flexlm,adskflex
+85656RAVS_2011_0F,AutoCAD Revit Architecture Visualization Suite 2011,flexlm,adskflex
+85657ACDDS_2011_0F,AutoCAD Visualization Suite 2011,flexlm,adskflex
+85658PDSADV_2011_0F,Autodesk Plant Design Suite Advanced 2011,flexlm,adskflex
+85659PDSPRM_2011_0F,Autodesk Plant Design Suite Premium 2011,flexlm,adskflex
+85660PDSPRM_F,Autodesk Plant Design Suite Premium Package,flexlm,adskflex
+85662ACDLTC_2011_0F,AutoCAD LT Civil Suite 2011,flexlm,adskflex
+85663GMCADC_2011_0F,Autodesk GM CAD Convertors 2011,flexlm,adskflex
+85667INVPUB_2011_0F,Autodesk Inventor Publisher 2011,flexlm,adskflex
+85668INVAS_2011_0F,Autodesk Intent Professional 2011,flexlm,adskflex
+85670INVAR_2011_0F,Autodesk Intent Runtime 2011,flexlm,adskflex
+85671INTSER_2011_0F,Autodesk Intent Server 2011,flexlm,adskflex
+85672ECOA_2011_0F,Autodesk Ecotect Analysis 2011,flexlm,adskflex
+85674T1MF_2011_0F,T1 Enterprise Multi-flex 2011,flexlm,adskflex
+85677ECSCAD_2012_0F,AutoCAD ecscad 2012,flexlm,adskflex
+85677FDSADV_F,Autodesk Factory Design Suite Ultimate Package,flexlm,adskflex
+85677FDSPRM_F,Autodesk Factory Design Suite Premium Package,flexlm,adskflex
+85678ACAD_E_2012_0F,AutoCAD Electrical 2012,flexlm,adskflex
+85683ARDES_2011_0F,AutoCAD Raster Design 2011,flexlm,adskflex
+85685MXECSP_2011_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2011,flexlm,adskflex
+85687MYECSP_2011_0F,Autodesk Maya Entertainment Creation Suite Premium 2011,flexlm,adskflex
+85689DSSTD_F,Autodesk Design Suite Standard Package,flexlm,adskflex
+85692PDSADV_F,Autodesk Plant Design Suite Ultimate Package,flexlm,adskflex
+85693SMKMAC_2011_0F,Autodesk Smoke 2011 for Mac OS X,flexlm,adskflex
+85693SMKMAC_2011_0P,Autodesk Smoke 2011 for Mac OS X,flexlm,adskflex
+85694MAYA_2012_0F,Autodesk Maya 2012,flexlm,adskflex
+85694MAYAMMR1_2012_0F,Autodesk Maya 2012 Mental Ray 1,flexlm,adskflex
+85694MAYAMMR1_F,Autodesk Maya Mental Ray 1 Package,flexlm,adskflex
+85696MBXPRO_2012_0F,Autodesk Mudbox 2012,flexlm,adskflex
+856983DSMAX_2012_0F,Autodesk 3ds Max 2012,flexlm,adskflex
+85700MAXDES_2012_0F,Autodesk 3ds Max Design 2012,flexlm,adskflex
+85702MOBPRO_2012_0F,Autodesk MotionBuilder 2012,flexlm,adskflex
+85704SHOWCASE_2012_0F,Autodesk Showcase 2012,flexlm,adskflex
+85705SFTIM_2012_0F,Autodesk Softimage 2012,flexlm,adskflex
+85705SFTIMASIB_F,Autodesk Softimage 2013 Batch Package,flexlm,adskflex
+85705SFTIMSIB_2012_0F,Autodesk Softimage 2012 SIBatch,flexlm,adskflex
+85708MXECS_2012_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2012,flexlm,adskflex
+85710MXECSP_2012_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2012,flexlm,adskflex
+85712AAA_2012_0F,Autodesk Animation Academy 2012,flexlm,adskflex
+85714ESEC_2012_0F,Autodesk Entertainment Creation Suite for Education 2012,flexlm,adskflex
+85716MYECS_2012_0F,Autodesk Maya Entertainment Creation Suite Standard 2012,flexlm,adskflex
+85718MYECSP_2012_0F,Autodesk Maya Entertainment Creation Suite Premium 2012,flexlm,adskflex
+85720SIECS_2012_0F,Autodesk Softimage Entertainment Creation Suite Standard 2012,flexlm,adskflex
+85726ASMES_2012_0F,Autodesk Simulation Mechanical 2012,flexlm,adskflex
+85728ASPRO_2012_0F,Autodesk Simulation Multiphysics 2012,flexlm,adskflex
+85730ACD_2012_0F,AutoCAD 2012,flexlm,adskflex
+85731ARCHDESK_2012_0F,AutoCAD Architecture 2012,flexlm,adskflex
+85732ACDLT_2012_0F,AutoCAD LT 2012,flexlm,adskflex
+85733AMECH_PP_2012_0F,AutoCAD Mechanical 2012,flexlm,adskflex
+85734BLDSYS_2012_0F,AutoCAD MEP 2012,flexlm,adskflex
+85737SMKMAC_2012_0F,Autodesk Smoke 2012 for Mac OS X,flexlm,adskflex
+85737SMKMACBRN_2012_0F,Autodesk Smoke Burn 2012,flexlm,adskflex
+85737SMKMACBRN_F,Autodesk Smoke Burn Package,flexlm,adskflex
+85737SMKMACWG_2012_0F,Autodesk Smoke Wiretap Gateway 2012,flexlm,adskflex
+85737SMKMACWG_F,Autodesk Smoke Wiretap Gateway Package,flexlm,adskflex
+85738SMKMAC_F,Autodesk Smoke for Mac OS X Package,flexlm,adskflex
+85740AUTOST_2012_0F,Autodesk Alias Automotive 2012,flexlm,adskflex
+85741DESNST_2012_0F,Autodesk Alias Design 2012,flexlm,adskflex
+85742SURFST_2012_0F,Autodesk Alias Surface 2012,flexlm,adskflex
+85744STRDET_2012_0F,AutoCAD Structural Detailing 2012,flexlm,adskflex
+85747REVIT_2012_0F,Autodesk Revit Architecture 2012,flexlm,adskflex
+85748RVTMPB_2012_0F,Autodesk Revit MEP 2012,flexlm,adskflex
+85749REVITST_2012_0F,Autodesk Revit Structure 2012,flexlm,adskflex
+85750VLTC_2012_0F,Autodesk Vault Collaboration 2012,flexlm,adskflex
+85752VLTWG_2012_0F,Autodesk Vault Workgroup 2012,flexlm,adskflex
+85753VLTM_2012_0F,Autodesk Vault Professional 2012,flexlm,adskflex
+85754DC_JT_2012_0F,Autodesk DirectConnect JT 2012,flexlm,adskflex
+85755DC_UG_2012_0F,Autodesk DirectConnect NX 2012,flexlm,adskflex
+85758ATCIGM_2012_0F,Autodesk Alias TC Integrator for GM 2012,flexlm,adskflex
+85759INVLTS_2012_0F,AutoCAD Inventor LT Suite 2012,flexlm,adskflex
+85762INVPRORS_2012_0F,AutoCAD Inventor Routed Systems Suite 2012,flexlm,adskflex
+85765INVLT_2012_0F,Autodesk Inventor LT 2012,flexlm,adskflex
+85766INVFPR_2012_0F,Autodesk Inventor Factory Premium 2012,flexlm,adskflex
+85767INVFAD_2012_0F,Autodesk Inventor Factory Ultimate 2012,flexlm,adskflex
+85768INVNTOR_2012_0F,Autodesk Inventor 2012,flexlm,adskflex
+85769EMS_2012_0F,Autodesk Education Master Suite 2012,flexlm,adskflex
+85770ESAE_2012_0F,Autodesk Building Design Suite for Education 2012,flexlm,adskflex
+85771ESCSE_2012_0F,Autodesk Infrastructure Design Suite for Education 2012,flexlm,adskflex
+85773ESME_2012_0F,Autodesk Product Design Suite for Education 2012,flexlm,adskflex
+85774DES_ACA_2012_0F,Autodesk Design Academy 2012,flexlm,adskflex
+85776MAP_2012_0F,AutoCAD Map 3D 2012,flexlm,adskflex
+85777RSA_2012_0F,Autodesk Robot Structural Analysis 2012,flexlm,adskflex
+85778RSAPRO_2012_0F,Autodesk Robot Structural Analysis Professional 2012,flexlm,adskflex
+85779PLNT3D_2012_0F,AutoCAD Plant 3D 2012,flexlm,adskflex
+85780PNID_2012_0F,AutoCAD P&ID 2012,flexlm,adskflex
+85781INVPUB_2012_0F,Autodesk Inventor Publisher 2012,flexlm,adskflex
+85783DSSTD_2012_0F,Autodesk Design Suite Standard 2012,flexlm,adskflex
+85784DSPRM_2012_0F,Autodesk Design Suite Premium 2012,flexlm,adskflex
+85785PDSPRM_2012_0F,Autodesk Plant Design Suite Premium 2012,flexlm,adskflex
+85786PDSADV_2012_0F,Autodesk Plant Design Suite Ultimate 2012,flexlm,adskflex
+85787BDSPRM_2012_0F,Autodesk Building Design Suite Premium 2012,flexlm,adskflex
+85787BDSPRM_F,Autodesk Building Design Suite Premium Package,flexlm,adskflex
+85788BDSADV_2012_0F,Autodesk Building Design Suite Ultimate 2012,flexlm,adskflex
+85788BDSADV_F,Autodesk Building Design Suite Ultimate Package,flexlm,adskflex
+85789FDSPRM_2012_0F,Autodesk Factory Design Suite Premium 2012,flexlm,adskflex
+85790FDSADV_2012_0F,Autodesk Factory Design Suite Ultimate 2012,flexlm,adskflex
+85791REVITS_2012_0F,AutoCAD Revit Architecture Suite 2012,flexlm,adskflex
+85792REVSU_2012_0F,AutoCAD Revit Structure Suite 2012,flexlm,adskflex
+85793REVSYP_2012_0F,AutoCAD Revit MEP Suite 2012,flexlm,adskflex
+85794PDSS_2012_0F,Autodesk Product Design Suite Standard 2012,flexlm,adskflex
+85795PDSP_2012_0F,Autodesk Product Design Suite Premium 2012,flexlm,adskflex
+85796PDSU_2012_0F,Autodesk Product Design Suite Ultimate 2012,flexlm,adskflex
+85797BDSS_2012_0F,Autodesk Building Design Suite Standard 2012,flexlm,adskflex
+85797BDSS_F,Autodesk Building Design Suite Standard Package,flexlm,adskflex
+85798IDSU_2012_0F,Autodesk Infrastructure Design Suite Ultimate 2012,flexlm,adskflex
+85799IDSP_2012_0F,Autodesk Infrastructure Design Suite Premium 2012,flexlm,adskflex
+85800IDSS_2012_0F,Autodesk Infrastructure Design Suite Standard 2012,flexlm,adskflex
+85801DSADV_2012_0F,Autodesk Design Suite Ultimate 2012,flexlm,adskflex
+85802PLTDSS_2012_0F,Autodesk Plant Design Suite Standard 2012,flexlm,adskflex
+85804FDSS_2012_0F,Autodesk Factory Design Suite Standard 2012,flexlm,adskflex
+85805FDSS_F,Autodesk Factory Design Suite Standard Package,flexlm,adskflex
+85806ENCSU_2012_0F,Autodesk Entertainment Creation Suite Ultimate 2012,flexlm,adskflex
+85807ENCSU_F,Autodesk Entertainment Creation Suite Ultimate Package,flexlm,adskflex
+85808ACDLTC_2012_0F,AutoCAD LT Civil Suite 2012,flexlm,adskflex
+85810IDSU_F,Autodesk Infrastructure Design Suite Ultimate Package,flexlm,adskflex
+85812IDSP_F,Autodesk Infrastructure Design Suite Premium Package,flexlm,adskflex
+85813PDSS_F,Autodesk Product Design Suite Standard Package,flexlm,adskflex
+85814PDSP_F,Autodesk Product Design Suite Premium Package,flexlm,adskflex
+85815PDSU_F,Autodesk Product Design Suite Ultimate Package,flexlm,adskflex
+85816MFAA_2012_0F,Autodesk Moldflow Adviser Advanced 2012,flexlm,adskflex
+85817MFCD_2012_0F,Autodesk Moldflow CAD Doctor 2012,flexlm,adskflex
+85818MFAD_2012_0F,Autodesk Moldflow Adviser Design 2012,flexlm,adskflex
+85819MFAM_2012_0F,Autodesk Moldflow Adviser Manufacturing 2012,flexlm,adskflex
+85820MFDLC_2012_0F,Autodesk Moldflow Design Link for CATIA V5 2012,flexlm,adskflex
+85821MFDLP_2012_0F,Autodesk Moldflow Design Link for Parasolid 2012,flexlm,adskflex
+85822MFDLPE_2012_0F,Autodesk Moldflow Design Link for Pro/ENGINEER 2012,flexlm,adskflex
+85823MFIA_2012_0F,Autodesk Moldflow Insight Advanced 2012,flexlm,adskflex
+85824MFIP_2012_0F,Autodesk Moldflow Insight Performance 2012,flexlm,adskflex
+85825MFIB_2012_0F,Autodesk Moldflow Insight Basic 2012,flexlm,adskflex
+85826MFS_2012_0F,Autodesk Moldflow Synergy 2012,flexlm,adskflex
+85827UTLDESN_2012_0F,Autodesk Utility Design 2012,flexlm,adskflex
+85828ALSK_2012_0F,Autodesk SketchBook Designer 2012,flexlm,adskflex
+85830CIV3D_2012_0F,AutoCAD Civil 3D 2012,flexlm,adskflex
+85831MRSTND_2012_0F,mental ray Standalone 2012,flexlm,adskflex
+85833AQTO_2012_0F,Autodesk Quantity Takeoff 2012,flexlm,adskflex
+85834AQTO_F,Autodesk Quantity Takeoff Package,flexlm,adskflex
+85837NAVSIM_2012_0F,Autodesk Navisworks Simulate 2012,flexlm,adskflex
+85838NAVSIM_F,Autodesk NavisWorks Simulate Package,flexlm,adskflex
+85839NAVMAN_2012_0F,Autodesk Navisworks Manage 2012,flexlm,adskflex
+85840ECOA_2012_0F,Autodesk Ecotect Analysis 2012,flexlm,adskflex
+85841ARDES_2012_0F,AutoCAD Raster Design 2012,flexlm,adskflex
+85842GMCADC_2012_0F,Autodesk GM CAD Convertors 2012,flexlm,adskflex
+85843PCOFFI_2012_0F,Autodesk Vault Office 2012,flexlm,adskflex
+85844IMS_2012_0F,Autodesk Infrastructure Map Server 2012,flexlm,adskflex
+85846INVPROSA_2012_0F,Autodesk Inventor Professional 2012,flexlm,adskflex
+85847SHOWPRO_2012_0F,Autodesk Showcase Professional 2012,flexlm,adskflex
+85849INVOEM_2012_0F,Autodesk Inventor OEM 2012,flexlm,adskflex
+85850MAP3DE_2012_0F,AutoCAD Map 3D Enterprise 2012,flexlm,adskflex
+85852RTRTCL_2012_0F,Autodesk Real-Time Ray Tracing Cluster 2012,flexlm,adskflex
+85853ACD_2012_0F,Autodesk Vault Base Server 2012,flexlm,adskflex
+85854OSPRO_2012_0F,Autodesk Opticore Studio Professional 2012,flexlm,adskflex
+85856VTCAEC_2012_0F,Autodesk Vault Collaboration AEC 2012,flexlm,adskflex
+85857MAYA_2013_0F,Autodesk Maya 2013,flexlm,adskflex
+85857MAYAMMR1_2013_0F,Autodesk Maya 2013 Mental Ray 1,flexlm,adskflex
+85859TRTLS_2012_0F,Turtle For Maya Standard 2012,flexlm,adskflex
+85860TRTLP_2012_0F,Turtle For Maya Premium 2012,flexlm,adskflex
+85860TRTLPB_2012_0F,Turtle For Maya Premium 2012,flexlm,adskflex
+85860TRTLPB_F,Turtle For Maya Premium Package,flexlm,adskflex
+85862REVIT_2013_0F,Autodesk Revit Architecture 2013,flexlm,adskflex
+85864RVTMPB_2013_0F,Autodesk Revit MEP 2013,flexlm,adskflex
+85866REVITST_2013_0F,Autodesk Revit Structure 2013,flexlm,adskflex
+85868KYNGMS_2012_0F,Autodesk Kynapse 2012,flexlm,adskflex
+85869MBXPRO_2013_0F,Autodesk Mudbox 2013,flexlm,adskflex
+85871ACD_2013_0F,AutoCAD 2013,flexlm,adskflex
+85872ACDLT_2013_0F,AutoCAD LT 2013,flexlm,adskflex
+85873INVETO_2012_0F,Autodesk Inventor Engineer-to-Order Series 2012,flexlm,adskflex
+85875ACDMAC_2012_0F,AutoCAD for Mac 2012,flexlm,adskflex
+85877INTSER_2012_0F,Autodesk Inventor Engineer-to-Order Server 2012,flexlm,adskflex
+85881AUTOST_2013_0F,Autodesk Alias Automotive 2013,flexlm,adskflex
+85882INFMDR_2012_0F,Autodesk Infrastructure Modeler 2012,flexlm,adskflex
+85883ARCHDESK_2013_0F,AutoCAD Architecture 2013,flexlm,adskflex
+85885AMECH_PP_2013_0F,AutoCAD Mechanical 2013,flexlm,adskflex
+85887BLDSYS_2013_0F,AutoCAD MEP 2013,flexlm,adskflex
+85889ECSCAD_2013_0F,AutoCAD ecscad 2013,flexlm,adskflex
+85890ACAD_E_2013_0F,AutoCAD Electrical 2013,flexlm,adskflex
+858923DSMAX_2013_0F,Autodesk 3ds Max 2013,flexlm,adskflex
+85893MAXDES_2013_0F,Autodesk 3ds Max Design 2013,flexlm,adskflex
+85895SURFST_2013_0F,Autodesk Alias Surface 2013,flexlm,adskflex
+85896DESNST_2013_0F,Autodesk Alias Design 2013,flexlm,adskflex
+85897T1MF_2012_0F,T1 Enterprise Multi-flex 2012,flexlm,adskflex
+85899T1MFPV_2012_0F,T1 Enterprise Multi-flex Prior Version 2012,flexlm,adskflex
+85902SCFD_2012_0F,Autodesk Simulation CFD 2012,flexlm,adskflex
+85903SCFDA_2012_0F,Autodesk Simulation CFD 2012 Advanced,flexlm,adskflex
+85904SCACIS_2012_0F,Autodesk Simulation CFD 2012 Connection for ACIS,flexlm,adskflex
+85905SCCV5_2012_0F,Autodesk Simulation CFD 2012 Connection for Catia V5,flexlm,adskflex
+85906SCCOC_2012_0F,Autodesk Simulation CFD 2012 Connection for CoCreate,flexlm,adskflex
+85907SCFDCD_2012_0F,Autodesk Simulation CFD 2012 Connection for Discrete,flexlm,adskflex
+85908SCFDCI_2012_0F,Autodesk Simulation CFD 2012 Connection for Inventor,flexlm,adskflex
+85909SCFDNX_2012_0F,Autodesk Simulation CFD 2012 Connection for NX,flexlm,adskflex
+85910SCFDP_2012_0F,Autodesk Simulation CFD 2012 Connection for Parasolid,flexlm,adskflex
+85911SCPROE_2012_0F,Autodesk Simulation CFD 2012 Connection for Pro/ENGINEER,flexlm,adskflex
+85912SCFDCR_2012_0F,Autodesk Simulation CFD 2012 Connection for Revit,flexlm,adskflex
+85913SCFDSE_2012_0F,Autodesk Simulation CFD 2012 Connection for SolidEdge,flexlm,adskflex
+85914SCFDSW_2012_0F,Autodesk Simulation CFD 2012 Connection for SolidWorks,flexlm,adskflex
+85915SCFDSC_2012_0F,Autodesk Simulation CFD 2012 Connection for SpaceClaim,flexlm,adskflex
+85916SCDSE_2012_0F,Autodesk Simulation CFD 2012 Design Study Environment,flexlm,adskflex
+85917SCFDM_2012_0F,Autodesk Simulation CFD 2012 Motion,flexlm,adskflex
+85918MXECSP_2013_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2013,flexlm,adskflex
+85920MXECS_2013_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2013,flexlm,adskflex
+85922AAA_2013_0F,Autodesk Animation Academy 2013,flexlm,adskflex
+85926ENCSU_2013_0F,Autodesk Entertainment Creation Suite Ultimate 2013,flexlm,adskflex
+85928MYECSP_2013_0F,Autodesk Maya Entertainment Creation Suite Premium 2013,flexlm,adskflex
+85930MYECS_2013_0F,Autodesk Maya Entertainment Creation Suite Standard 2013,flexlm,adskflex
+85932SIECS_2013_0F,Autodesk Softimage Entertainment Creation Suite Standard 2013,flexlm,adskflex
+85934SFTIM_2013_0F,Autodesk Softimage 2013,flexlm,adskflex
+85934SFTIMSIB_2013_0F,Autodesk Softimage 2013 SIBatch,flexlm,adskflex
+85936MOBPRO_2013_0F,Autodesk MotionBuilder 2013,flexlm,adskflex
+85937SMKMAC_2013_0F,Autodesk Smoke 2013 for Mac OS X,flexlm,adskflex
+85937SMKMACBRN_2013_0F,Autodesk Smoke 2013 for Mac OS X Burn,flexlm,adskflex
+85937SMKMACWG_2013_0F,Autodesk Smoke 2013 for Mac OS X Wiretap Gateway,flexlm,adskflex
+85940ASMES_2013_0F,Autodesk Simulation Mechanical 2013,flexlm,adskflex
+85942ASPRO_2013_0F,Autodesk Simulation Multiphysics 2013,flexlm,adskflex
+85943STRDET_2013_0F,AutoCAD Structural Detailing 2013,flexlm,adskflex
+85946BDSPRM_2013_0F,Autodesk Building Design Suite Premium 2013,flexlm,adskflex
+85947BDSS_2013_0F,Autodesk Building Design Suite Standard 2013,flexlm,adskflex
+85948BDSADV_2013_0F,Autodesk Building Design Suite Ultimate 2013,flexlm,adskflex
+85949SHOWPRO_2013_0F,Autodesk Showcase Professional 2013,flexlm,adskflex
+85950RVT_2013_0F,Autodesk Revit 2013,flexlm,adskflex
+85952ARDES_2013_0F,AutoCAD Raster Design 2013,flexlm,adskflex
+85954REVITS_2013_0F,AutoCAD Revit Architecture Suite 2013,flexlm,adskflex
+85955REVSYP_2013_0F,AutoCAD Revit MEP Suite 2013,flexlm,adskflex
+85956SHOWCASE_2013_0F,Autodesk Showcase 2013,flexlm,adskflex
+85957REVSU_2013_0F,AutoCAD Revit Structure Suite 2013,flexlm,adskflex
+85958INVLTS_2013_0F,AutoCAD Inventor LT Suite 2013,flexlm,adskflex
+85959INVETO_2013_0F,Autodesk Inventor Engineer-to-Order Series 2013,flexlm,adskflex
+85961ESME_2013_0F,Autodesk Product Design Suite for Education 2013,flexlm,adskflex
+85962PDSP_2013_0F,Autodesk Product Design Suite Premium 2013,flexlm,adskflex
+85963PDSU_2013_0F,Autodesk Product Design Suite Ultimate 2013,flexlm,adskflex
+85964PDSS_2013_0F,Autodesk Product Design Suite Standard 2013,flexlm,adskflex
+85965FDSPRM_2013_0F,Autodesk Factory Design Suite Premium 2013,flexlm,adskflex
+85966FDSS_2013_0F,Autodesk Factory Design Suite Standard 2013,flexlm,adskflex
+85967FDSADV_2013_0F,Autodesk Factory Design Suite Ultimate 2013,flexlm,adskflex
+85969DSPRM_2013_0F,AutoCAD Design Suite Premium 2013,flexlm,adskflex
+85970DSSTD_2013_0F,AutoCAD Design Suite Standard 2013,flexlm,adskflex
+85971DSADV_2013_0F,AutoCAD Design Suite Ultimate 2013,flexlm,adskflex
+85974ESCSE_2013_0F,Autodesk Infrastructure Design Suite for Education 2013,flexlm,adskflex
+85975RSAPRO_2013_0F,Autodesk Robot Structural Analysis Professional 2013,flexlm,adskflex
+85976CIV3D_2013_0F,AutoCAD Civil 3D 2013,flexlm,adskflex
+85977PNID_2013_0F,AutoCAD P&ID 2013,flexlm,adskflex
+85978PLNT3D_2013_0F,AutoCAD Plant 3D 2013,flexlm,adskflex
+85979INVPUB_2013_0F,Autodesk Inventor Publisher 2013,flexlm,adskflex
+85981MAP_2013_0F,AutoCAD Map 3D 2013,flexlm,adskflex
+85982MAP3DE_2013_0F,AutoCAD Map 3D Enterprise 2013,flexlm,adskflex
+85983VLTC_2013_0F,Autodesk 360 Vault Collaboration 2013,flexlm,adskflex
+85984VTCAEC_2013_0F,Autodesk 360 Vault Collaboration AEC 2013,flexlm,adskflex
+85986PCOFFI_2013_0F,Autodesk 360 Vault Office 2013,flexlm,adskflex
+85987VLTM_2013_0F,Autodesk 360 Vault Professional 2013,flexlm,adskflex
+85988VLTWG_2013_0F,Autodesk 360 Vault Workgroup 2013,flexlm,adskflex
+85989ACDMAC_2013_0F,AutoCAD for Mac 2013,flexlm,adskflex
+85990ALSK_2013_0F,Autodesk SketchBook Designer 2013,flexlm,adskflex
+85991ACDLTC_2013_0F,AutoCAD LT Civil Suite 2013,flexlm,adskflex
+85992IDSP_2013_0F,Autodesk Infrastructure Design Suite Premium 2013,flexlm,adskflex
+85993IDSS_2013_0F,Autodesk Infrastructure Design Suite Standard 2013,flexlm,adskflex
+85994IDSU_2013_0F,Autodesk Infrastructure Design Suite Ultimate 2013,flexlm,adskflex
+85995PDSPRM_2013_0F,Autodesk Plant Design Suite Premium 2013,flexlm,adskflex
+85996PLTDSS_2013_0F,Autodesk Plant Design Suite Standard 2013,flexlm,adskflex
+85997PDSADV_2013_0F,Autodesk Plant Design Suite Ultimate 2013,flexlm,adskflex
+85998INVNTOR_2013_0F,Autodesk Inventor 2013,flexlm,adskflex
+85999INVFPR_2013_0F,Autodesk Inventor Factory Premium 2013,flexlm,adskflex
+86000INVFAD_2013_0F,Autodesk Inventor Factory Ultimate 2013,flexlm,adskflex
+86001INVPROSA_2013_0F,Autodesk Inventor Professional 2013,flexlm,adskflex
+86002INVOEM_2013_0F,Autodesk Inventor OEM 2013,flexlm,adskflex
+86004INVLT_2013_0F,Autodesk Inventor LT 2013,flexlm,adskflex
+86005RSA_2013_0F,Autodesk Robot Structural Analysis 2013,flexlm,adskflex
+86006MFAM_2013_0F,Autodesk Simulation Moldflow Adviser Premium 2013,flexlm,adskflex
+86007MFAA_2013_0F,Autodesk Simulation Moldflow Adviser Ultimate 2013,flexlm,adskflex
+86008MFAD_2013_0F,Autodesk Simulation Moldflow Adviser Standard 2013,flexlm,adskflex
+86009MFCD_2013_0F,Autodesk Simulation Moldflow CAD Doctor 2013,flexlm,adskflex
+86010MFDL_2013_0F,Autodesk Simulation Moldflow Design Link 2013,flexlm,adskflex
+86012MFS_2013_0F,Autodesk Simulation Moldflow Synergy 2013,flexlm,adskflex
+86013INFMDR_2013_0F,Autodesk Infrastructure Modeler 2013,flexlm,adskflex
+86014IMS_2013_0F,Autodesk Infrastructure Map Server 2013,flexlm,adskflex
+86019MRSTND_2013_0F,mental ray Standalone 2013,flexlm,adskflex
+86021ACDLTM_2013_0F,AutoCAD LT for Mac 2013,flexlm,adskflex
+86022NAVMAN_2013_0F,Autodesk Navisworks Manage 2013,flexlm,adskflex
+86023NAVSIM_2013_0F,Autodesk Navisworks Simulate 2013,flexlm,adskflex
+86024AQTO_2013_0F,Autodesk Quantity Takeoff 2013,flexlm,adskflex
+86025SCFD_2013_0F,Autodesk Simulation CFD 2013,flexlm,adskflex
+86027UTLDESN_2013_0F,AutoCAD Utility Design 2013,flexlm,adskflex
+86028SCFDA_2013_0F,Autodesk Simulation CFD 2013 Advanced,flexlm,adskflex
+86030SCFDNX_2013_0F,Autodesk Simulation CFD 2013 Connection for NX,flexlm,adskflex
+86032SCPROE_2013_0F,Autodesk Simulation CFD 2013 Connection for Pro/E,flexlm,adskflex
+86034SCDSE_2013_0F,Autodesk Simulation CFD 2013 Design Study Environment,flexlm,adskflex
+86036SCFDM_2013_0F,Autodesk Simulation CFD 2013 Motion,flexlm,adskflex
+86038MFIP_2013_0F,Autodesk Simulation Moldflow Insight Premium 2013,flexlm,adskflex
+86040MFIA_2013_0F,Autodesk Simulation Moldflow Insight Ultimate 2013,flexlm,adskflex
+86042MFIB_2013_0F,Autodesk Simulation Moldflow Insight Standard 2013,flexlm,adskflex
+86043ECSPE_2013_0F,Autodesk Entertainment Creation Suite Premium 2013 Exclusives,flexlm,adskflex
+86043TRTLPB_2013_0F,Turtle For Maya Premium 2013,flexlm,adskflex
+86044ECSSE_2013_0F,Autodesk Entertainment Creation Suite Standard 2013 Exclusives,flexlm,adskflex
+86045SCACIS_2013_0F,Autodesk Simulation CFD 2013 Connection for ACIS,flexlm,adskflex
+86047SCFDP_2013_0F,Autodesk Simulation CFD 2013 Connection for Parasolid,flexlm,adskflex
+86049CADMEP_2013_0F,Autodesk Fabrication CADmep 2013,flexlm,adskflex
+86056SIMDFM_2013_0F,Autodesk Simulation DFM 2013,flexlm,adskflex
+86058MAYA_2014_0F,Autodesk Maya 2014,flexlm,adskflex
+86058MAYAMMR1_2014_0F,Autodesk Maya Mental Ray 1 2014,flexlm,adskflex
+86059T1MF_2013_0F,T1 Enterprise Multi-flex 2013,flexlm,adskflex
+86061T1MFPV_2013_0F,T1 Enterprise Multi-flex Prior Version 2013,flexlm,adskflex
+86063ACD_2014_0F,AutoCAD 2014,flexlm,adskflex
+86064ACDLT_2014_0F,AutoCAD LT 2014,flexlm,adskflex
+86067REVITS_2014_0F,AutoCAD Revit Architecture Suite 2014,flexlm,adskflex
+86068RVTLTS_2014_0F,AutoCAD Revit LT Suite 2014,flexlm,adskflex
+86069REVSYP_2014_0F,AutoCAD Revit MEP Suite 2014,flexlm,adskflex
+86070REVSU_2014_0F,AutoCAD Revit Structure Suite 2014,flexlm,adskflex
+86071BDSPRM_2014_0F,Autodesk Building Design Suite Premium 2014,flexlm,adskflex
+86072BDSS_2014_0F,Autodesk Building Design Suite Standard 2014,flexlm,adskflex
+86073BDSADV_2014_0F,Autodesk Building Design Suite Ultimate 2014,flexlm,adskflex
+86074STRDET_2014_0F,AutoCAD Structural Detailing 2014,flexlm,adskflex
+86075RVT_2014_0F,Autodesk Revit 2014,flexlm,adskflex
+86076REVIT_2014_0F,Autodesk Revit Architecture 2014,flexlm,adskflex
+86077RVTLT_2014_0F,Autodesk Revit LT 2014,flexlm,adskflex
+86078RVTMPB_2014_0F,Autodesk Revit MEP 2014,flexlm,adskflex
+86079REVITST_2014_0F,Autodesk Revit Structure 2014,flexlm,adskflex
+860803DSMAX_2014_0F,Autodesk 3ds Max 2014,flexlm,adskflex
+86081MAXDES_2014_0F,Autodesk 3ds Max Design 2014,flexlm,adskflex
+86082AUTOST_2014_0F,Autodesk Alias Automotive 2014,flexlm,adskflex
+86083DESNST_2014_0F,Autodesk Alias Design 2014,flexlm,adskflex
+86084SURFST_2014_0F,Autodesk Alias Surface 2014,flexlm,adskflex
+86086RSAPRO_2014_0F,Autodesk Robot Structural Analysis Professional 2014,flexlm,adskflex
+86087ENCSU_2014_0F,Autodesk Entertainment Creation Suite Ultimate 2014,flexlm,adskflex
+86090MXECSP_2014_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2014,flexlm,adskflex
+86090SFTIMSIB_2014_0F,Autodesk Softimage 2014 SIBatch,flexlm,adskflex
+86091MXECS_2014_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2014,flexlm,adskflex
+86092MYECS_2014_0F,Autodesk Maya Entertainment Creation Suite Standard 2014,flexlm,adskflex
+86093MYECSP_2014_0F,Autodesk Maya Entertainment Creation Suite Premium 2014,flexlm,adskflex
+86095TRTLPB_2014_0F,Turtle For Maya Premium 2014,flexlm,adskflex
+86099MOBPRO_2014_0F,Autodesk MotionBuilder 2014,flexlm,adskflex
+86100MBXPRO_2014_0F,Autodesk Mudbox 2014,flexlm,adskflex
+86101MRSTND_2014_0F,mental ray Standalone 2014,flexlm,adskflex
+86102SFTIM_2014_0F,Autodesk Softimage 2014 ,flexlm,adskflex
+86104DES_ACA_2014_0F,Autodesk Design Academy 2014,flexlm,adskflex
+86106PLTDSS_2014_0F,Autodesk Plant Design Suite Standard 2014,flexlm,adskflex
+86107PDSADV_2014_0F,Autodesk Plant Design Suite Ultimate 2014,flexlm,adskflex
+86108PDSPRM_2014_0F,Autodesk Plant Design Suite Premium 2014,flexlm,adskflex
+86109PNID_2014_0F,AutoCAD P&ID 2014,flexlm,adskflex
+86110PLNT3D_2014_0F,AutoCAD Plant 3D 2014,flexlm,adskflex
+86112EMS_2014_0F,Autodesk Education Master Suite 2014,flexlm,adskflex
+86114ASPRO_2014_0F,Autodesk Simulation Multiphysics 2014,flexlm,adskflex
+86115ASMES_2014_0F,Autodesk Simulation Mechanical 2014,flexlm,adskflex
+86116ASMES_F,Autodesk Simulation Mechanical Package,flexlm,adskflex
+86117SHOWCASE_2014_0F,Autodesk Showcase 2014 ,flexlm,adskflex
+86118SHOWPRO_2014_0F,Autodesk Showcase Professional 2014,flexlm,adskflex
+86119DSPRM_2014_0F,AutoCAD Design Suite Premium 2014,flexlm,adskflex
+86120DSSTD_2014_0F,AutoCAD Design Suite Standard 2014,flexlm,adskflex
+86121DSADV_2014_0F,AutoCAD Design Suite Ultimate 2014,flexlm,adskflex
+86122ALSK_2014_0F,Autodesk Alias Sketch 2014,flexlm,adskflex
+86123IDSP_2014_0F,Autodesk Infrastructure Design Suite Premium 2014,flexlm,adskflex
+86124IDSS_2014_0F,Autodesk Infrastructure Design Suite Standard 2014,flexlm,adskflex
+86125IDSU_2014_0F,Autodesk Infrastructure Design Suite Ultimate 2014,flexlm,adskflex
+86126UTLDESN_2014_0F,Autodesk AutoCAD Utility Design 2014,flexlm,adskflex
+86127INVLTS_2014_0F,AutoCAD Inventor LT Suite 2014,flexlm,adskflex
+86128FDSPRM_2014_0F,Autodesk Factory Design Suite Premium 2014,flexlm,adskflex
+86129FDSS_2014_0F,Autodesk Factory Design Suite Standard 2014,flexlm,adskflex
+86130FDSADV_2014_0F,Autodesk Factory Design Suite Ultimate 2014,flexlm,adskflex
+86131PDSP_2014_0F,Autodesk Product Design Suite Premium 2014,flexlm,adskflex
+86132PDSS_2014_0F,Autodesk Product Design Suite Standard 2014,flexlm,adskflex
+86133PDSU_2014_0F,Autodesk Product Design Suite Ultimate 2014,flexlm,adskflex
+86135INVETO_2014_0F,Autodesk Inventor Engineer-to-Order Series 2014,flexlm,adskflex
+86136INTSER_2014_0F,Autodesk Inventor Engineer-to-Order Server 2014,flexlm,adskflex
+86137ARCHDESK_2014_0F,AutoCAD Architecture 2014,flexlm,adskflex
+86138AMECH_PP_2014_0F,AutoCAD Mechanical 2014,flexlm,adskflex
+86139BLDSYS_2014_0F,AutoCAD MEP 2014,flexlm,adskflex
+86140ARDES_2014_0F,AutoCAD Raster Design 2014,flexlm,adskflex
+86141SCFD_2014_0F,Autodesk Simulation CFD 2014,flexlm,adskflex
+86142SCFDA_2014_0F,Autodesk Simulation CFD 2014 Advanced,flexlm,adskflex
+86144SCFDNX_2014_0F,Autodesk Simulation CFD 2014 Connection for NX,flexlm,adskflex
+86145SCFDP_2014_0F,Autodesk Simulation CFD 2014 Connection for Parasolid,flexlm,adskflex
+86146SCPROE_2014_0F,Autodesk Simulation CFD 2014 Connection for Pro/E,flexlm,adskflex
+86147SCDSE_2014_0F,Autodesk Simulation CFD 2014 Design Study Environment,flexlm,adskflex
+86148SCFDM_2014_0F,Autodesk Simulation CFD 2014 Motion,flexlm,adskflex
+86149ECSCAD_2014_0F,AutoCAD ecscad 2014,flexlm,adskflex
+86150ACAD_E_2014_0F,AutoCAD Electrical 2014,flexlm,adskflex
+86151SIMDFM_2014_0F,Autodesk Simulation DFM 2014,flexlm,adskflex
+86152MFAA_2014_0F,Autodesk Simulation Moldflow Adviser Ultimate 2014,flexlm,adskflex
+86153MFAM_2014_0F,Autodesk Simulation Moldflow Adviser Premium 2014,flexlm,adskflex
+86154MFAD_2014_0F,Autodesk Simulation Moldflow Adviser Standard 2014,flexlm,adskflex
+86155MFIP_2014_0F,Autodesk Simulation Moldflow Insight Premium 2014,flexlm,adskflex
+86156MFIA_2014_0F,Autodesk Simulation Moldflow Insight Ultimate 2014,flexlm,adskflex
+86157MFIB_2014_0F,Autodesk Simulation Moldflow Insight Standard 2014,flexlm,adskflex
+86158MFS_2014_0F,Autodesk Simulation Moldflow Synergy 2014,flexlm,adskflex
+86159INVNTOR_2014_0F,Autodesk Inventor 2014,flexlm,adskflex
+86161INVLT_2014_0F,Autodesk Inventor LT 2014,flexlm,adskflex
+86163INVPROSA_2014_0F,Autodesk Inventor Professional 2014,flexlm,adskflex
+86166NAVMAN_2014_0F,Autodesk Navisworks Manage 2014,flexlm,adskflex
+86167VLTC_2014_0F,Autodesk Vault Collaboration 2014,flexlm,adskflex
+86168VTCAEC_2014_0F,Autodesk Vault Collaboration AEC 2014,flexlm,adskflex
+86169PCOFFI_2014_0F,Autodesk Vault Office 2014,flexlm,adskflex
+86170VLTM_2014_0F,Autodesk Vault Professional 2014,flexlm,adskflex
+86171VLTWG_2014_0F,Autodesk Vault Workgroup 2014,flexlm,adskflex
+86172NAVSIM_2014_0F,Autodesk Navisworks Simulate 2014,flexlm,adskflex
+86173CIV3D_2014_0F,AutoCAD Civil 3D 2014,flexlm,adskflex
+86174MAP_2014_0F,AutoCAD Map 3D 2014,flexlm,adskflex
+86175INFMDR_2014_0F,Autodesk InfraWorks 2014,flexlm,adskflex
+86176IMS_2014_0F,Autodesk Infrastructure Map Server 2014,flexlm,adskflex
+86178CAMDCT_2014_0F,Autodesk Fabrication CAMduct 2014,flexlm,adskflex
+86180INVPUB_2014_0F,Autodesk Inventor Publisher 2014,flexlm,adskflex
+86181CAMLTE_2014_0F,Autodesk Fabrication CAMduct Components 2014,flexlm,adskflex
+86184CADMEP_2014_0F,Autodesk Fabrication CADmep 2014,flexlm,adskflex
+86185ESTMEP_2014_0F,Autodesk Fabrication ESTmep 2014,flexlm,adskflex
+86187RMNTRY_2014_0F,Autodesk Fabrication RemoteEntry 2014,flexlm,adskflex
+86189TRCKIT_2014_0F,Autodesk Fabrication Tracker 2014,flexlm,adskflex
+86191T1MF_2014_0F,T1 Enterprise Multi-flex 2014,flexlm,adskflex
+86193T1MFPV_2014_0F,T1 Enterprise Multi-flex Prior Version 2014,flexlm,adskflex
+86197IMRH_2014_0F,Autodesk InfraWorks Roads & Highways 2014,flexlm,adskflex
+86198FDU_2014_0F,Autodesk Factory Design Utilities 2014,flexlm,adskflex
+86200SMKMAC_2014_0F,Autodesk Smoke 2014 for Mac OS X,flexlm,adskflex
+86200SMKMACBRN_2014_0F,Autodesk Smoke 2014 for Mac OS X Burn,flexlm,adskflex
+86200SMKMACWG_2014_0F,Autodesk Smoke Wiretap Gateway 2014,flexlm,adskflex
+86201INVPUB_2013_1F,Autodesk Inventor Publisher 2013 R1,flexlm,adskflex
+86202INVPUB_F,Autodesk Inventor Publisher Package,flexlm,adskflex
+86207VRDDES_2014_0F,Autodesk VRED Design 2014,flexlm,adskflex
+86208VRDPRO_2014_0F,Autodesk VRED Professional 2014,flexlm,adskflex
+86213MAYA_2015_0F,Autodesk Maya 2015,flexlm,adskflex
+86213MAYAMMR1_2015_0F,Autodesk Maya 2015 Mental Ray 1,flexlm,adskflex
+86214TRTLPB_2015_0F,Turtle for Maya 2015,flexlm,adskflex
+86221AUTOST_2015_0F,Autodesk Alias Automotive 2015,flexlm,adskflex
+86222DESNST_2015_0F,Autodesk Alias Design 2015,flexlm,adskflex
+86223SURFST_2015_0F,Autodesk Alias Surface 2015,flexlm,adskflex
+86227DSPRM_2015_0F,Autodesk AutoCAD Design Suite Premium 2015,flexlm,adskflex
+86228DSSTD_2015_0F,Autodesk AutoCAD Design Suite Standard 2015,flexlm,adskflex
+86229DSADV_2015_0F,Autodesk AutoCAD Design Suite Ultimate 2015,flexlm,adskflex
+86232ACDLTC_2015_0F,Autodesk AutoCAD LT Civil Suite 2015,flexlm,adskflex
+86233INVLTS_2015_0F,Autodesk AutoCAD Inventor LT Suite 2015,flexlm,adskflex
+86234REVITS_2015_0F,Autodesk AutoCAD Revit Architecture Suite 2015,flexlm,adskflex
+86235RVTLTS_2015_0F,Autodesk AutoCAD Revit LT Suite 2015,flexlm,adskflex
+86236REVSYP_2015_0F,Autodesk AutoCAD Revit MEP Suite 2015,flexlm,adskflex
+86237REVSU_2015_0F,Autodesk AutoCAD Revit Structure Suite 2015,flexlm,adskflex
+86238BDSPRM_2015_0F,Autodesk Building Design Suite Premium 2015,flexlm,adskflex
+86241MXECSP_2015_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2015,flexlm,adskflex
+86242MXECS_2015_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2015,flexlm,adskflex
+86243ENCSU_2015_0F,Autodesk Entertainment Creation Suite Ultimate 2015,flexlm,adskflex
+86244BDSS_2015_0F,Autodesk Building Design Suite Standard 2015,flexlm,adskflex
+86245BDSADV_2015_0F,Autodesk Building Design Suite Ultimate 2015,flexlm,adskflex
+86247EMS_2015_0F,Autodesk Education Master Suite 2015,flexlm,adskflex
+86248ESEC_2015_0F,Autodesk Entertainment Creation Suite For Education 2015,flexlm,adskflex
+86249FDSPRM_2015_0F,Autodesk Factory Design Suite Premium 2015,flexlm,adskflex
+86250FDSS_2015_0F,Autodesk Factory Design Suite Standard 2015,flexlm,adskflex
+86251FDSADV_2015_0F,Autodesk Factory Design Suite Ultimate 2015,flexlm,adskflex
+86252IDSP_2015_0F,Autodesk Infrastructure Design Suite Premium 2015,flexlm,adskflex
+86253IDSS_2015_0F,Autodesk Infrastructure Design Suite Standard 2015,flexlm,adskflex
+86254IDSU_2015_0F,Autodesk Infrastructure Design Suite Ultimate 2015,flexlm,adskflex
+86255INVETO_2015_0F,Autodesk Inventor Engineer-to-Order Series 2015,flexlm,adskflex
+86257MYECS_2015_0F,Autodesk Maya Entertainment Creation Suite Standard 2015,flexlm,adskflex
+86258PDSPRM_2015_0F,Autodesk Plant Design Suite Premium 2015,flexlm,adskflex
+86259PLTDSS_2015_0F,Autodesk Plant Design Suite Standard 2015,flexlm,adskflex
+86260PDSADV_2015_0F,Autodesk Plant Design Suite Ultimate 2015,flexlm,adskflex
+86261ESME_2015_0F,Autodesk Product Design Suite for Education 2015,flexlm,adskflex
+862623DSMAX_2015_0F,Autodesk 3ds Max 2015,flexlm,adskflex
+86263MAXDES_2015_0F,Autodesk 3ds Max Design 2015,flexlm,adskflex
+86264MOBPRO_2015_0F,Autodesk MotionBuilder 2015,flexlm,adskflex
+86265MBXPRO_2015_0F,Autodesk Mudbox 2015,flexlm,adskflex
+86266PDSP_2015_0F,Autodesk Product Design Suite Premium 2015,flexlm,adskflex
+86267PDSS_2015_0F,Autodesk Product Design Suite Standard 2015,flexlm,adskflex
+86268PDSU_2015_0F,Autodesk Product Design Suite Ultimate 2015,flexlm,adskflex
+86269SFTIM_2015_0F,Autodesk Softimage 2015,flexlm,adskflex
+86269SFTIMSIB_2015_0F,Autodesk Softimage 2015 SIBatch,flexlm,adskflex
+86270SIECS_2015_0F,Autodesk Softimage Entertainment Creation Suite Standard 2015,flexlm,adskflex
+86271MRSTND_2015_0F,mental ray Standalone 2015,flexlm,adskflex
+86273RVT_2015_0F,Autodesk Revit 2015,flexlm,adskflex
+86274REVIT_2015_0F,Autodesk Revit Architecture 2015,flexlm,adskflex
+86275RVTLT_2015_0F,Autodesk Revit LT 2015,flexlm,adskflex
+86276RVTMPB_2015_0F,Autodesk Revit MEP 2015,flexlm,adskflex
+86277REVITST_2015_0F,Autodesk Revit Structure 2015,flexlm,adskflex
+86279AMECH_PP_2015_0F,Autodesk AutoCAD Mechanical 2015,flexlm,adskflex
+86280STRDET_2015_0F,Autodesk AutoCAD Structural Detailing 2015,flexlm,adskflex
+86281CADMEP_2015_0F,Autodesk Fabrication CADmep 2015,flexlm,adskflex
+86283CAMDCT_2015_0F,Autodesk Fabrication CAMduct 2015,flexlm,adskflex
+86284CAMLTE_2015_0F,Autodesk Fabrication CAMduct Components 2015,flexlm,adskflex
+86285ESTMEP_2015_0F,Autodesk Fabrication ESTmep 2015,flexlm,adskflex
+86286RMNTRY_2015_0F,Autodesk Fabrication RemoteEntry 2015,flexlm,adskflex
+86287TRCKIT_2015_0F,Autodesk Fabrication Tracker 2015,flexlm,adskflex
+86288ARCHDESK_2015_0F,Autodesk AutoCAD Architecture 2015,flexlm,adskflex
+86290ACAD_E_2015_0F,Autodesk AutoCAD Electrical 2015,flexlm,adskflex
+86292BLDSYS_2015_0F,Autodesk AutoCAD MEP 2015,flexlm,adskflex
+86293ACDLT_2015_0F,Autodesk AutoCAD LT 2015,flexlm,adskflex
+86294ARDES_2015_0F,Autodesk AutoCAD Raster Design 2015,flexlm,adskflex
+86295ACD_2015_0F,Autodesk AutoCAD 2015,flexlm,adskflex
+86296PLNT3D_2015_0F,Autodesk AutoCAD Plant 3D 2015,flexlm,adskflex
+86297RSAPRO_2015_0F,Autodesk Robot Structural Analysis Professional 2015,flexlm,adskflex
+86298PNTLAY_2014_0F,Autodesk Point Layout 2014,flexlm,adskflex
+86301PNID_2015_0F,Autodesk AutoCAD P&ID 2015,flexlm,adskflex
+86304PCOFFI_2015_0F,Autodesk Vault Office 2015,flexlm,adskflex
+86305VLTM_2015_0F,Autodesk Vault Professional 2015,flexlm,adskflex
+86306VLTWG_2015_0F,Autodesk Vault Workgroup 2015,flexlm,adskflex
+86314INVNTOR_2015_0F,Autodesk Inventor 2015,flexlm,adskflex
+86315INTSER_2015_0F,Autodesk Inventor Engineer-to-Order Server 2015,flexlm,adskflex
+86316INVLT_2015_0F,Autodesk Inventor LT 2015,flexlm,adskflex
+86317INVOEM_2015_0F,Autodesk Inventor OEM 2015,flexlm,adskflex
+86318INVPROSA_2015_0F,Autodesk Inventor Professional 2015,flexlm,adskflex
+86319SIMDFM_2015_0F,Autodesk Simulation DFM 2015,flexlm,adskflex
+86320MFAM_2015_0F,Autodesk Simulation Moldflow Adviser Premium 2015,flexlm,adskflex
+86321MFAD_2015_0F,Autodesk Simulation Moldflow Adviser Standard 2015,flexlm,adskflex
+86322MFAA_2015_0F,Autodesk Simulation Moldflow Adviser Ultimate 2015,flexlm,adskflex
+86323MFIP_2015_0F,Autodesk Simulation Moldflow Insight Premium 2015,flexlm,adskflex
+86324MFIB_2015_0F,Autodesk Simulation Moldflow Insight Standard 2015,flexlm,adskflex
+86325MFIA_2015_0F,Autodesk Simulation Moldflow Insight Ultimate 2015,flexlm,adskflex
+86326MFS_2015_0F,Autodesk Simulation Moldflow Synergy 2015,flexlm,adskflex
+86327MFCD_2015_0F,CADdoctor for Autodesk Simulation 2015,flexlm,adskflex
+86328SBRDES_2014_0F,Autodesk Structural Bridge Design 2014,flexlm,adskflex
+86328SBRDES_2016_0F,Autodesk Structural Bridge Design 2016,flexlm,adskflex
+86333VEHTRK_2014_0F,Autodesk Vehicle Tracking 2014,flexlm,adskflex
+86335FDU_2015_0F,Autodesk Factory Design Utilities 2015,flexlm,adskflex
+86336SCFD_2015_0F,Autodesk Simulation CFD 2015,flexlm,adskflex
+86337SCFDA_2015_0F,Autodesk Simulation CFD 2015 Advanced,flexlm,adskflex
+86338SCACIS_2015_0F,Autodesk Simulation CFD 2015 Connection for ACIS,flexlm,adskflex
+86339SCFDNX_2015_0F,Autodesk Simulation CFD 2015 Connection for NX,flexlm,adskflex
+86340SCFDP_2015_0F,Autodesk Simulation CFD 2015 Connection for Parasolid,flexlm,adskflex
+86341SCPROE_2015_0F,Autodesk Simulation CFD 2015 Connection for Pro/E,flexlm,adskflex
+86342SCDSE_2015_0F,Autodesk Simulation CFD 2015 Design Study Environment,flexlm,adskflex
+86343SCFDM_2015_0F,Autodesk Simulation CFD 2015 Motion,flexlm,adskflex
+86344ACMPAN_2015_0F,Autodesk Simulation Composite Analysis 2015,flexlm,adskflex
+86346ACMPDS_2015_0F,Autodesk Simulation Composite Design 2015,flexlm,adskflex
+86348ASMES_2015_0F,Autodesk Simulation Mechanical 2015,flexlm,adskflex
+86350NAVMAN_2015_0F,Autodesk Navisworks Manage 2015,flexlm,adskflex
+86351NAVSIM_2015_0F,Autodesk Navisworks Simulate 2015,flexlm,adskflex
+86352SBPNL_2015_0F,Autodesk SketchBook Pro 2015,flexlm,adskflex
+86354CIV3D_2015_0F,Autodesk AutoCAD Civil 3D 2015,flexlm,adskflex
+86355MAP_2015_0F,Autodesk AutoCAD Map 3D 2015,flexlm,adskflex
+86356UTLDESN_2015_0F,Autodesk AutoCAD Utility Design 2015,flexlm,adskflex
+86359INFMDR_2015_0F,Autodesk InfraWorks 2015,flexlm,adskflex
+86366VRDPRS_2015_0F,Autodesk VRED Presenter 2015,flexlm,adskflex
+86367VRDPRO_2015_0F,Autodesk VRED Professional 2015,flexlm,adskflex
+86369SHOWCASE_2015_0F,Autodesk Showcase 2015,flexlm,adskflex
+86371ALAUST_2015_0F,Autodesk Alias AutoStudio 2015,flexlm,adskflex
+86373ADSTCP_2015_0F,Autodesk Advance Concrete 2015,flexlm,adskflex
+86375ADSTPR_2015_0F,Autodesk Advance Steel 2015,flexlm,adskflex
+86377SMKMAC_2015_0F,Autodesk Smoke 2015 for Mac OS X,flexlm,adskflex
+86377SMKMACBRN_2015_0F,Autodesk Smoke 2015 for Mac OS X Burn,flexlm,adskflex
+86377SMKMACWG_2015_0F,Autodesk Smoke Wiretap Gateway 2015,flexlm,adskflex
+86378VRDDES_2015_0F,Autodesk VRED Design 2015,flexlm,adskflex
+86379ADKVRD_2015_0F,Autodesk VRED 2015,flexlm,adskflex
+86380VRDSRV_2015_0F,Autodesk VRED Server 2015,flexlm,adskflex
+86381ASPACD_2015_0F,Autodesk Advance Steel 2015 with AutoCAD,flexlm,adskflex
+86383DCMVRD_2015_0F,Autodesk Display Cluster Module for Autodesk VRED Design 2015,flexlm,adskflex
+86384PNTLAY_2015_0F,Autodesk Point Layout 2015,flexlm,adskflex
+86385PNTLAY_F,Autodesk Point Layout Bundle,flexlm,adskflex
+86386RCMVRD_2015_0F,Autodesk Raytracing Cluster Module for Autodesk VRED 2015,flexlm,adskflex
+86388VEHTRK_2015_0F,Autodesk Vehicle Tracking 2015,flexlm,adskflex
+86390IW360P_2015_0F,Autodesk InfraWorks 360 2015,flexlm,adskflex
+86392INVHSM_2015_0F,Autodesk Inventor HSM 2015,flexlm,adskflex
+86394INHSMP_2015_0F,Autodesk Inventor HSM Pro 2015,flexlm,adskflex
+86396IW360C_2015_0F,Autodesk InfraWorks 360 - companion 2015,flexlm,adskflex
+863983DSMXS_2015_0F,Autodesk 3ds Max with SoftImage 2015,flexlm,adskflex
+86400MAYAS_2015_0F,Autodesk Maya with SoftImage 2015,flexlm,adskflex
+86402RECAP_2015_0F,Autodesk ReCap 2015,flexlm,adskflex
+86404HSMPRM_2015_0F,Autodesk HSMWorks Premium 2015,flexlm,adskflex
+86406HSMPRO_2015_0F,Autodesk HSMWorks Professional 2015,flexlm,adskflex
+86408T1MF_2015_0F,T1 Enterprise Multi-flex 2015,flexlm,adskflex
+86412T1MFPV_2015_0F,T1 Enterprise Multi-flex Prior Version 2015,flexlm,adskflex
+86414T1MFSB_2015_0F,T1 Enterprise Multi-flex Standard Bundle 2015,flexlm,adskflex
+86416T1MFPB_2015_0F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2015,flexlm,adskflex
+86417EMFEB_2015_0F,Enterprise Multi-Flex Enhanced Bundle 2015,flexlm,adskflex
+86419BRDGMD_2015_0F,Autodesk Bridge Module 2015,flexlm,adskflex
+86421GEOMOD_2015_0F,Autodesk Geotechnical Module 2015,flexlm,adskflex
+86423RFAMOD_2015_0F,Autodesk River and Flood Analysis Module 2015,flexlm,adskflex
+86427ALAUST_2016_0F,Autodesk Alias AutoStudio 2016,flexlm,adskflex
+86428DESNST_2016_0F,Autodesk Alias Design 2016,flexlm,adskflex
+86429SURFST_2016_0F,Autodesk Alias Surface 2016,flexlm,adskflex
+86430ATCIGM_2016_0F,Autodesk Alias TC Integrator for GM 2016,flexlm,adskflex
+86432DSADV_2016_0F,Autodesk AutoCAD Design Suite Ultimate 2016,flexlm,adskflex
+86435ENCSU_2016_0F,Autodesk Entertainment Creation Suite Ultimate 2016,flexlm,adskflex
+86436GMCADC_2016_0F,Autodesk GM CAD Convertors 2016,flexlm,adskflex
+86437MAYA_2016_0F,Autodesk Maya 2016,flexlm,adskflex
+86437MAYAMMR1_2016_0F,Autodesk Maya 2016 Mental Ray 1,flexlm,adskflex
+86438MYECS_2016_0F,Autodesk Maya Entertainment Creation Suite Standard 2016,flexlm,adskflex
+86439RSAPRO_2016_0F,Autodesk Robot Structural Analysis Professional 2016,flexlm,adskflex
+86440SBPNL_2016_0F,Autodesk SketchBook Pro 2016,flexlm,adskflex
+86441MAYAS_2016_0F,Autodesk Maya with SoftImage 2016,flexlm,adskflex
+86442IDSU_2016_0F,Autodesk Infrastructure Design Suite Ultimate 2016,flexlm,adskflex
+86443BDSADV_2016_0F,Autodesk Building Design Suite Ultimate 2016,flexlm,adskflex
+86444DSPRM_2016_0F,Autodesk AutoCAD Design Suite Premium 2016,flexlm,adskflex
+86445ACD_2016_0F,Autodesk AutoCAD 2016,flexlm,adskflex
+86446DSSTD_2016_0F,Autodesk AutoCAD Design Suite Standard 2016,flexlm,adskflex
+86447ACDLT_2016_0F,Autodesk AutoCAD LT 2016,flexlm,adskflex
+86448ACLTNL_2016_0F,Autodesk AutoCAD LT 2016 Flexible License,flexlm,adskflex
+86449RVTLTS_2016_0F,Autodesk AutoCAD Revit LT Suite 2016,flexlm,adskflex
+86451BDSPRM_2016_0F,Autodesk Building Design Suite Premium 2016,flexlm,adskflex
+86452BDSS_2016_0F,Autodesk Building Design Suite Standard 2016,flexlm,adskflex
+86453RVT_2016_0F,Autodesk Revit 2016,flexlm,adskflex
+86454REVIT_2016_0F,Autodesk Revit Architecture 2016,flexlm,adskflex
+86455RVTLT_2016_0F,Autodesk Revit LT 2016,flexlm,adskflex
+86456RVTMPB_2016_0F,Autodesk Revit MEP 2016,flexlm,adskflex
+86457REVITST_2016_0F,Autodesk Revit Structure 2016,flexlm,adskflex
+86459MRSTND_2016_0F,mental ray Standalone 2016,flexlm,adskflex
+86460MOBPRO_2016_0F,Autodesk MotionBuilder 2016,flexlm,adskflex
+86461MBXPRO_2016_0F,Autodesk Mudbox 2016,flexlm,adskflex
+86462PDSU_2016_0F,Autodesk Product Design Suite Ultimate 2016,flexlm,adskflex
+86464MXECS_2016_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2016,flexlm,adskflex
+86465REVITS_2016_0F,Autodesk AutoCAD Revit Architecture Suite 2016,flexlm,adskflex
+86466REVSYP_2016_0F,Autodesk AutoCAD Revit MEP Suite 2016,flexlm,adskflex
+86467REVSU_2016_0F,Autodesk AutoCAD Revit Structure Suite 2016,flexlm,adskflex
+86468IDSP_2016_0F,Autodesk Infrastructure Design Suite Premium 2016,flexlm,adskflex
+86469PDSPRM_2016_0F,Autodesk Plant Design Suite Premium 2016,flexlm,adskflex
+86470PDSADV_2016_0F,Autodesk Plant Design Suite Ultimate 2016,flexlm,adskflex
+864713DSMAX_2016_0F,Autodesk 3ds Max 2016,flexlm,adskflex
+864733DSMXS_2016_0F,Autodesk 3ds Max with SoftImage 2016,flexlm,adskflex
+86474ARDES_2016_0F,Autodesk AutoCAD Raster Design 2016,flexlm,adskflex
+86475FDSPRM_2016_0F,Autodesk Factory Design Suite Premium 2016,flexlm,adskflex
+86476FDSADV_2016_0F,Autodesk Factory Design Suite Ultimate 2016,flexlm,adskflex
+86477PDSP_2016_0F,Autodesk Product Design Suite Premium 2016,flexlm,adskflex
+86478AMECH_PP_2016_0F,Autodesk AutoCAD Mechanical 2016,flexlm,adskflex
+86479BLDSYS_2016_0F,Autodesk AutoCAD MEP 2016,flexlm,adskflex
+86480ARCHDESK_2016_0F,Autodesk AutoCAD Architecture 2016,flexlm,adskflex
+86481ACAD_E_2016_0F,Autodesk AutoCAD Electrical 2016,flexlm,adskflex
+86485INVLTS_2016_0F,Autodesk AutoCAD Inventor LT Suite 2016,flexlm,adskflex
+86487INTSER_2016_0F,Autodesk Inventor Engineer-to-Order Server 2016,flexlm,adskflex
+86490ADSTPR_2015_1F,Autodesk Advance Steel 2015_1,flexlm,adskflex
+86491FDU_2016_0F,Autodesk Factory Design Utilities 2016,flexlm,adskflex
+86492INVNTOR_2016_0F,Autodesk Inventor 2016,flexlm,adskflex
+86493INVHSM_2016_0F,Autodesk Inventor HSM 2016,flexlm,adskflex
+86494INHSMP_2016_0F,Autodesk Inventor HSM Pro 2016,flexlm,adskflex
+86495INVOEM_2016_0F,Autodesk Inventor OEM 2016,flexlm,adskflex
+86496INVLT_2016_0F,Autodesk Inventor LT 2016,flexlm,adskflex
+86497INVPROSA_2016_0F,Autodesk Inventor Professional 2016,flexlm,adskflex
+86502FDSS_2016_0F,Autodesk Factory Design Suite Standard 2016,flexlm,adskflex
+86503INVETO_2016_0F,Autodesk Inventor Engineer-to-Order Series 2016,flexlm,adskflex
+86506ASPACD_2016_0F,Autodesk Advance Steel 2016 with AutoCAD,flexlm,adskflex
+86507ADSTPR_2016_0F,Autodesk Advance Steel 2016,flexlm,adskflex
+86508IDSS_2016_0F,Autodesk Infrastructure Design Suite Standard 2016,flexlm,adskflex
+86509PLTDSS_2016_0F,Autodesk Plant Design Suite Standard 2016,flexlm,adskflex
+86511ACDMAC_2016_0F,Autodesk AutoCAD 2016 for Mac,flexlm,adskflex
+86512ACDLTM_2016_0F,Autodesk AutoCAD LT 2016 for Mac,flexlm,adskflex
+86513ACDLTC_2016_0F,Autodesk AutoCAD LT Civil Suite 2016,flexlm,adskflex
+86514CIV3D_2016_0F,Autodesk AutoCAD Civil 3D 2016,flexlm,adskflex
+86515ADSTCP_2016_0F,Autodesk Advance Concrete 2016,flexlm,adskflex
+86515MFCD_2016_0F,CADdoctor for Autodesk Simulation 2016,flexlm,adskflex
+86516ADKVRD_2016_0F,Autodesk VRED 2016,flexlm,adskflex
+86517MAP_2016_0F,Autodesk AutoCAD Map 3D 2016,flexlm,adskflex
+86517PLNT3D_2016_0F,Autodesk AutoCAD Plant 3D 2016,flexlm,adskflex
+86517PNID_2016_0F,Autodesk AutoCAD P&ID 2016,flexlm,adskflex
+86517UTLDESN_2016_0F,Autodesk AutoCAD Utility Design 2016,flexlm,adskflex
+86518DCMVRD_2016_0F,Autodesk Display Cluster Module for Autodesk VRED Design 2016,flexlm,adskflex
+86519CADMEP_2016_0F,Autodesk Fabrication CADmep 2016,flexlm,adskflex
+86520CAMDCT_2016_0F,Autodesk Fabrication CAMduct 2016,flexlm,adskflex
+86521CAMLTE_2016_0F,Autodesk Fabrication CAMduct Components 2016,flexlm,adskflex
+86522ESTMEP_2016_0F,Autodesk Fabrication ESTmep 2016,flexlm,adskflex
+86523RMNTRY_2016_0F,Autodesk Fabrication RemoteEntry 2016,flexlm,adskflex
+86524TRCKIT_2016_0F,Autodesk Fabrication Tracker 2016,flexlm,adskflex
+86525HSMPRM_2016_0F,Autodesk HSMWorks Premium 2016,flexlm,adskflex
+86526HSMPRO_2016_0F,Autodesk HSMWorks Professional 2016,flexlm,adskflex
+86529INFMDR_2016_0F,Autodesk InfraWorks 2016,flexlm,adskflex
+86530IW360C_2016_0F,Autodesk InfraWorks 360 - companion 2016,flexlm,adskflex
+86531IW360P_2016_0F,Autodesk InfraWorks 360 2016,flexlm,adskflex
+86532IMRH_2016_0F,Autodesk InfraWorks bundle – Roads & Highways 2016,flexlm,adskflex
+86533INVPUB_2016_0F,Autodesk Inventor Publisher 2016,flexlm,adskflex
+86534NAVMAN_2016_0F,Autodesk Navisworks Manage 2016,flexlm,adskflex
+86535PNTLAY_2016_0F,Autodesk Point Layout 2016,flexlm,adskflex
+86537RCMVRD_2016_0F,Autodesk Raytracing Cluster Module for Autodesk VRED 2016,flexlm,adskflex
+86538RECAP_2016_0F,Autodesk ReCap 2016,flexlm,adskflex
+86540SCFD_2016_0F,Autodesk CFD 2016,flexlm,adskflex
+86541SCFDA_2016_0F,Autodesk CFD 2016 Advanced,flexlm,adskflex
+86542SCACIS_2016_0F,Autodesk Simulation CFD 2016 Connection for ACIS,flexlm,adskflex
+86543SCFDNX_2016_0F,Autodesk CFD 2016 Connection for NX,flexlm,adskflex
+86544SCFDP_2016_0F,Autodesk CFD 2016 Connection for Parasolid,flexlm,adskflex
+86545SCPROE_2016_0F,Autodesk CFD 2016 Connection for Pro ENGINEER,flexlm,adskflex
+86546SCDSE_2016_0F,Autodesk CFD 2016 Design Study Environment,flexlm,adskflex
+86547SCFDM_2016_0F,Autodesk CFD 2016 Motion,flexlm,adskflex
+86548ACMPAN_2016_0F,Autodesk Helius PFA 2016,flexlm,adskflex
+86549ACMPDS_2016_0F,Autodesk Helius Composite 2016,flexlm,adskflex
+86550SIMDFM_2016_0F,Autodesk Moldflow Design 2016,flexlm,adskflex
+86551ASMES_2016_0F,Autodesk Simulation Mechanical 2016,flexlm,adskflex
+86552MFAM_2016_0F,Autodesk Moldflow Adviser Premium 2016,flexlm,adskflex
+86553NAVSIM_2016_0F,Autodesk Navisworks Simulate 2016,flexlm,adskflex
+86554MFAD_2016_0F,Autodesk Moldflow Adviser Standard 2016,flexlm,adskflex
+86555MFIP_2016_0F,Autodesk Moldflow Insight Premium 2016,flexlm,adskflex
+86556MFIB_2016_0F,Autodesk Moldflow Insight Standard 2016,flexlm,adskflex
+86557MFIA_2016_0F,Autodesk Moldflow Insight Ultimate 2016,flexlm,adskflex
+86558MFS_2016_0F,Autodesk Moldflow Synergy 2016,flexlm,adskflex
+86561TSPRHN_2016_0F,Autodesk T-Splines Plug-in for Rhino 2016,flexlm,adskflex
+86562PCOFFI_2016_0F,Autodesk Vault Office 2016,flexlm,adskflex
+86563VLTM_2016_0F,Autodesk Vault Professional 2016,flexlm,adskflex
+86564VLTWG_2016_0F,Autodesk Vault Workgroup 2016,flexlm,adskflex
+86565VEHTRK_2016_0F,Autodesk Vehicle Tracking 2016,flexlm,adskflex
+86566VRDDES_2016_0F,Autodesk VRED Design 2016,flexlm,adskflex
+86567VRDPRS_2016_0F,Autodesk VRED Presenter 2016,flexlm,adskflex
+86568VRDPRO_2016_0F,Autodesk VRED Professional 2016,flexlm,adskflex
+86569EMFEB_2016_0F,Enterprise Multi-Flex Enhanced Bundle 2016,flexlm,adskflex
+86571T1MF_2016_0F,T1 Enterprise Multi-flex 2016,flexlm,adskflex
+86572VRDSRV_2016_0F,Autodesk VRED Server 2016,flexlm,adskflex
+86573T1MFPV_2016_0F,T1 Enterprise Multi-flex Prior Version 2016,flexlm,adskflex
+86574T1MFPB_2016_0F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2016,flexlm,adskflex
+86575T1MFSB_2016_0F,T1 Enterprise Multi-flex Standard Bundle 2016,flexlm,adskflex
+86576MFAA_2016_0F,Autodesk Moldflow Adviser Ultimate 2016,flexlm,adskflex
+86579NSTRN_2016_0F,Autodesk Nastran 2016,flexlm,adskflex
+86580NINCAD_2016_0F,Autodesk Nastran In-CAD 2016,flexlm,adskflex
+86581ALSCPT_2016_0F,Autodesk Alias Concept 2016,flexlm,adskflex
+86581ALSSF_2016_0F,Autodesk Alias SpeedForm 2016,flexlm,adskflex
+86582SHOWCASE_2016_0F,Autodesk Showcase 2016,flexlm,adskflex
+86589RETODP_2016_0F,Autodesk Revit Engineer-to-Order 2016 - Distribution Package,flexlm,adskflex
+86593IETODIS_2016_0F,Autodesk Inventor Engineer-to-Order 2016 - Distribution,flexlm,adskflex
+86595STUWAL_2016_0F,Autodesk Studio Wall 2016,flexlm,adskflex
+Advanced Render,Advanced Render Module for Cinema4D,maxon,maxon
+AssemblyConfigurationManager,AssemblyConfigurationManager,flexlm,rttlmd
+AssemblyWorkflowManager,AssemblyWorkflowManager,flexlm,rttlmd
+AVEVA201,AVEVA Everything3D,flexlm,adskflex
+AVEVA231,AVEVA Administration (admin module),flexlm,adskflex
+AVEVA232,AVEVA Catalogue (paragon),flexlm,adskflex
+bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
+bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
+CINEMA 4D R11,Cinema 4D R11,maxon,maxon
+CW_ACAD,CloudWorx for AutoCAD,flexlm,adskflex
+CW_ACAD_PRO,CloudWorx for AutoCAD Pro,flexlm,adskflex
+CW_SPR,CloudWorx for SmartPlant Review,flexlm,adskflex
+deadline,Deadline Slave,flexlm,thinkbox
+DeltaGen ,DeltaGen,flexlm,rttlmd
+DESIGN-PLATFORM,AVEVA DESIGN-PLATFORM,flexlm,adskflex
+frost,Frost plugin for 3ds Max,flexlm,thinkbox
+FWP,FrameWorks Plus,flexlm,adskflex
+genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
+hdrlspro,HDR LightStudio Pro,rlm,lightmap
+host,Qube - Worker,qube,pipelinefx
+Houdini-Master,Houdini - Master,hserver,sidefx
+INB,SmartPlant Instrumentation modules,flexlm,adskflex
+INK,SmartPlant Instrumentation (Currently Not Used),flexlm,adskflex
+INM,SmartPlant Instrumentation (INtools) Maintenance,flexlm,adskflex
+INS,SmartPlant Instrumentation (INtools) Standard,flexlm,adskflex
+INV,SmartPlant Instrumentation (INtools) View Only / API,flexlm,adskflex
+IS,SmartMarine 3D,flexlm,adskflex
+ISK,SmartPlant Isometrics,flexlm,adskflex
+ISM,SmartPlant Isometrics Modules,flexlm,adskflex
+ISO,SmartMarine 3D Outfitting,flexlm,adskflex
+IST,SmartMarine 3D Tribon,flexlm,adskflex
+krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,thinkbox
+krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,thinkbox
+krakatoa-maya,Krakatoa plugin for Maya - GUI,flexlm,thinkbox
+krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
+krakatoa-render,Krakatoa - Render,flexlm,thinkbox
+mari_i,Mari - Interactive,rlm,foundry
+massive-prime,Massive - Prime,mhost,massive
+MAT,SmartPlant Materials,flexlm,adskflex
+MaterialReader,MaterialReader for Deltagen,flexlm,rttlmd
+MoGraph 2,MoGraph 2 Module for Cinema4D,maxon,maxon
+Multi-Licence,Multi-License,maxon,maxon
+naiad,Naiad,lmx,exotic
+nuke_i,Nuke - Interactive,flexlm,foundry
+nuke_i,Nuke - Interactive,rlm,foundry
+nuke_r,Nuke - Render,flexlm,foundry
+nuke_r,Nuke - Render,rlm,foundry
+nukestudio_i,Nuke Studio - Interactive,rlm,foundry
+nukex_i,Nuke X - Interactive,flexlm,foundry
+nukex_i,Nuke X - Interactive,rlm,foundry
+nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,flexlm,foundry
+nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,rlm,foundry
+PLIST,PLIST,flexlm,adskflex
+PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
+PMD,SupportModeler for PDS,flexlm,adskflex
+PMN,SupportManager for PDS,flexlm,adskflex
+PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
+R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
+RD,SmartPlant Reference Data,flexlm,adskflex
+Render,Houdini or Mantra - Render,hserver,sidefx
+rlm_server_enable_vm,enables to run lightmap rlm daemon in a virtual machine,rlm,lightmap
+rollingshutter_ofx_i,Rollingshutter OFX Plugin - Interactive,flexlm,foundry
+rv,RV - GUI,tlm_server,tweak
+rvio,RV - Render,tlm_server,tweak
+rv-sdi,RV with SDI Output - GUI,tlm_server,tweak
+rvsolo,RV - GUI,tlm_server,tweak
+rvx,RVX,tlm_server,tweak
+RWN1400,GTXRaster CAD,flexlm,adskflex
+S3D,SmartPlant 3D,flexlm,adskflex
+SDF,SDNF Import,flexlm,adskflex
+SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
+SEI,SmartPlant Electrical Import Manager,flexlm,adskflex
+SEL,SmartPlant Electrical,flexlm,adskflex
+ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
+SIM,SmartPlant 3D PDS Model and Data Translators,flexlm,adskflex
+SLA,SmartMarine 3D Layout,flexlm,adskflex
+SPG,SmartPlant Spoolgen,flexlm,adskflex
+SPP,SmartPlant P&ID,flexlm,adskflex
+SPPD,SmartPlant P&ID,flexlm,adskflex
+SPR,SmartPlant Review,flexlm,adskflex
+SRM,SmartPlant Review Modules,flexlm,adskflex
+SRP,SmartPlant Review Publisher,flexlm,adskflex
+SSK,SmartSketch,flexlm,adskflex
+stoke-max,Stoke plugin for 3ds Max,flexlm,thinkbox
+supervisor,Qube - Supervisor,qube,pipelinefx
+uvlayoutv2 ,UVLayout 2,hlserver,headus
+xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
