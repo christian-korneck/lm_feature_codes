@@ -1143,6 +1143,7 @@ CW_SPR,CloudWorx for SmartPlant Review,flexlm,adskflex
 deadline,Deadline Slave,flexlm,thinkbox
 DeltaGen ,DeltaGen,flexlm,rttlmd
 DESIGN-PLATFORM,AVEVA DESIGN-PLATFORM,flexlm,adskflex
+fabric,Fabric Engine,rlm,fabricinc 
 frost,Frost plugin for 3ds Max,flexlm,thinkbox
 FWP,FrameWorks Plus,flexlm,adskflex
 genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
@@ -1197,6 +1198,8 @@ rvsolo,RV - GUI,tlm_server,tweak
 rvx,RVX,tlm_server,tweak
 RWN1400,GTXRaster CAD,flexlm,adskflex
 S3D,SmartPlant 3D,flexlm,adskflex
+sapphireofx,Sapphire OFX plugins - GUI,rlm,genarts
+sapphireofx_r,Sapphire OFX plugins - Render,rlm,genarts
 SDF,SDNF Import,flexlm,adskflex
 SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
 SEI,SmartPlant Electrical Import Manager,flexlm,adskflex
