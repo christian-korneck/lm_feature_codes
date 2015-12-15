@@ -1,3 +1,4 @@
+lm_feature_code,description,lm_system,lm_vendor
 2D0,PDS 2D PID,flexlm,adskflex
 2D1,PDS 2D,flexlm,adskflex
 2D2,PDS 2D Graphics Only,flexlm,adskflex
@@ -1201,7 +1202,6 @@ krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,thinkbox
 krakatoa-maya,Krakatoa plugin for Maya - GUI,flexlm,thinkbox
 krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
 krakatoa-render,Krakatoa - Render,flexlm,thinkbox
-lm_feature_code,description,lm_system,lm_vendor
 mari_i,Mari - Interactive,rlm,foundry
 massive-prime,Massive - Prime,mhost,massive
 mocha3dimporter.core,component of Mocha Pro 4,flexlm,isl
@@ -1243,3 +1243,4 @@ supervisor,Qube - Supervisor,qube,pipelinefx
 uvlayoutv2 ,UVLayout 2,hlserver,headus
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,frantic
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
+
