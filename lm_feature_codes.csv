@@ -208,7 +208,7 @@ lm_feature_code,description,lm_system,lm_vendor
 69300RSA_2009_0F,Autodesk Robot Structural Analysis 2009,flexlm,adskflex
 69400RSAPRO_2009_0F,Autodesk Robot Structural Analysis Professional 2009,flexlm,adskflex
 69600RSAPRO_F,Autodesk Robot Structural Analysis Professional Package,flexlm,adskflex
-699003DSMAX_2010_0F,Autodesk® 3ds Max® 2010,flexlm,adskflex
+699003DSMAX_2010_0F,AutodeskÂ® 3ds MaxÂ® 2010,flexlm,adskflex
 70000MAXDES_2010_0F,Autodesk 3ds Max Design 2010,flexlm,adskflex
 70100MAXDES_F,Autodesk 3ds Max Design Package,flexlm,adskflex
 70200MBXPRO_2009_0F,Autodesk Mudbox 2009,flexlm,adskflex
@@ -1080,7 +1080,7 @@ lm_feature_code,description,lm_system,lm_vendor
 86529INFMDR_2016_0F,Autodesk InfraWorks 2016,flexlm,adskflex
 86530IW360C_2016_0F,Autodesk InfraWorks 360 - companion 2016,flexlm,adskflex
 86531IW360P_2016_0F,Autodesk InfraWorks 360 2016,flexlm,adskflex
-86532IMRH_2016_0F,Autodesk InfraWorks bundle – Roads & Highways 2016,flexlm,adskflex
+86532IMRH_2016_0F,Autodesk InfraWorks bundle Â– Roads & Highways 2016,flexlm,adskflex
 86533INVPUB_2016_0F,Autodesk Inventor Publisher 2016,flexlm,adskflex
 86534NAVMAN_2016_0F,Autodesk Navisworks Manage 2016,flexlm,adskflex
 86535PNTLAY_2016_0F,Autodesk Point Layout 2016,flexlm,adskflex
@@ -1218,3 +1218,24 @@ stoke-max,Stoke plugin for 3ds Max,flexlm,thinkbox
 supervisor,Qube - Supervisor,qube,pipelinefx
 uvlayoutv2 ,UVLayout 2,hlserver,headus
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
+draft,Draft for Deadline,flexlm,thinkbox
+deadline-balancer,Deadline Balancer,flexlm,thinkbox
+deadline,Deadline,flexlm,frantic
+xmesh-saver,Xmesh plugin for 3ds Max,flexlm,frantic
+krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,frantic
+krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
+mochapro4,Mocha Pro 4 (package),flexlm,isl
+mochapro.update,component of Mocha Pro 4,flexlm,isl
+mochapro.track,component of Mocha Pro 4,flexlm,isl
+mochapro.adjusttrack,component of Mocha Pro 4,flexlm,isl
+mochapro.lens,component of Mocha Pro 4,flexlm,isl
+mochapro.image,component of Mocha Pro 4,flexlm,isl
+mochapro.stable,component of Mocha Pro 4,flexlm,isl
+mochapro.remove,component of Mocha Pro 4,flexlm,isl
+mochapro.python,component of Mocha Pro 4,flexlm,isl
+mochapro.stereo,component of Mocha Pro 4,flexlm,isl
+mochashape.ae.mac,component of Mocha Pro 4,flexlm,isl
+mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
+mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
+mochashape4fc.core.mac,component of Mocha Pro 4,flexlm,isl
+mocha3dimporter.core,component of Mocha Pro 4,flexlm,isl
