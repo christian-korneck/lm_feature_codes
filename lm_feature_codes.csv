@@ -1,4 +1,3 @@
-lm_feature_code,description,lm_system,lm_vendor
 2D0,PDS 2D PID,flexlm,adskflex
 2D1,PDS 2D,flexlm,adskflex
 2D2,PDS 2D Graphics Only,flexlm,adskflex
@@ -269,12 +268,12 @@ lm_feature_code,description,lm_system,lm_vendor
 78100ECOA_F,Autodesk Ecotect Analysis Package,flexlm,adskflex
 78200RAV-S_2009_0F,AutoCAD Revit Architecture Visualization Suite 2009,flexlm,adskflex
 78600SFTIM_7_5F,Autodesk Softimage 7.5,flexlm,adskflex
-78800SFTIMA_7_5F,Autodesk Softimage Advanced 7.5,flexlm,adskflex
 78800SFTIMASIB1_7_5F,Autodesk Softimage Advanced 7.5 SIBatch1,flexlm,adskflex
 78800SFTIMASIB2_7_5F,Autodesk Softimage Advanced 7.5 SIBatch2,flexlm,adskflex
 78800SFTIMASIB3_7_5F,Autodesk Softimage Advanced 7.5 SIBatch3,flexlm,adskflex
 78800SFTIMASIB4_7_5F,Autodesk Softimage Advanced 7.5 SIBatch4,flexlm,adskflex
 78800SFTIMASIB5_7_5F,Autodesk Softimage Advanced 7.5 SIBatch5,flexlm,adskflex
+78800SFTIMA_7_5F,Autodesk Softimage Advanced 7.5,flexlm,adskflex
 78900SFTIMA_F,Autodesk Softimage Advanced Package,flexlm,adskflex
 79000SFTIMASIB1_F,Autodesk Softimage SIBatch1 Package,flexlm,adskflex
 79100SFTIMASIB2_F,Autodesk Softimage SIBatch2 Package,flexlm,adskflex
@@ -290,11 +289,11 @@ lm_feature_code,description,lm_system,lm_vendor
 80700ESME_2010_0F,Autodesk Education Suite for Mechanical Engineering 2010,flexlm,adskflex
 80900ESCSE_2010_0F,Autodesk Education Suite for Civil and Structural Engineering 2010,flexlm,adskflex
 81500RAVS_2010_0F,AutoCAD Revit Architecture Visualization Suite 2010,flexlm,adskflex
-81700MAYACP_2010_0F,Autodesk Maya Complete 2010,flexlm,adskflex
 81700MAYACPMR_2010_0F,Autodesk Maya Complete 2010 Mental Ray,flexlm,adskflex
-81800MAYAUL_2010_0F,Autodesk Maya Unlimited 2010,flexlm,adskflex
+81700MAYACP_2010_0F,Autodesk Maya Complete 2010,flexlm,adskflex
 81800MAYAULFS_2010_0F,Autodesk Maya Unlimited 2010 Fluid Simulation,flexlm,adskflex
 81800MAYAULMR_2010_0F,Autodesk Maya Unlimited 2010 Mental Ray,flexlm,adskflex
+81800MAYAUL_2010_0F,Autodesk Maya Unlimited 2010,flexlm,adskflex
 82000BDFBS_2010_0F,Autodesk Building Fabrication Suite 2010,flexlm,adskflex
 82200STRDET_2010_0F,AutoCAD Structural Detailing 2010,flexlm,adskflex
 82400RVTMPB_2010_0F,Autodesk Revit MEP-B 2010,flexlm,adskflex
@@ -314,14 +313,14 @@ lm_feature_code,description,lm_system,lm_vendor
 84800AUTOST_2011_0F,Autodesk Alias Automotive 2011,flexlm,adskflex
 85000DESNST_2011_0F,Autodesk Alias Design 2011,flexlm,adskflex
 85200SURFST_2011_0F,Autodesk Alias Surface 2011,flexlm,adskflex
-85400MAYA_2010_0F,Maya 2010,flexlm,adskflex
 85400MAYAMFS_2010_0F,Autodesk Maya 2010 Fluid Simulation,flexlm,adskflex
-85400MAYAMMR_2010_0F,Autodesk Maya 2010 Mental Ray,flexlm,adskflex
 85400MAYAMMR1_2010_0F,Autodesk Maya 2010 Mental Ray 1,flexlm,adskflex
 85400MAYAMMR2_2010_0F,Autodesk Maya 2010 Mental Ray 2,flexlm,adskflex
 85400MAYAMMR3_2010_0F,Autodesk Maya 2010 Mental Ray 3,flexlm,adskflex
 85400MAYAMMR4_2010_0F,Autodesk Maya 2010 Mental Ray 4,flexlm,adskflex
 85400MAYAMMR5_2010_0F,Autodesk Maya 2010 Mental Ray 5,flexlm,adskflex
+85400MAYAMMR_2010_0F,Autodesk Maya 2010 Mental Ray,flexlm,adskflex
+85400MAYA_2010_0F,Maya 2010,flexlm,adskflex
 855013DSMAX_2011_0F,Autodesk 3ds Max 2011,flexlm,adskflex
 855023DSMAX_F,Autodesk 3ds Max Package,flexlm,adskflex
 85503MAXDES_2011_0F,Autodesk 3ds Max Design 2011,flexlm,adskflex
@@ -332,11 +331,8 @@ lm_feature_code,description,lm_system,lm_vendor
 85525ASMES_F,Autodesk Algor Simulation MES Package,flexlm,adskflex
 85536ACD_2011_0F,AutoCAD 2011,flexlm,adskflex
 85536ACD_2011_0P,AutoCAD 2011 Pre-Release,flexlm,adskflex
-85537MAYA_2011_0F,Autodesk Maya 2011,flexlm,adskflex
 85537MAYAMFS_2011_0F,Autodesk Maya 2011 Fluid Simulation,flexlm,adskflex
 85537MAYAMFS_F,Autodesk Maya Fluid Simulation,flexlm,adskflex
-85537MAYAMMR_2011_0F,Autodesk Maya 2011 Mental Ray,flexlm,adskflex
-85537MAYAMMR_F,Autodesk Maya Mental Ray Package,flexlm,adskflex
 85537MAYAMMR1_2011_0F,Autodesk Maya 2011 Mental Ray 1,flexlm,adskflex
 85537MAYAMMR1_F,Autodesk Maya Mental Ray 1 Package,flexlm,adskflex
 85537MAYAMMR2_2011_0F,Autodesk Maya 2011 Mental Ray 2,flexlm,adskflex
@@ -347,6 +343,9 @@ lm_feature_code,description,lm_system,lm_vendor
 85537MAYAMMR4_F,Autodesk Maya Mental Ray 4 Package,flexlm,adskflex
 85537MAYAMMR5_2011_0F,Autodesk Maya 2011 Mental Ray 5,flexlm,adskflex
 85537MAYAMMR5_F,Autodesk Maya Mental Ray 5 Package,flexlm,adskflex
+85537MAYAMMR_2011_0F,Autodesk Maya 2011 Mental Ray,flexlm,adskflex
+85537MAYAMMR_F,Autodesk Maya Mental Ray Package,flexlm,adskflex
+85537MAYA_2011_0F,Autodesk Maya 2011,flexlm,adskflex
 85538ACAD_E_2011_0F,AutoCAD Electrical 2011,flexlm,adskflex
 85541RVTMPB_2011_0F,Autodesk Revit MEP-B 2011,flexlm,adskflex
 85543REVITST_2011_0F,Autodesk Revit Structure 2011,flexlm,adskflex
@@ -360,12 +359,12 @@ lm_feature_code,description,lm_system,lm_vendor
 85560TOPOBSWEB_2011_0F,Autodesk Topobase Web 2011,flexlm,adskflex
 85561ARCHDESK_2011_0F,AutoCAD Architecture 2011,flexlm,adskflex
 85562BLDSYS_2011_0F,AutoCAD MEP 2011,flexlm,adskflex
-85563SFTIM_2011_0F,Autodesk Softimage 2011,flexlm,adskflex
 85563SFTIMSIB1_2011_0F,Autodesk Softimage 2011 SIBatch1,flexlm,adskflex
 85563SFTIMSIB2_2011_0F,Autodesk Softimage 2011 SIBatch2,flexlm,adskflex
 85563SFTIMSIB3_2011_0F,Autodesk Softimage 2011 SIBatch3,flexlm,adskflex
 85563SFTIMSIB4_2011_0F,Autodesk Softimage 2011 SIBatch4,flexlm,adskflex
 85563SFTIMSIB5_2011_0F,Autodesk Softimage 2011 SIBatch5,flexlm,adskflex
+85563SFTIM_2011_0F,Autodesk Softimage 2011,flexlm,adskflex
 85567INVPRO_2011_0F,AutoCAD Inventor Professional Suite 2011,flexlm,adskflex
 85569INVPRORS_2011_0F,AutoCAD Inventor Routed Systems Suite 2011,flexlm,adskflex
 85571INVPROSIM_2011_0F,AutoCAD Inventor Simulation Suite 2011,flexlm,adskflex
@@ -462,17 +461,17 @@ lm_feature_code,description,lm_system,lm_vendor
 85692PDSADV_F,Autodesk Plant Design Suite Ultimate Package,flexlm,adskflex
 85693SMKMAC_2011_0F,Autodesk Smoke 2011 for Mac OS X,flexlm,adskflex
 85693SMKMAC_2011_0P,Autodesk Smoke 2011 for Mac OS X,flexlm,adskflex
-85694MAYA_2012_0F,Autodesk Maya 2012,flexlm,adskflex
 85694MAYAMMR1_2012_0F,Autodesk Maya 2012 Mental Ray 1,flexlm,adskflex
 85694MAYAMMR1_F,Autodesk Maya Mental Ray 1 Package,flexlm,adskflex
+85694MAYA_2012_0F,Autodesk Maya 2012,flexlm,adskflex
 85696MBXPRO_2012_0F,Autodesk Mudbox 2012,flexlm,adskflex
 856983DSMAX_2012_0F,Autodesk 3ds Max 2012,flexlm,adskflex
 85700MAXDES_2012_0F,Autodesk 3ds Max Design 2012,flexlm,adskflex
 85702MOBPRO_2012_0F,Autodesk MotionBuilder 2012,flexlm,adskflex
 85704SHOWCASE_2012_0F,Autodesk Showcase 2012,flexlm,adskflex
-85705SFTIM_2012_0F,Autodesk Softimage 2012,flexlm,adskflex
 85705SFTIMASIB_F,Autodesk Softimage 2013 Batch Package,flexlm,adskflex
 85705SFTIMSIB_2012_0F,Autodesk Softimage 2012 SIBatch,flexlm,adskflex
+85705SFTIM_2012_0F,Autodesk Softimage 2012,flexlm,adskflex
 85708MXECS_2012_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2012,flexlm,adskflex
 85710MXECSP_2012_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2012,flexlm,adskflex
 85712AAA_2012_0F,Autodesk Animation Academy 2012,flexlm,adskflex
@@ -487,11 +486,11 @@ lm_feature_code,description,lm_system,lm_vendor
 85732ACDLT_2012_0F,AutoCAD LT 2012,flexlm,adskflex
 85733AMECH_PP_2012_0F,AutoCAD Mechanical 2012,flexlm,adskflex
 85734BLDSYS_2012_0F,AutoCAD MEP 2012,flexlm,adskflex
-85737SMKMAC_2012_0F,Autodesk Smoke 2012 for Mac OS X,flexlm,adskflex
 85737SMKMACBRN_2012_0F,Autodesk Smoke Burn 2012,flexlm,adskflex
 85737SMKMACBRN_F,Autodesk Smoke Burn Package,flexlm,adskflex
 85737SMKMACWG_2012_0F,Autodesk Smoke Wiretap Gateway 2012,flexlm,adskflex
 85737SMKMACWG_F,Autodesk Smoke Wiretap Gateway Package,flexlm,adskflex
+85737SMKMAC_2012_0F,Autodesk Smoke 2012 for Mac OS X,flexlm,adskflex
 85738SMKMAC_F,Autodesk Smoke for Mac OS X Package,flexlm,adskflex
 85740AUTOST_2012_0F,Autodesk Alias Automotive 2012,flexlm,adskflex
 85741DESNST_2012_0F,Autodesk Alias Design 2012,flexlm,adskflex
@@ -589,12 +588,12 @@ lm_feature_code,description,lm_system,lm_vendor
 85853ACD_2012_0F,Autodesk Vault Base Server 2012,flexlm,adskflex
 85854OSPRO_2012_0F,Autodesk Opticore Studio Professional 2012,flexlm,adskflex
 85856VTCAEC_2012_0F,Autodesk Vault Collaboration AEC 2012,flexlm,adskflex
-85857MAYA_2013_0F,Autodesk Maya 2013,flexlm,adskflex
 85857MAYAMMR1_2013_0F,Autodesk Maya 2013 Mental Ray 1,flexlm,adskflex
+85857MAYA_2013_0F,Autodesk Maya 2013,flexlm,adskflex
 85859TRTLS_2012_0F,Turtle For Maya Standard 2012,flexlm,adskflex
-85860TRTLP_2012_0F,Turtle For Maya Premium 2012,flexlm,adskflex
 85860TRTLPB_2012_0F,Turtle For Maya Premium 2012,flexlm,adskflex
 85860TRTLPB_F,Turtle For Maya Premium Package,flexlm,adskflex
+85860TRTLP_2012_0F,Turtle For Maya Premium 2012,flexlm,adskflex
 85862REVIT_2013_0F,Autodesk Revit Architecture 2013,flexlm,adskflex
 85864RVTMPB_2013_0F,Autodesk Revit MEP 2013,flexlm,adskflex
 85866REVITST_2013_0F,Autodesk Revit Structure 2013,flexlm,adskflex
@@ -641,12 +640,12 @@ lm_feature_code,description,lm_system,lm_vendor
 85928MYECSP_2013_0F,Autodesk Maya Entertainment Creation Suite Premium 2013,flexlm,adskflex
 85930MYECS_2013_0F,Autodesk Maya Entertainment Creation Suite Standard 2013,flexlm,adskflex
 85932SIECS_2013_0F,Autodesk Softimage Entertainment Creation Suite Standard 2013,flexlm,adskflex
-85934SFTIM_2013_0F,Autodesk Softimage 2013,flexlm,adskflex
 85934SFTIMSIB_2013_0F,Autodesk Softimage 2013 SIBatch,flexlm,adskflex
+85934SFTIM_2013_0F,Autodesk Softimage 2013,flexlm,adskflex
 85936MOBPRO_2013_0F,Autodesk MotionBuilder 2013,flexlm,adskflex
-85937SMKMAC_2013_0F,Autodesk Smoke 2013 for Mac OS X,flexlm,adskflex
 85937SMKMACBRN_2013_0F,Autodesk Smoke 2013 for Mac OS X Burn,flexlm,adskflex
 85937SMKMACWG_2013_0F,Autodesk Smoke 2013 for Mac OS X Wiretap Gateway,flexlm,adskflex
+85937SMKMAC_2013_0F,Autodesk Smoke 2013 for Mac OS X,flexlm,adskflex
 85940ASMES_2013_0F,Autodesk Simulation Mechanical 2013,flexlm,adskflex
 85942ASPRO_2013_0F,Autodesk Simulation Multiphysics 2013,flexlm,adskflex
 85943STRDET_2013_0F,AutoCAD Structural Detailing 2013,flexlm,adskflex
@@ -731,8 +730,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86047SCFDP_2013_0F,Autodesk Simulation CFD 2013 Connection for Parasolid,flexlm,adskflex
 86049CADMEP_2013_0F,Autodesk Fabrication CADmep 2013,flexlm,adskflex
 86056SIMDFM_2013_0F,Autodesk Simulation DFM 2013,flexlm,adskflex
-86058MAYA_2014_0F,Autodesk Maya 2014,flexlm,adskflex
 86058MAYAMMR1_2014_0F,Autodesk Maya Mental Ray 1 2014,flexlm,adskflex
+86058MAYA_2014_0F,Autodesk Maya 2014,flexlm,adskflex
 86059T1MF_2013_0F,T1 Enterprise Multi-flex 2013,flexlm,adskflex
 86061T1MFPV_2013_0F,T1 Enterprise Multi-flex Prior Version 2013,flexlm,adskflex
 86063ACD_2014_0F,AutoCAD 2014,flexlm,adskflex
@@ -842,15 +841,15 @@ lm_feature_code,description,lm_system,lm_vendor
 86193T1MFPV_2014_0F,T1 Enterprise Multi-flex Prior Version 2014,flexlm,adskflex
 86197IMRH_2014_0F,Autodesk InfraWorks Roads & Highways 2014,flexlm,adskflex
 86198FDU_2014_0F,Autodesk Factory Design Utilities 2014,flexlm,adskflex
-86200SMKMAC_2014_0F,Autodesk Smoke 2014 for Mac OS X,flexlm,adskflex
 86200SMKMACBRN_2014_0F,Autodesk Smoke 2014 for Mac OS X Burn,flexlm,adskflex
 86200SMKMACWG_2014_0F,Autodesk Smoke Wiretap Gateway 2014,flexlm,adskflex
+86200SMKMAC_2014_0F,Autodesk Smoke 2014 for Mac OS X,flexlm,adskflex
 86201INVPUB_2013_1F,Autodesk Inventor Publisher 2013 R1,flexlm,adskflex
 86202INVPUB_F,Autodesk Inventor Publisher Package,flexlm,adskflex
 86207VRDDES_2014_0F,Autodesk VRED Design 2014,flexlm,adskflex
 86208VRDPRO_2014_0F,Autodesk VRED Professional 2014,flexlm,adskflex
-86213MAYA_2015_0F,Autodesk Maya 2015,flexlm,adskflex
 86213MAYAMMR1_2015_0F,Autodesk Maya 2015 Mental Ray 1,flexlm,adskflex
+86213MAYA_2015_0F,Autodesk Maya 2015,flexlm,adskflex
 86214TRTLPB_2015_0F,Turtle for Maya 2015,flexlm,adskflex
 86221AUTOST_2015_0F,Autodesk Alias Automotive 2015,flexlm,adskflex
 86222DESNST_2015_0F,Autodesk Alias Design 2015,flexlm,adskflex
@@ -891,8 +890,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86266PDSP_2015_0F,Autodesk Product Design Suite Premium 2015,flexlm,adskflex
 86267PDSS_2015_0F,Autodesk Product Design Suite Standard 2015,flexlm,adskflex
 86268PDSU_2015_0F,Autodesk Product Design Suite Ultimate 2015,flexlm,adskflex
-86269SFTIM_2015_0F,Autodesk Softimage 2015,flexlm,adskflex
 86269SFTIMSIB_2015_0F,Autodesk Softimage 2015 SIBatch,flexlm,adskflex
+86269SFTIM_2015_0F,Autodesk Softimage 2015,flexlm,adskflex
 86270SIECS_2015_0F,Autodesk Softimage Entertainment Creation Suite Standard 2015,flexlm,adskflex
 86271MRSTND_2015_0F,mental ray Standalone 2015,flexlm,adskflex
 86273RVT_2015_0F,Autodesk Revit 2015,flexlm,adskflex
@@ -963,9 +962,9 @@ lm_feature_code,description,lm_system,lm_vendor
 86371ALAUST_2015_0F,Autodesk Alias AutoStudio 2015,flexlm,adskflex
 86373ADSTCP_2015_0F,Autodesk Advance Concrete 2015,flexlm,adskflex
 86375ADSTPR_2015_0F,Autodesk Advance Steel 2015,flexlm,adskflex
-86377SMKMAC_2015_0F,Autodesk Smoke 2015 for Mac OS X,flexlm,adskflex
 86377SMKMACBRN_2015_0F,Autodesk Smoke 2015 for Mac OS X Burn,flexlm,adskflex
 86377SMKMACWG_2015_0F,Autodesk Smoke Wiretap Gateway 2015,flexlm,adskflex
+86377SMKMAC_2015_0F,Autodesk Smoke 2015 for Mac OS X,flexlm,adskflex
 86378VRDDES_2015_0F,Autodesk VRED Design 2015,flexlm,adskflex
 86379ADKVRD_2015_0F,Autodesk VRED 2015,flexlm,adskflex
 86380VRDSRV_2015_0F,Autodesk VRED Server 2015,flexlm,adskflex
@@ -999,8 +998,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86432DSADV_2016_0F,Autodesk AutoCAD Design Suite Ultimate 2016,flexlm,adskflex
 86435ENCSU_2016_0F,Autodesk Entertainment Creation Suite Ultimate 2016,flexlm,adskflex
 86436GMCADC_2016_0F,Autodesk GM CAD Convertors 2016,flexlm,adskflex
-86437MAYA_2016_0F,Autodesk Maya 2016,flexlm,adskflex
 86437MAYAMMR1_2016_0F,Autodesk Maya 2016 Mental Ray 1,flexlm,adskflex
+86437MAYA_2016_0F,Autodesk Maya 2016,flexlm,adskflex
 86438MYECS_2016_0F,Autodesk Maya Entertainment Creation Suite Standard 2016,flexlm,adskflex
 86439RSAPRO_2016_0F,Autodesk Robot Structural Analysis Professional 2016,flexlm,adskflex
 86440SBPNL_2016_0F,Autodesk SketchBook Pro 2016,flexlm,adskflex
@@ -1080,7 +1079,7 @@ lm_feature_code,description,lm_system,lm_vendor
 86529INFMDR_2016_0F,Autodesk InfraWorks 2016,flexlm,adskflex
 86530IW360C_2016_0F,Autodesk InfraWorks 360 - companion 2016,flexlm,adskflex
 86531IW360P_2016_0F,Autodesk InfraWorks 360 2016,flexlm,adskflex
-86532IMRH_2016_0F,Autodesk InfraWorks bundle  Roads & Highways 2016,flexlm,adskflex
+86532IMRH_2016_0F,Autodesk InfraWorks bundle ? Roads & Highways 2016,flexlm,adskflex
 86533INVPUB_2016_0F,Autodesk Inventor Publisher 2016,flexlm,adskflex
 86534NAVMAN_2016_0F,Autodesk Navisworks Manage 2016,flexlm,adskflex
 86535PNTLAY_2016_0F,Autodesk Point Layout 2016,flexlm,adskflex
@@ -1128,27 +1127,23 @@ lm_feature_code,description,lm_system,lm_vendor
 86589RETODP_2016_0F,Autodesk Revit Engineer-to-Order 2016 - Distribution Package,flexlm,adskflex
 86593IETODIS_2016_0F,Autodesk Inventor Engineer-to-Order 2016 - Distribution,flexlm,adskflex
 86595STUWAL_2016_0F,Autodesk Studio Wall 2016,flexlm,adskflex
-Advanced Render,Advanced Render Module for Cinema4D,maxon,maxon
-AssemblyConfigurationManager,AssemblyConfigurationManager,flexlm,rttlmd
-AssemblyWorkflowManager,AssemblyWorkflowManager,flexlm,rttlmd
 AVEVA201,AVEVA Everything3D,flexlm,adskflex
 AVEVA231,AVEVA Administration (admin module),flexlm,adskflex
 AVEVA232,AVEVA Catalogue (paragon),flexlm,adskflex
-bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
-bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
+Advanced Render,Advanced Render Module for Cinema4D,maxon,maxon
+AssemblyConfigurationManager,AssemblyConfigurationManager,flexlm,rttlmd
+AssemblyWorkflowManager,AssemblyWorkflowManager,flexlm,rttlmd
+CAI,Catia SmartTeam Catia Integration,lum,SmarTeam Corporation
 CINEMA 4D R11,Cinema 4D R11,maxon,maxon
 CW_ACAD,CloudWorx for AutoCAD,flexlm,adskflex
 CW_ACAD_PRO,CloudWorx for AutoCAD Pro,flexlm,adskflex
 CW_SPR,CloudWorx for SmartPlant Review,flexlm,adskflex
-deadline,Deadline Slave,flexlm,thinkbox
-DeltaGen ,DeltaGen,flexlm,rttlmd
 DESIGN-PLATFORM,AVEVA DESIGN-PLATFORM,flexlm,adskflex
-fabric,Fabric Engine,rlm,fabricinc 
-frost,Frost plugin for 3ds Max,flexlm,thinkbox
+DP2,Catia DB2 datalinks,lum,catiadbs
+DeltaGen ,DeltaGen,flexlm,rttlmd
+EDR,Catia SmartTeam Editor,lum,SmarTeam Corporation
+FDN,Catia SmartTeam Foundation,lum,SmarTeam Corporation
 FWP,FrameWorks Plus,flexlm,adskflex
-genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
-hdrlspro,HDR LightStudio Pro,rlm,lightmap
-host,Qube - Worker,qube,pipelinefx
 Houdini-Master,Houdini - Master,hserver,sidefx
 INB,SmartPlant Instrumentation modules,flexlm,adskflex
 INK,SmartPlant Instrumentation (Currently Not Used),flexlm,adskflex
@@ -1160,17 +1155,70 @@ ISK,SmartPlant Isometrics,flexlm,adskflex
 ISM,SmartPlant Isometrics Modules,flexlm,adskflex
 ISO,SmartMarine 3D Outfitting,flexlm,adskflex
 IST,SmartMarine 3D Tribon,flexlm,adskflex
-krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,thinkbox
-krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,thinkbox
-krakatoa-maya,Krakatoa plugin for Maya - GUI,flexlm,thinkbox
-krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
-krakatoa-render,Krakatoa - Render,flexlm,thinkbox
-mari_i,Mari - Interactive,rlm,foundry
-massive-prime,Massive - Prime,mhost,massive
 MAT,SmartPlant Materials,flexlm,adskflex
 MaterialReader,MaterialReader for Deltagen,flexlm,rttlmd
 MoGraph 2,MoGraph 2 Module for Cinema4D,maxon,maxon
 Multi-Licence,Multi-License,maxon,maxon
+PLIST,PLIST,flexlm,adskflex
+PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
+PMD,SupportModeler for PDS,flexlm,adskflex
+PMN,SupportManager for PDS,flexlm,adskflex
+PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
+R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
+RD,SmartPlant Reference Data,flexlm,adskflex
+RWN1400,GTXRaster CAD,flexlm,adskflex
+Render,Houdini or Mantra - Render,hserver,sidefx
+S3D,SmartPlant 3D,flexlm,adskflex
+SDF,SDNF Import,flexlm,adskflex
+SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
+SEI,SmartPlant Electrical Import Manager,flexlm,adskflex
+SEL,SmartPlant Electrical,flexlm,adskflex
+SIM,SmartPlant 3D PDS Model and Data Translators,flexlm,adskflex
+SLA,SmartMarine 3D Layout,flexlm,adskflex
+SPG,SmartPlant Spoolgen,flexlm,adskflex
+SPP,SmartPlant P&ID,flexlm,adskflex
+SPPD,SmartPlant P&ID,flexlm,adskflex
+SPR,SmartPlant Review,flexlm,adskflex
+SRM,SmartPlant Review Modules,flexlm,adskflex
+SRP,SmartPlant Review Publisher,flexlm,adskflex
+SSK,SmartSketch,flexlm,adskflex
+ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
+bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
+bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
+deadline,Deadline Slave,flexlm,thinkbox
+deadline,Deadline,flexlm,frantic
+deadline-balancer,Deadline Balancer,flexlm,thinkbox
+draft,Draft for Deadline,flexlm,thinkbox
+fabric,Fabric Engine,rlm,fabricinc 
+frost,Frost plugin for 3ds Max,flexlm,thinkbox
+genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
+hdrlspro,HDR LightStudio Pro,rlm,lightmap
+host,Qube - Worker,qube,pipelinefx
+krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,frantic
+krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,thinkbox
+krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
+krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,thinkbox
+krakatoa-maya,Krakatoa plugin for Maya - GUI,flexlm,thinkbox
+krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
+krakatoa-render,Krakatoa - Render,flexlm,thinkbox
+lm_feature_code,description,lm_system,lm_vendor
+mari_i,Mari - Interactive,rlm,foundry
+massive-prime,Massive - Prime,mhost,massive
+mocha3dimporter.core,component of Mocha Pro 4,flexlm,isl
+mochapro.adjusttrack,component of Mocha Pro 4,flexlm,isl
+mochapro.image,component of Mocha Pro 4,flexlm,isl
+mochapro.lens,component of Mocha Pro 4,flexlm,isl
+mochapro.python,component of Mocha Pro 4,flexlm,isl
+mochapro.remove,component of Mocha Pro 4,flexlm,isl
+mochapro.stable,component of Mocha Pro 4,flexlm,isl
+mochapro.stereo,component of Mocha Pro 4,flexlm,isl
+mochapro.track,component of Mocha Pro 4,flexlm,isl
+mochapro.update,component of Mocha Pro 4,flexlm,isl
+mochapro4,Mocha Pro 4 (package),flexlm,isl
+mochashape.ae.mac,component of Mocha Pro 4,flexlm,isl
+mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
+mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
+mochashape4fc.core.mac,component of Mocha Pro 4,flexlm,isl
 naiad,Naiad,lmx,exotic
 nuke_i,Nuke - Interactive,flexlm,foundry
 nuke_i,Nuke - Interactive,rlm,foundry
@@ -1181,65 +1229,17 @@ nukex_i,Nuke X - Interactive,flexlm,foundry
 nukex_i,Nuke X - Interactive,rlm,foundry
 nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,flexlm,foundry
 nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,rlm,foundry
-PLIST,PLIST,flexlm,adskflex
-PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
-PMD,SupportModeler for PDS,flexlm,adskflex
-PMN,SupportManager for PDS,flexlm,adskflex
-PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
-R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
-RD,SmartPlant Reference Data,flexlm,adskflex
-Render,Houdini or Mantra - Render,hserver,sidefx
 rlm_server_enable_vm,enables to run lightmap rlm daemon in a virtual machine,rlm,lightmap
 rollingshutter_ofx_i,Rollingshutter OFX Plugin - Interactive,flexlm,foundry
 rv,RV - GUI,tlm_server,tweak
-rvio,RV - Render,tlm_server,tweak
 rv-sdi,RV with SDI Output - GUI,tlm_server,tweak
+rvio,RV - Render,tlm_server,tweak
 rvsolo,RV - GUI,tlm_server,tweak
 rvx,RVX,tlm_server,tweak
-RWN1400,GTXRaster CAD,flexlm,adskflex
-S3D,SmartPlant 3D,flexlm,adskflex
 sapphireofx,Sapphire OFX plugins - GUI,rlm,genarts
 sapphireofx_r,Sapphire OFX plugins - Render,rlm,genarts
-SDF,SDNF Import,flexlm,adskflex
-SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
-SEI,SmartPlant Electrical Import Manager,flexlm,adskflex
-SEL,SmartPlant Electrical,flexlm,adskflex
-ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
-SIM,SmartPlant 3D PDS Model and Data Translators,flexlm,adskflex
-SLA,SmartMarine 3D Layout,flexlm,adskflex
-SPG,SmartPlant Spoolgen,flexlm,adskflex
-SPP,SmartPlant P&ID,flexlm,adskflex
-SPPD,SmartPlant P&ID,flexlm,adskflex
-SPR,SmartPlant Review,flexlm,adskflex
-SRM,SmartPlant Review Modules,flexlm,adskflex
-SRP,SmartPlant Review Publisher,flexlm,adskflex
-SSK,SmartSketch,flexlm,adskflex
 stoke-max,Stoke plugin for 3ds Max,flexlm,thinkbox
 supervisor,Qube - Supervisor,qube,pipelinefx
 uvlayoutv2 ,UVLayout 2,hlserver,headus
-xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
-draft,Draft for Deadline,flexlm,thinkbox
-deadline-balancer,Deadline Balancer,flexlm,thinkbox
-deadline,Deadline,flexlm,frantic
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,frantic
-krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,frantic
-krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
-mochapro4,Mocha Pro 4 (package),flexlm,isl
-mochapro.update,component of Mocha Pro 4,flexlm,isl
-mochapro.track,component of Mocha Pro 4,flexlm,isl
-mochapro.adjusttrack,component of Mocha Pro 4,flexlm,isl
-mochapro.lens,component of Mocha Pro 4,flexlm,isl
-mochapro.image,component of Mocha Pro 4,flexlm,isl
-mochapro.stable,component of Mocha Pro 4,flexlm,isl
-mochapro.remove,component of Mocha Pro 4,flexlm,isl
-mochapro.python,component of Mocha Pro 4,flexlm,isl
-mochapro.stereo,component of Mocha Pro 4,flexlm,isl
-mochashape.ae.mac,component of Mocha Pro 4,flexlm,isl
-mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
-mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
-mochashape4fc.core.mac,component of Mocha Pro 4,flexlm,isl
-mocha3dimporter.core,component of Mocha Pro 4,flexlm,isl
-DP2,Catia DB2 datalinks,lum,catiadbs
-FDN,Catia SmartTeam Foundation,lum,SmarTeam Corporation
-CAI,Catia SmartTeam Catia Integration,lum,SmarTeam Corporation
-EDR,Catia SmartTeam Editor,lum,SmarTeam Corporation
+xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
