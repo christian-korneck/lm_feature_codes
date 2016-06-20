@@ -1734,6 +1734,7 @@ PMN,SupportManager for PDS,flexlm,adskflex
 PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
 R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
 RD,SmartPlant Reference Data,flexlm,adskflex
+reelsmartmotionblur,RE:Vision Effects Reelsmart Motion Blur (RSMB),rvl,revisionfx
 Render,Houdini or Mantra - Render,hserver,sidefx
 rlm_server_enable_vm,enables to run lightmap rlm daemon in a virtual machine,rlm,lightmap
 rollingshutter_ofx_i,Rollingshutter OFX Plugin - Interactive,flexlm,foundry
@@ -1763,6 +1764,7 @@ SRP,SmartPlant Review Publisher,flexlm,adskflex
 SSK,SmartSketch,flexlm,adskflex
 stoke-max,Stoke plugin for 3ds Max,flexlm,thinkbox
 supervisor,Qube - Supervisor,qube,pipelinefx
+twixtor,RE:Vision Effects Twixtor,rvl,revisionfx
 uvlayoutv2 ,UVLayout 2,hlserver,headus
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,frantic
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
