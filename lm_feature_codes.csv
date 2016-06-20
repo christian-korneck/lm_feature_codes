@@ -448,7 +448,6 @@
 85524ASCFD_F,Autodesk Algor Simulation CFD Package,flexlm,adskflex
 85525ASMES_F,Autodesk Algor Simulation MES Package,flexlm,adskflex
 85526ASPRO_F,Autodesk Algor Simulation Professional Package,flexlm,adskflex
-85527MAYA_F,Autodesk Maya Package,flexlm,adskflex
 85527MAYA_F,Autodesk Maya,flexlm,adskflex
 85529MAYAMFS_F,Autodesk Maya Fluid Simulation Package,flexlm,adskflex
 85530MAYAMMR_F,Autodesk Maya Mental Ray Package,flexlm,adskflex
