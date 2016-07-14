@@ -6,6 +6,6 @@ CSV list of FlexLM, RLM, etc license feature codes and their human-readable desc
 
 Note
 -------------
-list is incomplete and may contain false entries. Provided without any warranty. Additions/Corrections are welcome.
+List is incomplete and may contain false entries. Provided without any warranty. Additions/Corrections are welcome.
 
 
