@@ -1,4 +1,4 @@
-﻿lm_feature_code,description,lm_system,lm_vendor
+lm_feature_code,description,lm_system,lm_vendor
 2D0,PDS 2D PID,flexlm,adskflex
 2D1,PDS 2D,flexlm,adskflex
 2D2,PDS 2D Graphics Only,flexlm,adskflex
@@ -256,8 +256,8 @@
 69600RSAPRO_F,Autodesk Robot Structural Analysis Professional Package,flexlm,adskflex
 69600RSAPRO_T_F,Autodesk Robot Structural Analysis Professional,flexlm,adskflex
 69800MB_F,Autodesk MotionBuilder Package,flexlm,adskflex
-699003DSMAX_2010_0F,Autodesk® 3ds Max® 2010,flexlm,adskflex
 699003DSMAX_2010_0F,Autodesk 3ds Max 2010,flexlm,adskflex
+699003DSMAX_2010_0F,Autodesk® 3ds Max® 2010,flexlm,adskflex
 70000MAXDES_2010_0F,Autodesk 3ds Max Design 2010,flexlm,adskflex
 70100MAXDES_F,Autodesk 3ds Max Design Package,flexlm,adskflex
 70200MBXPRO_2009_0F,Autodesk Mudbox 2009,flexlm,adskflex
@@ -1430,8 +1430,8 @@
 86529INFMDR_2016_0F,Autodesk InfraWorks 2016,flexlm,adskflex
 86530IW360C_2016_0F,Autodesk InfraWorks 360 - companion 2016,flexlm,adskflex
 86531IW360P_2016_0F,Autodesk InfraWorks 360 2016,flexlm,adskflex
-86532IMRH_2016_0F,Autodesk InfraWorks bundle – Roads & Highways 2016,flexlm,adskflex
 86532IMRH_2016_0F,Autodesk InfraWorks bundle ? Roads & Highways 2016,flexlm,adskflex
+86532IMRH_2016_0F,Autodesk InfraWorks bundle – Roads & Highways 2016,flexlm,adskflex
 86533INVPUB_2016_0F,Autodesk Inventor Publisher 2016,flexlm,adskflex
 86534NAVMAN_2016_0F,Autodesk Navisworks Manage 2016,flexlm,adskflex
 86535PNTLAY_2016_0F,Autodesk Point Layout 2016,flexlm,adskflex
@@ -1650,34 +1650,23 @@
 86817T1MFSB_2017_0F,T1 Enterprise Multi-flex Standard Bundle 2017,flexlm,adskflex
 86818EMFEB_2017_0F,Enterprise Multi-Flex Enhanced Bundle 2017,flexlm,adskflex
 86819T1MFPB_2017_0F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2017,flexlm,adskflex
-Advanced Render,Advanced Render Module for Cinema4D,maxon,maxon
-AssemblyConfigurationManager,AssemblyConfigurationManager,flexlm,rttlmd
-AssemblyWorkflowManager,AssemblyWorkflowManager,flexlm,rttlmd
 AVEVA201,AVEVA Everything3D,flexlm,adskflex
 AVEVA231,AVEVA Administration (admin module),flexlm,adskflex
 AVEVA232,AVEVA Catalogue (paragon),flexlm,adskflex
-bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
-bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
+Advanced Render,Advanced Render Module for Cinema4D,maxon,maxon
+AssemblyConfigurationManager,AssemblyConfigurationManager,flexlm,rttlmd
+AssemblyWorkflowManager,AssemblyWorkflowManager,flexlm,rttlmd
 CAI,Catia SmartTeam Catia Integration,lum,SmarTeam Corporation
 CINEMA 4D R11,Cinema 4D R11,maxon,maxon
 CW_ACAD,CloudWorx for AutoCAD,flexlm,adskflex
 CW_ACAD_PRO,CloudWorx for AutoCAD Pro,flexlm,adskflex
 CW_SPR,CloudWorx for SmartPlant Review,flexlm,adskflex
-deadline,Deadline Slave,flexlm,thinkbox
-deadline,Deadline,flexlm,frantic
-deadline-balancer,Deadline Balancer,flexlm,thinkbox
-DeltaGen ,DeltaGen,flexlm,rttlmd
 DESIGN-PLATFORM,AVEVA DESIGN-PLATFORM,flexlm,adskflex
 DP2,Catia DB2 datalinks,lum,catiadbs
-draft,Draft for Deadline,flexlm,thinkbox
+DeltaGen ,DeltaGen,flexlm,rttlmd
 EDR,Catia SmartTeam Editor,lum,SmarTeam Corporation
-fabric,Fabric Engine,rlm,fabricinc 
 FDN,Catia SmartTeam Foundation,lum,SmarTeam Corporation
-frost,Frost plugin for 3ds Max,flexlm,thinkbox
 FWP,FrameWorks Plus,flexlm,adskflex
-genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
-hdrlspro,HDR LightStudio Pro,rlm,lightmap
-host,Qube - Worker,qube,pipelinefx
 Houdini-Master,Houdini - Master,hserver,sidefx
 INB,SmartPlant Instrumentation modules,flexlm,adskflex
 INK,SmartPlant Instrumentation (Currently Not Used),flexlm,adskflex
@@ -1689,6 +1678,48 @@ ISK,SmartPlant Isometrics,flexlm,adskflex
 ISM,SmartPlant Isometrics Modules,flexlm,adskflex
 ISO,SmartMarine 3D Outfitting,flexlm,adskflex
 IST,SmartMarine 3D Tribon,flexlm,adskflex
+MAT,SmartPlant Materials,flexlm,adskflex
+MaterialReader,MaterialReader for Deltagen,flexlm,rttlmd
+MoGraph 2,MoGraph 2 Module for Cinema4D,maxon,maxon
+Multi-Licence,Multi-License,maxon,maxon
+PLIST,PLIST,flexlm,adskflex
+PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
+PMD,SupportModeler for PDS,flexlm,adskflex
+PMN,SupportManager for PDS,flexlm,adskflex
+PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
+R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
+RD,SmartPlant Reference Data,flexlm,adskflex
+RWN1400,GTXRaster CAD,flexlm,adskflex
+Render,Houdini or Mantra - Render,hserver,sidefx
+S3D,SmartPlant 3D,flexlm,adskflex
+SDF,SDNF Import,flexlm,adskflex
+SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
+SEI,SmartPlant Electrical Import Manager,flexlm,adskflex
+SEL,SmartPlant Electrical,flexlm,adskflex
+SHOWPRO_F_S,Autodesk Showcase Professional Package,flexlm,adskflex
+SIM,SmartPlant 3D PDS Model and Data Translators,flexlm,adskflex
+SLA,SmartMarine 3D Layout,flexlm,adskflex
+SPG,SmartPlant Spoolgen,flexlm,adskflex
+SPP,SmartPlant P&ID,flexlm,adskflex
+SPPD,SmartPlant P&ID,flexlm,adskflex
+SPR,SmartPlant Review,flexlm,adskflex
+SRM,SmartPlant Review Modules,flexlm,adskflex
+SRP,SmartPlant Review Publisher,flexlm,adskflex
+SSK,SmartSketch,flexlm,adskflex
+ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
+bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
+bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
+deadline,Deadline Slave,flexlm,thinkbox
+deadline,Deadline,flexlm,frantic
+deadline-balancer,Deadline Balancer,flexlm,thinkbox
+draft,Draft for Deadline,flexlm,thinkbox
+fabric,Fabric Engine,rlm,fabricinc 
+frost,Frost plugin for 3ds Max,flexlm,thinkbox
+genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
+hdrlspro,HDR LightStudio Pro,rlm,lightmap
+host,Qube - Worker,qube,pipelinefx
+katana_i,Katana - Interactive,rlm,foundry
+katana_r,Katana - Interactive,rlm,foundry
 krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,frantic
 krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,thinkbox
 krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
@@ -1698,8 +1729,6 @@ krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
 krakatoa-render,Krakatoa - Render,flexlm,thinkbox
 mari_i,Mari - Interactive,rlm,foundry
 massive-prime,Massive - Prime,mhost,massive
-MAT,SmartPlant Materials,flexlm,adskflex
-MaterialReader,MaterialReader for Deltagen,flexlm,rttlmd
 mocha3dimporter.core,component of Mocha Pro 4,flexlm,isl
 mochapro.adjusttrack,component of Mocha Pro 4,flexlm,isl
 mochapro.image,component of Mocha Pro 4,flexlm,isl
@@ -1714,27 +1743,17 @@ mochapro4,Mocha Pro 4 (package),flexlm,isl
 mochashape.ae.mac,component of Mocha Pro 4,flexlm,isl
 mochashape.ae.win,component of Mocha Pro 4,flexlm,isl
 mochashape4fc.core.mac,component of Mocha Pro 4,flexlm,isl
-MoGraph 2,MoGraph 2 Module for Cinema4D,maxon,maxon
-Multi-Licence,Multi-License,maxon,maxon
 naiad,Naiad,lmx,exotic
-nukestudio_i,Nuke Studio - Interactive,rlm,foundry
-nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,flexlm,foundry
-nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,rlm,foundry
-nukex_i,Nuke X - Interactive,flexlm,foundry
-nukex_i,Nuke X - Interactive,rlm,foundry
 nuke_i,Nuke - Interactive,flexlm,foundry
 nuke_i,Nuke - Interactive,rlm,foundry
 nuke_r,Nuke - Render,flexlm,foundry
 nuke_r,Nuke - Render,rlm,foundry
-PLIST,PLIST,flexlm,adskflex
-PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
-PMD,SupportModeler for PDS,flexlm,adskflex
-PMN,SupportManager for PDS,flexlm,adskflex
-PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
-R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
-RD,SmartPlant Reference Data,flexlm,adskflex
+nukestudio_i,Nuke Studio - Interactive,rlm,foundry
+nukex_i,Nuke X - Interactive,flexlm,foundry
+nukex_i,Nuke X - Interactive,rlm,foundry
+nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,flexlm,foundry
+nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,rlm,foundry
 reelsmartmotionblur,RE:Vision Effects Reelsmart Motion Blur (RSMB),rvl,revisionfx
-Render,Houdini or Mantra - Render,hserver,sidefx
 rlm_server_enable_vm,enables to run lightmap rlm daemon in a virtual machine,rlm,lightmap
 rollingshutter_ofx_i,Rollingshutter OFX Plugin - Interactive,flexlm,foundry
 rv,RV - GUI,tlm_server,tweak
@@ -1742,25 +1761,8 @@ rv-sdi,RV with SDI Output - GUI,tlm_server,tweak
 rvio,RV - Render,tlm_server,tweak
 rvsolo,RV - GUI,tlm_server,tweak
 rvx,RVX,tlm_server,tweak
-RWN1400,GTXRaster CAD,flexlm,adskflex
-S3D,SmartPlant 3D,flexlm,adskflex
 sapphireofx,Sapphire OFX plugins - GUI,rlm,genarts
 sapphireofx_r,Sapphire OFX plugins - Render,rlm,genarts
-SDF,SDNF Import,flexlm,adskflex
-SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
-SEI,SmartPlant Electrical Import Manager,flexlm,adskflex
-SEL,SmartPlant Electrical,flexlm,adskflex
-ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
-SHOWPRO_F_S,Autodesk Showcase Professional Package,flexlm,adskflex
-SIM,SmartPlant 3D PDS Model and Data Translators,flexlm,adskflex
-SLA,SmartMarine 3D Layout,flexlm,adskflex
-SPG,SmartPlant Spoolgen,flexlm,adskflex
-SPP,SmartPlant P&ID,flexlm,adskflex
-SPPD,SmartPlant P&ID,flexlm,adskflex
-SPR,SmartPlant Review,flexlm,adskflex
-SRM,SmartPlant Review Modules,flexlm,adskflex
-SRP,SmartPlant Review Publisher,flexlm,adskflex
-SSK,SmartSketch,flexlm,adskflex
 stoke-max,Stoke plugin for 3ds Max,flexlm,thinkbox
 supervisor,Qube - Supervisor,qube,pipelinefx
 twixtor,RE:Vision Effects Twixtor,rvl,revisionfx
