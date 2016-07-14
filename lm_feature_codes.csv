@@ -1719,7 +1719,7 @@ genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
 hdrlspro,HDR LightStudio Pro,rlm,lightmap
 host,Qube - Worker,qube,pipelinefx
 katana_i,Katana - Interactive,rlm,foundry
-katana_r,Katana - Interactive,rlm,foundry
+katana_r,Katana - Render,rlm,foundry
 krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,frantic
 krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,thinkbox
 krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
