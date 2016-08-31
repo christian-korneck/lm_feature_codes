@@ -1682,6 +1682,8 @@ MAT,SmartPlant Materials,flexlm,adskflex
 MaterialReader,MaterialReader for Deltagen,flexlm,rttlmd
 MoGraph 2,MoGraph 2 Module for Cinema4D,maxon,maxon
 Multi-Licence,Multi-License,maxon,maxon
+PFTrack 2014,PFTrack 2014,pflic,The Pixel Farm
+PFTrack 2015,PFTrack 2015,pflic,The Pixel Farm
 PLIST,PLIST,flexlm,adskflex
 PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
 PMD,SupportModeler for PDS,flexlm,adskflex
