@@ -1679,10 +1679,14 @@ ISM,SmartPlant Isometrics Modules,flexlm,adskflex
 ISO,SmartMarine 3D Outfitting,flexlm,adskflex
 IST,SmartMarine 3D Tribon,flexlm,adskflex
 MAT,SmartPlant Materials,flexlm,adskflex
+MadCar,iCube R&D Group MadCar for 3ds Max,cerber,cerber
+MadCar,iCube R&D Group MadCar for 3ds Max,cerber,cerber
 MaterialReader,MaterialReader for Deltagen,flexlm,rttlmd
 MoGraph 2,MoGraph 2 Module for Cinema4D,maxon,maxon
 Multi-Licence,Multi-License,maxon,maxon
+MultiScatterFor3dsMax,iCube R&D Group Multiscatter for 3ds Max,cerber,cerber
 PFTrack 2014,PFTrack 2014,pflic,The Pixel Farm
+PFTrack 2015,PFTrack 2015,pflic,The Pixel Farm
 PFTrack 2015,PFTrack 2015,pflic,The Pixel Farm
 PLIST,PLIST,flexlm,adskflex
 PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
@@ -1714,10 +1718,12 @@ bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
 deadline,Deadline Slave,flexlm,thinkbox
 deadline,Deadline,flexlm,frantic
 deadline-balancer,Deadline Balancer,flexlm,thinkbox
+directorstudio,Craft Director Studio for 3ds Max,rlm,craftanim
 draft,Draft for Deadline,flexlm,thinkbox
 fabric,Fabric Engine,rlm,fabricinc 
 frost,Frost plugin for 3ds Max,flexlm,thinkbox
 genome-max,Genome plugin for 3ds Max,flexlm,thinkbox
+golaemcrowd,Golaem Crowd,rlm,golaem
 hdrlspro,HDR LightStudio Pro,rlm,lightmap
 host,Qube - Worker,qube,pipelinefx
 katana_i,Katana - Interactive,rlm,foundry
@@ -1755,7 +1761,9 @@ nukex_i,Nuke X - Interactive,flexlm,foundry
 nukex_i,Nuke X - Interactive,rlm,foundry
 nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,flexlm,foundry
 nukexassist_i,Nuke X Assist (Nuke Light for Roto) - Interactive,rlm,foundry
+presenz,Nozon Presenz,rlm,presenz
 reelsmartmotionblur,RE:Vision Effects Reelsmart Motion Blur (RSMB),rvl,revisionfx
+rlm_server_enable_vm,enables to run golaem rlm daemon in a virtual machine,rlm,golaem
 rlm_server_enable_vm,enables to run lightmap rlm daemon in a virtual machine,rlm,lightmap
 rollingshutter_ofx_i,Rollingshutter OFX Plugin - Interactive,flexlm,foundry
 rv,RV - GUI,tlm_server,tweak
@@ -1765,6 +1773,7 @@ rvsolo,RV - GUI,tlm_server,tweak
 rvx,RVX,tlm_server,tweak
 sapphireofx,Sapphire OFX plugins - GUI,rlm,genarts
 sapphireofx_r,Sapphire OFX plugins - Render,rlm,genarts
+sl2,iToo ForestPack Pro,sls,itoo
 stoke-max,Stoke plugin for 3ds Max,flexlm,thinkbox
 supervisor,Qube - Supervisor,qube,pipelinefx
 twixtor,RE:Vision Effects Twixtor,rvl,revisionfx
