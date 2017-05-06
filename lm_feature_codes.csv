@@ -187,74 +187,46 @@ lm_feature_code,description,lm_system,lm_vendor
 62700NAVREV_2009_0F,Autodesk NavisWorks Review 2009,flexlm,adskflex
 62800NAVSIM_2009_0F,Autodesk NavisWorks Simulate 2009,flexlm,adskflex
 62900NAVMAN_2009_0F,Autodesk NavisWorks Manage 2009,flexlm,adskflex
-64300ACD_F,AutoCAD Package,flexlm,adskflex
-64300ACD_F,Autodesk AutoCAD 2018 Package (perpetual),flexlm,adskflex
-64300ACD_T_F,Autodesk AutoCAD 2018 Package (rental),flexlm,adskflex
-64300ACD_T_F,Autodesk AutoCAD,flexlm,adskflex
-64400AMECH_PP_F,AutoCAD Mechanical Package,flexlm,adskflex
-64400AMECH_PP_F,Autodesk AutoCAD Mechanical 2018 Package (perpetual),flexlm,adskflex
-64400AMECH_PP_T_F,Autodesk AutoCAD Mechanical 2018 Package (rental),flexlm,adskflex
-64400AMECH_PP_T_F,Autodesk AutoCAD Mechanical,flexlm,adskflex
+64300ACD_F,Autodesk AutoCAD Package (perpetual),flexlm,adskflex
+64300ACD_T_F,Autodesk AutoCAD Package (rental),flexlm,adskflex
+64400AMECH_PP_F,Autodesk AutoCAD Mechanical Package (perpetual),flexlm,adskflex
+64400AMECH_PP_T_F,Autodesk AutoCAD Mechanical Package (rental),flexlm,adskflex
 64500INVBUN_F,Inventor Series Package,flexlm,adskflex
 64600INVPRORS_F,Autodesk Inventor Routed Systems Suite Package,flexlm,adskflex
 64700INVPROSIM_F,Autodesk Inventor Simulation Suite Package,flexlm,adskflex
 64800INVPRO_F,Inventor Professional Package,flexlm,adskflex
-64801INVPROSA_F,Autodesk Inventor Professional 2018 Package (perpetual),flexlm,adskflex
-64801INVPROSA_F,Autodesk Inventor Professional Package,flexlm,adskflex
-64801INVPROSA_T_F,Autodesk Inventor Professional 2018 Package (rental),flexlm,adskflex
-64801INVPROSA_T_F,Autodesk Inventor Professional,flexlm,adskflex
-64900CIV3D_F,Autodesk AutoCAD Civil 3D 2018 Package (perpetual),flexlm,adskflex
-64900CIV3D_F,Autodesk Civil 3D Package,flexlm,adskflex
-64900CIV3D_T_F,Autodesk AutoCAD Civil 3D 2018 Package (rental),flexlm,adskflex
-64900CIV3D_T_F,Autodesk AutoCAD Civil 3D,flexlm,adskflex
+64801INVPROSA_F,Autodesk Inventor Professional Package (perpetual),flexlm,adskflex
+64801INVPROSA_T_F,Autodesk Inventor Professional Package (rental),flexlm,adskflex
+64900CIV3D_F,Autodesk AutoCAD Civil 3D Package (perpetual),flexlm,adskflex
+64900CIV3D_T_F,Autodesk AutoCAD Civil 3D Package (rental),flexlm,adskflex
 65000ACDLAND_F,AutoCAD Land Desktop Package,flexlm,adskflex
-65100BLDSYS_F,AutoCAD MEP Package,flexlm,adskflex
-65100BLDSYS_F,Autodesk AutoCAD MEP 2018 Package (perpetual),flexlm,adskflex
-65100BLDSYS_T_F,Autodesk AutoCAD MEP 2018 Package (rental),flexlm,adskflex
-65100BLDSYS_T_F,Autodesk AutoCAD MEP,flexlm,adskflex
+65100BLDSYS_F,Autodesk AutoCAD MEP Package (perpetual),flexlm,adskflex
+65100BLDSYS_T_F,Autodesk AutoCAD MEP Package (rental),flexlm,adskflex
 65200REVSYP_F,AutoCAD Revit MEP Suite Package,flexlm,adskflex
-65300ARCHDESK_F,AutoCAD Architecture Package,flexlm,adskflex
-65300ARCHDESK_F,Autodesk AutoCAD Architecture 2018 Package (perpetual),flexlm,adskflex
-65300ARCHDESK_T_F,Autodesk AutoCAD Architecture 2018 Package (rental),flexlm,adskflex
+65300ARCHDESK_F,Autodesk AutoCAD Architecture Package (perpetual),flexlm,adskflex
 65300ARCHDESK_T_F,Autodesk AutoCAD Architecture,flexlm,adskflex
-65400MAP_F,AutoCAD Map 3D Package,flexlm,adskflex
-65400MAP_F,Autodesk AutoCAD Map 3D 2018 Package (perpetual),flexlm,adskflex
-65400MAP_T_F,Autodesk AutoCAD Map 3D 2018 Package (rental),flexlm,adskflex
-65400MAP_T_F,Autodesk AutoCAD Map 3D,flexlm,adskflex
-65500ACAD_E_F,AutoCAD Electrical Package,flexlm,adskflex
-65500ACAD_E_F,Autodesk AutoCAD Electrical 2018 Package (perpetual),flexlm,adskflex
-65500ACAD_E_T_F,Autodesk AutoCAD Electrical 2018 Package (rental),flexlm,adskflex
-65500ACAD_E_T_F,Autodesk AutoCAD Electrical,flexlm,adskflex
-65600UTLDESN_F,AutoCAD Utility Design Package,flexlm,adskflex
-65600UTLDESN_F,Autodesk AutoCAD Utility Design 2018 Package (perpetual),flexlm,adskflex
-65600UTLDESN_T_F,Autodesk AutoCAD Utility Design 2018 Package (rental),flexlm,adskflex
-65600UTLDESN_T_F,Autodesk AutoCAD Utility Design,flexlm,adskflex
-65700PLNT3D_F,AutoCAD Plant 3D Package,flexlm,adskflex
-65700PLNT3D_F,Autodesk AutoCAD Plant 3D 2018 Package (perpetual),flexlm,adskflex
-65700PLNT3D_T_F,Autodesk AutoCAD Plant 3D 2018 Package (rental),flexlm,adskflex
-65700PLNT3D_T_F,Autodesk AutoCAD Plant 3D,flexlm,adskflex
+65400MAP_F,Autodesk AutoCAD Map 3D Package (perpetual),flexlm,adskflex
+65400MAP_T_F,Autodesk AutoCAD Map 3D Package (rental),flexlm,adskflex
+65500ACAD_E_F,Autodesk AutoCAD Electrical Package (perpetual),flexlm,adskflex
+65500ACAD_E_T_F,Autodesk AutoCAD Electrical Package (rental),flexlm,adskflex
+65600UTLDESN_F,Autodesk AutoCAD Utility Design Package (perpetual),flexlm,adskflex
+65600UTLDESN_T_F,Autodesk AutoCAD Utility Design Package (rental),flexlm,adskflex
+65700PLNT3D_F,Autodesk AutoCAD Plant 3D Package (perpetual),flexlm,adskflex
+65700PLNT3D_T_F,Autodesk AutoCAD Plant 3D Package (rental),flexlm,adskflex
 65800TOPOBSCLNT_F,Autodesk Topobase Client Package,flexlm,adskflex
 65900REVITS_F,AutoCAD Revit Architecture Suite Package,flexlm,adskflex
 66000REVSU_F,AutoCAD Revit Series - Structure Package,flexlm,adskflex
-66100INVLT_F,Autodesk Inventor LT 2018 Package (perpetual),flexlm,adskflex
-66100INVLT_F,Autodesk Inventor LT Package,flexlm,adskflex
-66100INVLT_T_F,Autodesk Inventor LT 2018 Package (rental),flexlm,adskflex
-66100INVLT_T_F,Autodesk Inventor LT,flexlm,adskflex
-662003DSMAX_F,Autodesk 3ds Max 2018 Package (perpetual),flexlm,adskflex
-662003DSMAX_F,Autodesk 3ds Max Package,flexlm,adskflex
-662003DSMAX_T_F,Autodesk 3ds Max 2018 Package (rental),flexlm,adskflex
-662003DSMAX_T_F,Autodesk 3ds Max,flexlm,adskflex
-66300ARDES_F,AutoCAD Raster Design Package,flexlm,adskflex
-66300ARDES_F,Autodesk AutoCAD Raster Design 2018 Package (perpetual),flexlm,adskflex
-66300ARDES_T_F,Autodesk AutoCAD Raster Design 2018 Package (rental),flexlm,adskflex
-66300ARDES_T_F,Autodesk AutoCAD Raster Design,flexlm,adskflex
+66100INVLT_F,Autodesk Inventor LT Package (perpetual),flexlm,adskflex
+66100INVLT_T_F,Autodesk Inventor LT Package (rental),flexlm,adskflex
+662003DSMAX_F,Autodesk 3ds Max Package (perpetual),flexlm,adskflex
+662003DSMAX_T_F,Autodesk 3ds Max Package (rental),flexlm,adskflex
+66300ARDES_F,Autodesk AutoCAD Raster Design Package (perpetual),flexlm,adskflex
+66300ARDES_T_F,Autodesk AutoCAD Raster Design Package (rental),flexlm,adskflex
 66400MAPGE_F,Autodesk MapGuide Enterprise Package,flexlm,adskflex
 66500PCPRO_F,Autodesk Productstream Professional Package,flexlm,adskflex
 66600PCEASY_F,Autodesk Productstream Professional Easy Package,flexlm,adskflex
-66700PCOFFI_F,Autodesk 360 Vault Office Package,flexlm,adskflex
-66700PCOFFI_F,Autodesk Vault Office 2018 Package (perpetual),flexlm,adskflex
-66700PCOFFI_T_F,Autodesk Vault Office 2018 Package (rental),flexlm,adskflex
-66700PCOFFI_T_F,Autodesk Vault Office,flexlm,adskflex
+66700PCOFFI_F,Autodesk Vault Office Package (perpetual),flexlm,adskflex
+66700PCOFFI_T_F,Autodesk Vault Office Package (rental),flexlm,adskflex
 66800REVIT_F,Revit Architecture Package,flexlm,adskflex
 66900REVITST_F,Autodesk Revit Structure Package,flexlm,adskflex
 67000MAYACP_F,Autodesk Maya Complete Package,flexlm,adskflex
@@ -263,14 +235,10 @@ lm_feature_code,description,lm_system,lm_vendor
 67300TOPOBSWEB_F,Autodesk Topobase Web Package,flexlm,adskflex
 67400NAVREV_F,Autodesk NavisWorks Review Package,flexlm,adskflex
 67500NAVSIM_F,Autodesk NavisWorks Simulate Package,flexlm,adskflex
-67600NAVMAN_F,Autodesk Navisworks Manage 2018 Package (perpetual),flexlm,adskflex
-67600NAVMAN_F,Autodesk Navisworks Manage Package,flexlm,adskflex
-67600NAVMAN_T_F,Autodesk Navisworks Manage 2018 Package (rental),flexlm,adskflex
-67600NAVMAN_T_F,Autodesk Navisworks Manage,flexlm,adskflex
-67700PNID_F,AutoCAD P&ID Package,flexlm,adskflex
-67700PNID_F,Autodesk AutoCAD P&ID 2018 Package (perpetual),flexlm,adskflex
-67700PNID_T_F,Autodesk AutoCAD P&ID 2018 Package (rental),flexlm,adskflex
-67700PNID_T_F,Autodesk AutoCAD P&ID,flexlm,adskflex
+67600NAVMAN_F,Autodesk Navisworks Manage Package (perpetual),flexlm,adskflex
+67600NAVMAN_T_F,Autodesk Navisworks Manage Package (rental),flexlm,adskflex
+67700PNID_F,Autodesk AutoCAD P&ID Package (perpetual),flexlm,adskflex
+67700PNID_T_F,Autodesk AutoCAD P&ID Package (rental),flexlm,adskflex
 67800RVTMPJ_2009_0F,Autodesk Revit MEP 2009,flexlm,adskflex
 68300T1MF_2_0F,Package: T1 Enterprise Multi-Flex 2,flexlm,adskflex
 68600AQTO_2010_0F,Autodesk Quantity Takeoff 2010,flexlm,adskflex
@@ -285,13 +253,10 @@ lm_feature_code,description,lm_system,lm_vendor
 69300RSA_2009_0F,Autodesk Robot Structural Analysis 2009,flexlm,adskflex
 69400RSAPRO_2009_0F,Autodesk Robot Structural Analysis Professional 2009,flexlm,adskflex
 69500RSA_F,Autodesk Robot Structural Analysis Package,flexlm,adskflex
-69600RSAPRO_F,Autodesk Robot Structural Analysis Professional 2018 Package (perpetual),flexlm,adskflex
-69600RSAPRO_F,Autodesk Robot Structural Analysis Professional Package,flexlm,adskflex
-69600RSAPRO_T_F,Autodesk Robot Structural Analysis Professional 2018 Package (rental),flexlm,adskflex
-69600RSAPRO_T_F,Autodesk Robot Structural Analysis Professional,flexlm,adskflex
+69600RSAPRO_F,Autodesk Robot Structural Analysis Professional Package (perpetual),flexlm,adskflex
+69600RSAPRO_T_F,Autodesk Robot Structural Analysis Professional Package (rental),flexlm,adskflex
 69800MB_F,Autodesk MotionBuilder Package,flexlm,adskflex
 699003DSMAX_2010_0F,Autodesk 3ds Max 2010,flexlm,adskflex
-699003DSMAX_2010_0F,Autodesk® 3ds Max® 2010,flexlm,adskflex
 70000MAXDES_2010_0F,Autodesk 3ds Max Design 2010,flexlm,adskflex
 70100MAXDES_F,Autodesk 3ds Max Design Package,flexlm,adskflex
 70200MBXPRO_2009_0F,Autodesk Mudbox 2009,flexlm,adskflex
@@ -312,10 +277,8 @@ lm_feature_code,description,lm_system,lm_vendor
 72100PCPRO_2010_0F,Autodesk Productstream Professional 2011,flexlm,adskflex
 72200ARCHDESK_2010_0F,AutoCAD Architecture 2010,flexlm,adskflex
 72300PLNT3D_2010_0F,AutoCAD Plant 3D 2010,flexlm,adskflex
-72400VLTM_F,Autodesk Vault Professional 2018 Package (perpetual),flexlm,adskflex
-72400VLTM_F,Vault Professional Package,flexlm,adskflex
-72400VLTM_T_F,Autodesk Vault Professional 2018 Package (rental),flexlm,adskflex
-72400VLTM_T_F,Autodesk Vault Professional,flexlm,adskflex
+72400VLTM_F,Autodesk Vault Professional Package (perpetual),flexlm,adskflex
+72400VLTM_T_F,Autodesk Vault Professional Package (rental),flexlm,adskflex
 72500MAP_2010_0F,AutoCAD Map 3D 2010,flexlm,adskflex
 72600ARDES_2010_0F,AutoCAD Raster Design 2010,flexlm,adskflex
 72700MAPGE_2010_0F,Autodesk MapGuide Enterprise 2010,flexlm,adskflex
@@ -337,10 +300,8 @@ lm_feature_code,description,lm_system,lm_vendor
 74500VLTC_2010_0F,Autodesk Vault Collaboration 2010,flexlm,adskflex
 74600VLTC_F,Autodesk 360 Vault Collaboration Package,flexlm,adskflex
 74700VLTWG_2010_0F,Autodesk Vault Workgroup 2010,flexlm,adskflex
-74800VLTWG_F,Autodesk 360 Vault Workgroup Package,flexlm,adskflex
-74800VLTWG_F,Autodesk Vault Workgroup 2018 Package (perpetual),flexlm,adskflex
-74800VLTWG_T_F,Autodesk Vault Workgroup 2018 Package (rental),flexlm,adskflex
-74800VLTWG_T_F,Autodesk Vault Workgroup,flexlm,adskflex
+74800VLTWG_F,Autodesk Vault Workgroup Package (perpetual),flexlm,adskflex
+74800VLTWG_T_F,Autodesk Vault Workgroup Package (rental),flexlm,adskflex
 74900RVTMPJ_F,Autodesk Revit MEP Package,flexlm,adskflex
 75100TOXIK_2010_0F,Autodesk Toxik 2010,flexlm,adskflex
 75200RSA_2010_0F,Autodesk Robot Structural Analysis 2010,flexlm,adskflex
@@ -358,34 +319,24 @@ lm_feature_code,description,lm_system,lm_vendor
 76400MFAD_F,Autodesk Simulation Moldflow Adviser Standard Package,flexlm,adskflex
 76400MFAD_T_F,Autodesk Moldflow Adviser Standard,flexlm,adskflex
 76500MFAM_2010_0F,Autodesk Moldflow Adviser Manufacturing 2010,flexlm,adskflex
-76600MFAM_F,Autodesk Moldflow Adviser Premium 2018 Package (perpetual),flexlm,adskflex
-76600MFAM_F,Autodesk Simulation Moldflow Adviser Premium Package,flexlm,adskflex
-76600MFAM_T_F,Autodesk Moldflow Adviser Premium 2018 Package (rental),flexlm,adskflex
-76600MFAM_T_F,Autodesk Moldflow Adviser Premium,flexlm,adskflex
+76600MFAM_F,Autodesk Moldflow Adviser Premium Package (perpetual),flexlm,adskflex
+76600MFAM_T_F,Autodesk Moldflow Adviser Premium Package (rental),flexlm,adskflex
 76700MFAA_2010_0F,Autodesk Moldflow Adviser Advanced 2010,flexlm,adskflex
-76800MFAA_F,Autodesk Moldflow Adviser Ultimate 2018 Package (perpetual),flexlm,adskflex
-76800MFAA_F,Autodesk Simulation Moldflow Adviser Ultimate Package,flexlm,adskflex
-76800MFAA_T_F,Autodesk Moldflow Adviser Ultimate 2018 Package (rental),flexlm,adskflex
-76800MFAA_T_F,Autodesk Moldflow Adviser Ultimate,flexlm,adskflex
+76800MFAA_F,Autodesk Moldflow Adviser Ultimate Package (perpetual),flexlm,adskflex
+76800MFAA_T_F,Autodesk Moldflow Adviser Ultimate Package (rental),flexlm,adskflex
 76900MFIB_2010_0F,Autodesk Moldflow Insight Basic 2010,flexlm,adskflex
 77000MFIB_F,Autodesk Moldflow Insight Basic Package,flexlm,adskflex
 77100MFIP_2010_0F,Autodesk Moldflow Insight Performance 2010,flexlm,adskflex
 77200MFIP_F,Autodesk Moldflow Insight Performance Package,flexlm,adskflex
 77300MFIA_2010_0F,Autodesk Moldflow Insight Advanced 2010,flexlm,adskflex
-77400MFIA_F,Autodesk Moldflow Insight Ultimate 2018 Package (perpetual),flexlm,adskflex
-77400MFIA_F,Autodesk Simulation Moldflow Insight Ultimate Package,flexlm,adskflex
-77400MFIA_T_F,Autodesk Moldflow Insight Ultimate 2018 Package (rental),flexlm,adskflex
-77400MFIA_T_F,Autodesk Moldflow Insight Ultimate,flexlm,adskflex
+77400MFIA_F,Autodesk Moldflow Insight Ultimate Package (perpetual),flexlm,adskflex
+77400MFIA_T_F,Autodesk Moldflow Insight Ultimate Package (rental),flexlm,adskflex
 77500MFCD_2010_0F,Autodesk Moldflow CAD Doctor 2010,flexlm,adskflex
-77600MFCD_F,Autodesk Simulation Moldflow CAD Doctor Package,flexlm,adskflex
-77600MFCD_F,CADdoctor for Autodesk Simulation 2018 Package (perpetual),flexlm,adskflex
-77600MFCD_T_F,CADdoctor for Autodesk Simulation 2018 Package (rental),flexlm,adskflex
-77600MFCD_T_F,CADdoctor for Autodesk Simulation,flexlm,adskflex
+77600MFCD_F,CADdoctor for Autodesk Simulation Package (perpetual),flexlm,adskflex
+77600MFCD_T_F,CADdoctor for Autodesk Simulation Package (rental),flexlm,adskflex
 77700MFS_2010_0F,Autodesk Moldflow Synergy 2010,flexlm,adskflex
-77800MFS_F,Autodesk Moldflow Synergy 2018 Package (perpetual),flexlm,adskflex
-77800MFS_F,Autodesk Simulation Moldflow Synergy Package,flexlm,adskflex
-77800MFS_T_F,Autodesk Moldflow Synergy 2018 Package (rental),flexlm,adskflex
-77800MFS_T_F,Autodesk Moldflow Synergy,flexlm,adskflex
+77800MFS_F,Autodesk Moldflow Synergy Package (perpetual),flexlm,adskflex
+77800MFS_T_F,Autodesk Moldflow Synergy Package (rental),flexlm,adskflex
 77900RSTR_F,AutoCAD Raster Package,flexlm,adskflex
 78000ECOA_2010_0F,Autodesk Ecotect Analysis 2010,flexlm,adskflex
 78100ECOA_F,Autodesk Ecotect Analysis Package,flexlm,adskflex
@@ -431,10 +382,8 @@ lm_feature_code,description,lm_system,lm_vendor
 81800MAYAULFS_2010_0F,Autodesk Maya Unlimited 2010 Fluid Simulation,flexlm,adskflex
 81800MAYAULMR_2010_0F,Autodesk Maya Unlimited 2010 Mental Ray,flexlm,adskflex
 81800MAYAUL_2010_0F,Autodesk Maya Unlimited 2010,flexlm,adskflex
-81900ACDLTC_F,AutoCAD LT Civil Suite Package,flexlm,adskflex
-81900ACDLTC_F,Autodesk AutoCAD LT Civil Suite 2018 Package (perpetual),flexlm,adskflex
-81900ACDLTC_T_F,Autodesk AutoCAD LT Civil Suite 2018 Package (rental),flexlm,adskflex
-81900ACDLTC_T_F,Autodesk AutoCAD LT Civil Suite,flexlm,adskflex
+81900ACDLTC_F,Autodesk AutoCAD LT Civil Suite Package (perpetual),flexlm,adskflex
+81900ACDLTC_T_F,Autodesk AutoCAD LT Civil Suite Package (rental),flexlm,adskflex
 82000BDFBS_2010_0F,Autodesk Building Fabrication Suite 2010,flexlm,adskflex
 82100BDFBS_F,Autodesk Building Fabrication Suite Package,flexlm,adskflex
 82200STRDET_2010_0F,AutoCAD Structural Detailing 2010,flexlm,adskflex
@@ -461,22 +410,16 @@ lm_feature_code,description,lm_system,lm_vendor
 84300FRDES_F,Autodesk Face Robot Designer Package,flexlm,adskflex
 84500FRANIM_F,Autodesk Face Robot Animator Package,flexlm,adskflex
 84600ACDLT_2010_0F,AutoCAD LT 2010,flexlm,adskflex
-84700ACDLT_F,AutoCAD LT Package,flexlm,adskflex
-84700ACDLT_F,Autodesk AutoCAD LT 2018 Package (perpetual),flexlm,adskflex
-84700ACDLT_T_F,Autodesk AutoCAD LT 2018 Package (rental),flexlm,adskflex
-84700ACDLT_T_F,Autodesk AutoCAD LT,flexlm,adskflex
+84700ACDLT_F,Autodesk AutoCAD LT Package (perpetual),flexlm,adskflex
+84700ACDLT_T_F,Autodesk AutoCAD LT Package (rental),flexlm,adskflex
 84800AUTOST_2011_0F,Autodesk Alias Automotive 2011,flexlm,adskflex
 84900AUTOST_F,Autodesk Alias Automotive Package,flexlm,adskflex
 85000DESNST_2011_0F,Autodesk Alias Design 2011,flexlm,adskflex
-85100DESNST_F,Autodesk Alias Design 2018 Package (perpetual),flexlm,adskflex
-85100DESNST_F,Autodesk Alias Design Package,flexlm,adskflex
-85100DESNST_T_F,Autodesk Alias Design 2018 Package (rental),flexlm,adskflex
-85100DESNST_T_F,Autodesk Alias Design,flexlm,adskflex
+85100DESNST_F,Autodesk Alias Design Package (perpetual),flexlm,adskflex
+85100DESNST_T_F,Autodesk Alias Design Package (rental),flexlm,adskflex
 85200SURFST_2011_0F,Autodesk Alias Surface 2011,flexlm,adskflex
-85300SURFST_F,Autodesk Alias Surface 2018 Package (perpetual),flexlm,adskflex
-85300SURFST_F,Autodesk Alias Surface Package,flexlm,adskflex
-85300SURFST_T_F,Autodesk Alias Surface 2018 Package (rental),flexlm,adskflex
-85300SURFST_T_F,Autodesk Alias Surface,flexlm,adskflex
+85300SURFST_F,Autodesk Alias Surface Package (perpetual),flexlm,adskflex
+85300SURFST_T_F,Autodesk Alias Surface Package (rental),flexlm,adskflex
 85400MAYAMFS_2010_0F,Autodesk Maya 2010 Fluid Simulation,flexlm,adskflex
 85400MAYAMMR1_2010_0F,Autodesk Maya 2010 Mental Ray 1,flexlm,adskflex
 85400MAYAMMR2_2010_0F,Autodesk Maya 2010 Mental Ray 2,flexlm,adskflex
@@ -551,10 +494,8 @@ lm_feature_code,description,lm_system,lm_vendor
 85575INVMFG_2011_0F,AutoCAD Inventor Tooling Suite 2011,flexlm,adskflex
 85576INVMFG_F,AutoCAD Inventor Tooling Suite Package,flexlm,adskflex
 85577INVNTOR_2010_0F,Autodesk Inventor 2010,flexlm,adskflex
-85578INVNTOR_F,Autodesk Inventor 2018 Package (perpetual),flexlm,adskflex
-85578INVNTOR_F,Autodesk Inventor Package,flexlm,adskflex
-85578INVNTOR_T_F,Autodesk Inventor 2018 Package (rental),flexlm,adskflex
-85578INVNTOR_T_F,Autodesk Inventor,flexlm,adskflex
+85578INVNTOR_F,Autodesk Inventor Package (perpetual),flexlm,adskflex
+85578INVNTOR_T_F,Autodesk Inventor Package (rental),flexlm,adskflex
 85579INVNTOR_2011_0F,Autodesk Inventor 2011,flexlm,adskflex
 85580MBXPRO_2011_0F,Autodesk Mudbox 2011,flexlm,adskflex
 85581ECSCAD_2011_0F,AutoCAD ecscad 2011,flexlm,adskflex
@@ -595,9 +536,8 @@ lm_feature_code,description,lm_system,lm_vendor
 85619ESEC_2011_0F,Autodesk Education Suite for Entertainment Creation 2011,flexlm,adskflex
 85620MYECS_2011_0F,Autodesk Maya Entertainment Creation Suite 2011,flexlm,adskflex
 85621SIECS_2011_0F,Autodesk Softimage Entertainment Creation Suite 2011,flexlm,adskflex
-85622INVLTS_F,AutoCAD Inventor LT Suite Package,flexlm,adskflex
-85622INVLTS_F,Autodesk AutoCAD Inventor LT Suite 2018 Package (perpetual),flexlm,adskflex
-85622INVLTS_T_F,Autodesk AutoCAD Inventor LT Suite 2018 Package (rental),flexlm,adskflex
+85622INVLTS_F,Autodesk AutoCAD Inventor LT Suite Package (perpetual),flexlm,adskflex
+85622INVLTS_T_F,Autodesk AutoCAD Inventor LT Suite Package (rental),flexlm,adskflex
 85623REVITS_2011_0F,AutoCAD Revit Architecture Suite 2011,flexlm,adskflex
 85624REVSYP_2011_0F,AutoCAD Revit MEP Suite 2011,flexlm,adskflex
 85625DES_ACA_2011_0F,Autodesk Design Academy 2011,flexlm,adskflex
@@ -635,8 +575,7 @@ lm_feature_code,description,lm_system,lm_vendor
 85657ACDDS_2011_0F,AutoCAD Visualization Suite 2011,flexlm,adskflex
 85658PDSADV_2011_0F,Autodesk Plant Design Suite Advanced 2011,flexlm,adskflex
 85659PDSPRM_2011_0F,Autodesk Plant Design Suite Premium 2011,flexlm,adskflex
-85660PDSPRM_F,Autodesk Plant Design Suite Premium 2018 Package (perpetual),flexlm,adskflex
-85660PDSPRM_F,Autodesk Plant Design Suite Premium Package,flexlm,adskflex
+85660PDSPRM_F,Autodesk Plant Design Suite Premium Package (perpetual),flexlm,adskflex
 85662ACDLTC_2011_0F,AutoCAD LT Civil Suite 2011,flexlm,adskflex
 85663GMCADC_2011_0F,Autodesk GM CAD Convertors 2011,flexlm,adskflex
 85664GMCADC_F,Autodesk GM CAD Convertors Package,flexlm,adskflex
@@ -652,16 +591,12 @@ lm_feature_code,description,lm_system,lm_vendor
 85673HKMF_2011_0F,Architecture Multi-flex 2011,flexlm,adskflex
 85674T1MF_2011_0F,T1 Enterprise Multi-flex 2011,flexlm,adskflex
 85675MRSTND_F,mental ray Standalone Package,flexlm,adskflex
-85676INTSER_F,Autodesk Inventor Engineer-to-Order Server 2018 Package (perpetual),flexlm,adskflex
-85676INTSER_F,Autodesk Inventor Engineer-to-Order Server Package,flexlm,adskflex
-85676INTSER_T_F,Autodesk Inventor Engineer-to-Order Server 2018 Package (rental),flexlm,adskflex
-85676INTSER_T_F,Autodesk Inventor Engineer-to-Order Server,flexlm,adskflex
+85676INTSER_F,Autodesk Inventor Engineer-to-Order Server Package (perpetual),flexlm,adskflex
+85676INTSER_T_F,Autodesk Inventor Engineer-to-Order Server Package (rental),flexlm,adskflex
 85677ECSCAD_2012_0F,AutoCAD ecscad 2012,flexlm,adskflex
-85677FDSADV_F,Autodesk Factory Design Suite Ultimate 2018 Package (perpetual),flexlm,adskflex
-85677FDSADV_F,Autodesk Factory Design Suite Ultimate Package,flexlm,adskflex
+85677FDSADV_F,Autodesk Factory Design Suite Ultimate Package (perpetual),flexlm,adskflex
 85677FDSADV_T_F,Autodesk Factory Design Suite Ultimate,flexlm,adskflex
-85677FDSPRM_F,Autodesk Factory Design Suite Premium 2018 Package (perpetual),flexlm,adskflex
-85677FDSPRM_F,Autodesk Factory Design Suite Premium Package,flexlm,adskflex
+85677FDSPRM_F,Autodesk Factory Design Suite Premium Package (perpetual),flexlm,adskflex
 85677FDSPRM_T_F,Autodesk Factory Design Suite Premium,flexlm,adskflex
 85678ACAD_E_2012_0F,AutoCAD Electrical 2012,flexlm,adskflex
 85679INVFAD_F,Autodesk Inventor Factory Ultimate Package,flexlm,adskflex
@@ -672,20 +607,13 @@ lm_feature_code,description,lm_system,lm_vendor
 85686MXECSP_F,Autodesk 3ds Max Entertainment Creation Suite Premium Package,flexlm,adskflex
 85687MYECSP_2011_0F,Autodesk Maya Entertainment Creation Suite Premium 2011,flexlm,adskflex
 85688MYECSP_F,Autodesk Maya Entertainment Creation Suite Premium Package,flexlm,adskflex
-85689DSSTD_F,Autodesk AutoCAD Design Suite Standard 2018 Package (perpetual),flexlm,adskflex
-85689DSSTD_F,Autodesk Design Suite Standard Package,flexlm,adskflex
-85689DSSTD_T_F,Autodesk AutoCAD Design Suite Standard 2018 Package (rental),flexlm,adskflex
-85689DSSTD_T_F,Autodesk AutoCAD Design Suite Standard,flexlm,adskflex
-85690DSPRM_F,Autodesk AutoCAD Design Suite Premium 2018 Package (perpetual),flexlm,adskflex
-85690DSPRM_F,Autodesk Design Suite Premium Package,flexlm,adskflex
-85690DSPRM_T_F,Autodesk AutoCAD Design Suite Premium 2018 Package (rental),flexlm,adskflex
-85690DSPRM_T_F,Autodesk AutoCAD Design Suite Premium,flexlm,adskflex
-85691DSADV_F,Autodesk AutoCAD Design Suite Ultimate 2018 Package (perpetual),flexlm,adskflex
-85691DSADV_F,Autodesk Design Suite Ultimate Package,flexlm,adskflex
-85691DSADV_T_F,Autodesk AutoCAD Design Suite Ultimate 2018 Package (rental),flexlm,adskflex
-85691DSADV_T_F,Autodesk AutoCAD Design Suite Ultimate,flexlm,adskflex
-85692PDSADV_F,Autodesk Plant Design Suite Ultimate 2018 Package (perpetual),flexlm,adskflex
-85692PDSADV_F,Autodesk Plant Design Suite Ultimate Package,flexlm,adskflex
+85689DSSTD_F,Autodesk AutoCAD Design Suite Standard Package (perpetual),flexlm,adskflex
+85689DSSTD_T_F,Autodesk AutoCAD Design Suite Standard Package (rental),flexlm,adskflex
+85690DSPRM_F,Autodesk AutoCAD Design Suite Premium Package (perpetual),flexlm,adskflex
+85690DSPRM_T_F,Autodesk AutoCAD Design Suite Premium Package (rental),flexlm,adskflex
+85691DSADV_F,Autodesk AutoCAD Design Suite Ultimate Package (perpetual),flexlm,adskflex
+85691DSADV_T_F,Autodesk AutoCAD Design Suite Ultimate Package (rental),flexlm,adskflex
+85692PDSADV_F,Autodesk Plant Design Suite Ultimate Package (perpetual),flexlm,adskflex
 85693SMKMACBRN_2011_0F,Autodesk Smoke Burn 2011,flexlm,adskflex
 85693SMKMACWG1_2011_0F,Autodesk Smoke Wiretap Gateway1 2011,flexlm,adskflex
 85693SMKMACWG2_2011_0F,Autodesk Smoke Wiretap Gateway2 2011,flexlm,adskflex
@@ -761,11 +689,9 @@ lm_feature_code,description,lm_system,lm_vendor
 85785PDSPRM_2012_0F,Autodesk Plant Design Suite Premium 2012,flexlm,adskflex
 85786PDSADV_2012_0F,Autodesk Plant Design Suite Ultimate 2012,flexlm,adskflex
 85787BDSPRM_2012_0F,Autodesk Building Design Suite Premium 2012,flexlm,adskflex
-85787BDSPRM_F,Autodesk Building Design Suite Premium 2018 Package (perpetual),flexlm,adskflex
-85787BDSPRM_F,Autodesk Building Design Suite Premium Package,flexlm,adskflex
+85787BDSPRM_F,Autodesk Building Design Suite Premium Package (perpetual),flexlm,adskflex
 85788BDSADV_2012_0F,Autodesk Building Design Suite Ultimate 2012,flexlm,adskflex
-85788BDSADV_F,Autodesk Building Design Suite Ultimate 2018 Package (perpetual),flexlm,adskflex
-85788BDSADV_F,Autodesk Building Design Suite Ultimate Package,flexlm,adskflex
+85788BDSADV_F,Autodesk Building Design Suite Ultimate Package (perpetual),flexlm,adskflex
 85789FDSPRM_2012_0F,Autodesk Factory Design Suite Premium 2012,flexlm,adskflex
 85790FDSADV_2012_0F,Autodesk Factory Design Suite Ultimate 2012,flexlm,adskflex
 85791REVITS_2012_0F,AutoCAD Revit Architecture Suite 2012,flexlm,adskflex
@@ -775,39 +701,29 @@ lm_feature_code,description,lm_system,lm_vendor
 85795PDSP_2012_0F,Autodesk Product Design Suite Premium 2012,flexlm,adskflex
 85796PDSU_2012_0F,Autodesk Product Design Suite Ultimate 2012,flexlm,adskflex
 85797BDSS_2012_0F,Autodesk Building Design Suite Standard 2012,flexlm,adskflex
-85797BDSS_F,Autodesk Building Design Suite Standard 2018 Package (perpetual),flexlm,adskflex
-85797BDSS_F,Autodesk Building Design Suite Standard Package,flexlm,adskflex
+85797BDSS_F,Autodesk Building Design Suite Standard Package (perpetual),flexlm,adskflex
 85798IDSU_2012_0F,Autodesk Infrastructure Design Suite Ultimate 2012,flexlm,adskflex
 85799IDSP_2012_0F,Autodesk Infrastructure Design Suite Premium 2012,flexlm,adskflex
 85800IDSS_2012_0F,Autodesk Infrastructure Design Suite Standard 2012,flexlm,adskflex
 85801DSADV_2012_0F,Autodesk Design Suite Ultimate 2012,flexlm,adskflex
 85802PLTDSS_2012_0F,Autodesk Plant Design Suite Standard 2012,flexlm,adskflex
-85803PLTDSS_F,Autodesk Plant Design Suite Standard 2018 Package (perpetual),flexlm,adskflex
-85803PLTDSS_F,Autodesk Plant Design Suite Standard Package,flexlm,adskflex
-85803PLTDSS_T_F,Autodesk Plant Design Suite Standard 2018 Package (rental),flexlm,adskflex
+85803PLTDSS_F,Autodesk Plant Design Suite Standard Package (perpetual),flexlm,adskflex
+85803PLTDSS_T_F,Autodesk Plant Design Suite Standard Package (rental),flexlm,adskflex
 85804FDSS_2012_0F,Autodesk Factory Design Suite Standard 2012,flexlm,adskflex
-85805FDSS_F,Autodesk Factory Design Suite Standard 2018 Package (perpetual),flexlm,adskflex
-85805FDSS_F,Autodesk Factory Design Suite Standard Package,flexlm,adskflex
+85805FDSS_F,Autodesk Factory Design Suite Standard Package (perpetual),flexlm,adskflex
 85805FDSS_T_F,Autodesk Factory Design Suite Standard,flexlm,adskflex
 85806ENCSU_2012_0F,Autodesk Entertainment Creation Suite Ultimate 2012,flexlm,adskflex
 85807ENCSU_F,Autodesk Entertainment Creation Suite Ultimate Package,flexlm,adskflex
 85808ACDLTC_2012_0F,AutoCAD LT Civil Suite 2012,flexlm,adskflex
-85810IDSU_F,Autodesk Infrastructure Design Suite Ultimate 2018 Package (perpetual),flexlm,adskflex
-85810IDSU_F,Autodesk Infrastructure Design Suite Ultimate Package,flexlm,adskflex
-85811IDSS_F,Autodesk Infrastructure Design Suite Standard 2018 Package (perpetual),flexlm,adskflex
-85811IDSS_F,Autodesk Infrastructure Design Suite Standard Package,flexlm,adskflex
-85811IDSS_T_F,Autodesk Infrastructure Design Suite Standard 2018 Package (rental),flexlm,adskflex
-85812IDSP_F,Autodesk Infrastructure Design Suite Premium 2018 Package (perpetual),flexlm,adskflex
-85812IDSP_F,Autodesk Infrastructure Design Suite Premium Package,flexlm,adskflex
+85810IDSU_F,Autodesk Infrastructure Design Suite Ultimate Package (perpetual),flexlm,adskflex
+85811IDSS_F,Autodesk Infrastructure Design Suite Standard Package (perpetual),flexlm,adskflex
+85811IDSS_T_F,Autodesk Infrastructure Design Suite Standard Package (rental),flexlm,adskflex
+85812IDSP_F,Autodesk Infrastructure Design Suite Premium Package (perpetual),flexlm,adskflex
 85813PDSS_F,Autodesk Product Design Suite Standard Package,flexlm,adskflex
-85814PDSP_F,Autodesk Product Design Suite Premium 2018 Package (perpetual),flexlm,adskflex
-85814PDSP_F,Autodesk Product Design Suite Premium Package,flexlm,adskflex
-85814PDSP_T_F,Autodesk Product Design Suite Premium 2018 Package (rental),flexlm,adskflex
-85814PDSP_T_F,Autodesk Product Design Suite Premium,flexlm,adskflex
-85815PDSU_F,Autodesk Product Design Suite Ultimate 2018 Package (perpetual),flexlm,adskflex
-85815PDSU_F,Autodesk Product Design Suite Ultimate Package,flexlm,adskflex
-85815PDSU_T_F,Autodesk Product Design Suite Ultimate 2018 Package (rental),flexlm,adskflex
-85815PDSU_T_F,Autodesk Product Design Suite Ultimate,flexlm,adskflex
+85814PDSP_F,Autodesk Product Design Suite Premium Package (perpetual),flexlm,adskflex
+85814PDSP_T_F,Autodesk Product Design Suite Premium Package (rental),flexlm,adskflex
+85815PDSU_F,Autodesk Product Design Suite Ultimate Package (perpetual),flexlm,adskflex
+85815PDSU_T_F,Autodesk Product Design Suite Ultimate Package (rental),flexlm,adskflex
 85816MFAA_2012_0F,Autodesk Moldflow Adviser Advanced 2012,flexlm,adskflex
 85817MFCD_2012_0F,Autodesk Moldflow CAD Doctor 2012,flexlm,adskflex
 85818MFAD_2012_0F,Autodesk Moldflow Adviser Design 2012,flexlm,adskflex
@@ -831,22 +747,16 @@ lm_feature_code,description,lm_system,lm_vendor
 85835SHOWCASE_T_F,Autodesk Showcase,flexlm,adskflex
 85836AMECH_PP_F,AutoCAD Mechanical Package,flexlm,adskflex
 85837NAVSIM_2012_0F,Autodesk Navisworks Simulate 2012,flexlm,adskflex
-85838NAVSIM_F,Autodesk NavisWorks Simulate Package,flexlm,adskflex
-85838NAVSIM_F,Autodesk Navisworks Simulate 2018 Package (perpetual),flexlm,adskflex
-85838NAVSIM_T_F,Autodesk Navisworks Simulate 2018 Package (rental),flexlm,adskflex
-85838NAVSIM_T_F,Autodesk Navisworks Simulate,flexlm,adskflex
+85838NAVSIM_F,Autodesk Navisworks Simulate Package (perpetual),flexlm,adskflex
+85838NAVSIM_T_F,Autodesk Navisworks Simulate Package (rental),flexlm,adskflex
 85839NAVMAN_2012_0F,Autodesk Navisworks Manage 2012,flexlm,adskflex
 85840ECOA_2012_0F,Autodesk Ecotect Analysis 2012,flexlm,adskflex
 85841ARDES_2012_0F,AutoCAD Raster Design 2012,flexlm,adskflex
 85842GMCADC_2012_0F,Autodesk GM CAD Convertors 2012,flexlm,adskflex
 85843PCOFFI_2012_0F,Autodesk Vault Office 2012,flexlm,adskflex
 85844IMS_2012_0F,Autodesk Infrastructure Map Server 2012,flexlm,adskflex
-85845IMS_F,Autodesk Infrastructure Map Server 2018 Package (perpetual),flexlm,adskflex
-85845IMS_F,Autodesk Infrastructure Map Server 5 Activations 2018 Package (perpetual),flexlm,adskflex
-85845IMS_F,Autodesk Infrastructure Map Server Package,flexlm,adskflex
-85845IMS_T_F,Autodesk Infrastructure Map Server 2018 Package (rental),flexlm,adskflex
-85845IMS_T_F,Autodesk Infrastructure Map Server 5 Activations 2018 Package (rental),flexlm,adskflex
-85845IMS_T_F,Autodesk Infrastructure Map Server,flexlm,adskflex
+85845IMS_F,Autodesk Infrastructure Map Server Package (perpetual),flexlm,adskflex
+85845IMS_T_F,Autodesk Infrastructure Map Server Package (rental),flexlm,adskflex
 85846INVPROSA_2012_0F,Autodesk Inventor Professional 2012,flexlm,adskflex
 85847SHOWPRO_2012_0F,Autodesk Showcase Professional 2012,flexlm,adskflex
 85849INVOEM_2012_0F,Autodesk Inventor OEM 2012,flexlm,adskflex
@@ -872,10 +782,8 @@ lm_feature_code,description,lm_system,lm_vendor
 85871ACD_2013_0F,AutoCAD 2013,flexlm,adskflex
 85872ACDLT_2013_0F,AutoCAD LT 2013,flexlm,adskflex
 85873INVETO_2012_0F,Autodesk Inventor Engineer-to-Order Series 2012,flexlm,adskflex
-85874INVETO_F,Autodesk Inventor Engineer-to-Order Series 2018 Package (perpetual),flexlm,adskflex
-85874INVETO_F,Autodesk Inventor Engineer-to-Order Series Package,flexlm,adskflex
+85874INVETO_F,Autodesk Inventor Engineer-to-Order Series Package (perpetual),flexlm,adskflex
 85875ACDMAC_2012_0F,AutoCAD for Mac 2012,flexlm,adskflex
-85876ACDMAC_F,AutoCAD for Mac Package,flexlm,adskflex
 85876ACDMAC_F,Autodesk AutoCAD 2018 for Mac Package (perpetual),flexlm,adskflex
 85876ACDMAC_T_F,Autodesk AutoCAD 2018 for Mac Package (rental),flexlm,adskflex
 85877INTSER_2012_0F,Autodesk Inventor Engineer-to-Order Server 2012,flexlm,adskflex
@@ -929,15 +837,11 @@ lm_feature_code,description,lm_system,lm_vendor
 85948BDSADV_2013_0F,Autodesk Building Design Suite Ultimate 2013,flexlm,adskflex
 85949SHOWPRO_2013_0F,Autodesk Showcase Professional 2013,flexlm,adskflex
 85950RVT_2013_0F,Autodesk Revit 2013,flexlm,adskflex
-85950RVT_F,Autodesk Revit 2018 Package (perpetual),flexlm,adskflex
-85950RVT_F,Autodesk Revit Package,flexlm,adskflex
-85950RVT_T_F,Autodesk Revit 2018 Package (rental),flexlm,adskflex
-85950RVT_T_F,Autodesk Revit,flexlm,adskflex
+85950RVT_F,Autodesk Revit Package (perpetual),flexlm,adskflex
+85950RVT_T_F,Autodesk Revit Package (rental),flexlm,adskflex
 85951RVTLT_2013_0F,Autodesk Revit LT 2013,flexlm,adskflex
-85951RVTLT_F,Autodesk Revit LT 2018 Package (perpetual),flexlm,adskflex
-85951RVTLT_F,Autodesk Revit LT Package,flexlm,adskflex
-85951RVTLT_T_F,Autodesk Revit LT 2018 Package (rental),flexlm,adskflex
-85951RVTLT_T_F,Autodesk Revit LT,flexlm,adskflex
+85951RVTLT_F,Autodesk Revit LT Package (perpetual),flexlm,adskflex
+85951RVTLT_T_F,Autodesk Revit LT Package (rental),flexlm,adskflex
 85952ARDES_2013_0F,AutoCAD Raster Design 2013,flexlm,adskflex
 85954REVITS_2013_0F,AutoCAD Revit Architecture Suite 2013,flexlm,adskflex
 85955REVSYP_2013_0F,AutoCAD Revit MEP Suite 2013,flexlm,adskflex
@@ -984,10 +888,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86000INVFAD_2013_0F,Autodesk Inventor Factory Ultimate 2013,flexlm,adskflex
 86001INVPROSA_2013_0F,Autodesk Inventor Professional 2013,flexlm,adskflex
 86002INVOEM_2013_0F,Autodesk Inventor OEM 2013,flexlm,adskflex
-86003INVOEM_F,Autodesk Inventor OEM 2018 Package (perpetual),flexlm,adskflex
-86003INVOEM_F,Autodesk Inventor OEM Package,flexlm,adskflex
-86003INVOEM_T_F,Autodesk Inventor OEM 2018 Package (rental),flexlm,adskflex
-86003INVOEM_T_F,Autodesk Inventor OEM,flexlm,adskflex
+86003INVOEM_F,Autodesk Inventor OEM Package (perpetual),flexlm,adskflex
+86003INVOEM_T_F,Autodesk Inventor OEM Package (rental),flexlm,adskflex
 86004INVLT_2013_0F,Autodesk Inventor LT 2013,flexlm,adskflex
 86005RSA_2013_0F,Autodesk Robot Structural Analysis 2013,flexlm,adskflex
 86006MFAM_2013_0F,Autodesk Simulation Moldflow Adviser Premium 2013,flexlm,adskflex
@@ -999,10 +901,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86012MFS_2013_0F,Autodesk Simulation Moldflow Synergy 2013,flexlm,adskflex
 86013INFMDR_2013_0F,Autodesk Infrastructure Modeler 2013,flexlm,adskflex
 86014IMS_2013_0F,Autodesk Infrastructure Map Server 2013,flexlm,adskflex
-86017RVTLTS_F,AutoCAD Revit LT Suite Package,flexlm,adskflex
-86017RVTLTS_F,Autodesk AutoCAD Revit LT Suite 2018 Package (perpetual),flexlm,adskflex
+86017RVTLTS_F,Autodesk AutoCAD Revit LT Suite Package (perpetual),flexlm,adskflex
 86019MRSTND_2013_0F,mental ray Standalone 2013,flexlm,adskflex
-86020ACDLTM_F,AutoCAD LT for Mac Package,flexlm,adskflex
 86020ACDLTM_F,Autodesk AutoCAD LT 2018 for Mac Package (perpetual),flexlm,adskflex
 86020ACDLTM_T_F,Autodesk AutoCAD LT 2018 for Mac Package (rental),flexlm,adskflex
 86021ACDLTM_2013_0F,AutoCAD LT for Mac 2013,flexlm,adskflex
@@ -1010,30 +910,22 @@ lm_feature_code,description,lm_system,lm_vendor
 86023NAVSIM_2013_0F,Autodesk Navisworks Simulate 2013,flexlm,adskflex
 86024AQTO_2013_0F,Autodesk Quantity Takeoff 2013,flexlm,adskflex
 86025SCFD_2013_0F,Autodesk Simulation CFD 2013,flexlm,adskflex
-86026SCFD_F,Autodesk CFD 2018 Package (perpetual),flexlm,adskflex
-86026SCFD_F,Autodesk Simulation CFD Package,flexlm,adskflex
-86026SCFD_T_F,Autodesk CFD 2018 Package (rental),flexlm,adskflex
-86026SCFD_T_F,Autodesk CFD,flexlm,adskflex
+86026SCFD_F,Autodesk CFD Package (perpetual),flexlm,adskflex
+86026SCFD_T_F,Autodesk CFD Package (rental),flexlm,adskflex
 86027UTLDESN_2013_0F,AutoCAD Utility Design 2013,flexlm,adskflex
 86028SCFDA_2013_0F,Autodesk Simulation CFD 2013 Advanced,flexlm,adskflex
 86029SCFDA_F,Autodesk CFD 2018 Advanced Package (perpetual),flexlm,adskflex
-86029SCFDA_F,Autodesk Simulation CFD Advanced Package,flexlm,adskflex
 86029SCFDA_T_F,Autodesk CFD 2018 Advanced Package (rental),flexlm,adskflex
-86029SCFDA_T_F,Autodesk CFD Advanced,flexlm,adskflex
 86030SCFDNX_2013_0F,Autodesk Simulation CFD 2013 Connection for NX,flexlm,adskflex
 86031SCFDNX_F,Autodesk Simulation CFD Connection for NX Package,flexlm,adskflex
 86032SCPROE_2013_0F,Autodesk Simulation CFD 2013 Connection for Pro/E,flexlm,adskflex
 86033SCPROE_F,Autodesk Simulation CFD Connection for Pro/E Package,flexlm,adskflex
 86034SCDSE_2013_0F,Autodesk Simulation CFD 2013 Design Study Environment,flexlm,adskflex
 86035SCDSE_F,Autodesk CFD 2018 Design Study Environment Package (perpetual),flexlm,adskflex
-86035SCDSE_F,Autodesk Simulation CFD Design Study Environment Package,flexlm,adskflex
 86035SCDSE_T_F,Autodesk CFD 2018 Design Study Environment Package (rental),flexlm,adskflex
-86035SCDSE_T_F,Autodesk CFD Design Study Environment,flexlm,adskflex
 86036SCFDM_2013_0F,Autodesk Simulation CFD 2013 Motion,flexlm,adskflex
 86037SCFDM_F,Autodesk CFD 2018 Motion Package (perpetual),flexlm,adskflex
-86037SCFDM_F,Autodesk Simulation CFD Motion Package,flexlm,adskflex
 86037SCFDM_T_F,Autodesk CFD 2018 Motion Package (rental),flexlm,adskflex
-86037SCFDM_T_F,Autodesk CFD Motion,flexlm,adskflex
 86038MFIP_2013_0F,Autodesk Simulation Moldflow Insight Premium 2013,flexlm,adskflex
 86040MFIA_2013_0F,Autodesk Simulation Moldflow Insight Ultimate 2013,flexlm,adskflex
 86042MFIB_2013_0F,Autodesk Simulation Moldflow Insight Standard 2013,flexlm,adskflex
@@ -1093,7 +985,6 @@ lm_feature_code,description,lm_system,lm_vendor
 86100MBXPRO_2014_0F,Autodesk Mudbox 2014,flexlm,adskflex
 86101MRSTND_2014_0F,mental ray Standalone 2014,flexlm,adskflex
 86102SFTIM_2014_0F,Autodesk Softimage 2014 ,flexlm,adskflex
-86102SFTIM_2014_0F,Autodesk Softimage 2014,flexlm,adskflex
 86103AAA_2014_0F,Autodesk Animation Academy 2014,flexlm,adskflex
 86104DES_ACA_2014_0F,Autodesk Design Academy 2014,flexlm,adskflex
 86105ESEC_2014_0F,Autodesk Entertainment Creation Suite For Education 2014,flexlm,adskflex
@@ -1102,20 +993,15 @@ lm_feature_code,description,lm_system,lm_vendor
 86108PDSPRM_2014_0F,Autodesk Plant Design Suite Premium 2014,flexlm,adskflex
 86109PNID_2014_0F,AutoCAD P&ID 2014,flexlm,adskflex
 86110PLNT3D_2014_0F,AutoCAD Plant 3D 2014,flexlm,adskflex
-86111SIMDFM_F,Autodesk Moldflow Design 2018 Package (perpetual),flexlm,adskflex
-86111SIMDFM_F,Autodesk Simulation DFM Package,flexlm,adskflex
-86111SIMDFM_T_F,Autodesk Moldflow Design 2018 Package (rental),flexlm,adskflex
-86111SIMDFM_T_F,Autodesk Moldflow Design,flexlm,adskflex
+86111SIMDFM_F,Autodesk Moldflow Design Package (perpetual),flexlm,adskflex
+86111SIMDFM_T_F,Autodesk Moldflow Design Package (rental),flexlm,adskflex
 86112EMS_2014_0F,Autodesk Education Master Suite 2014,flexlm,adskflex
 86113ESME_2014_0F,Autodesk Product Design Suite for Education 2014,flexlm,adskflex
 86114ASPRO_2014_0F,Autodesk Simulation Multiphysics 2014,flexlm,adskflex
 86115ASMES_2014_0F,Autodesk Simulation Mechanical 2014,flexlm,adskflex
-86116ASMES_F,Autodesk Simulation Mechanical 2018 Package (perpetual),flexlm,adskflex
-86116ASMES_F,Autodesk Simulation Mechanical Package,flexlm,adskflex
-86116ASMES_T_F,Autodesk Simulation Mechanical 2018 Package (rental),flexlm,adskflex
-86116ASMES_T_F,Autodesk Simulation Mechanical,flexlm,adskflex
+86116ASMES_F,Autodesk Simulation Mechanical Package (perpetual),flexlm,adskflex
+86116ASMES_T_F,Autodesk Simulation Mechanical Package (rental),flexlm,adskflex
 86117SHOWCASE_2014_0F,Autodesk Showcase 2014 ,flexlm,adskflex
-86117SHOWCASE_2014_0F,Autodesk Showcase 2014,flexlm,adskflex
 86118SHOWPRO_2014_0F,Autodesk Showcase Professional 2014,flexlm,adskflex
 86119DSPRM_2014_0F,AutoCAD Design Suite Premium 2014,flexlm,adskflex
 86120DSSTD_2014_0F,AutoCAD Design Suite Standard 2014,flexlm,adskflex
@@ -1175,19 +1061,15 @@ lm_feature_code,description,lm_system,lm_vendor
 86176IMS_2014_0F,Autodesk Infrastructure Map Server 2014,flexlm,adskflex
 86177MFCD_2014_0F,CADdoctor for Autodesk Simulation 2014,flexlm,adskflex
 86178CAMDCT_2014_0F,Autodesk Fabrication CAMduct 2014,flexlm,adskflex
-86179CAMDCT_F,Autodesk Fabrication CAMduct 2018 Package (perpetual),flexlm,adskflex
-86179CAMDCT_F,Autodesk Fabrication CAMduct Package,flexlm,adskflex
-86179CAMDCT_T_F,Autodesk Fabrication CAMduct 2018 Package (rental),flexlm,adskflex
-86179CAMDCT_T_F,Autodesk Fabrication CAMduct,flexlm,adskflex
+86179CAMDCT_F,Autodesk Fabrication CAMduct Package (perpetual),flexlm,adskflex
+86179CAMDCT_T_F,Autodesk Fabrication CAMduct Package (rental),flexlm,adskflex
 86180INVPUB_2014_0F,Autodesk Inventor Publisher 2014,flexlm,adskflex
 86181CAMLTE_2014_0F,Autodesk Fabrication CAMduct Components 2014,flexlm,adskflex
 86182CAMLTE_F,Autodesk Fabrication CAMduct Components Package,flexlm,adskflex
 86184CADMEP_2014_0F,Autodesk Fabrication CADmep 2014,flexlm,adskflex
 86185ESTMEP_2014_0F,Autodesk Fabrication ESTmep 2014,flexlm,adskflex
-86186ESTMEP_F,Autodesk Fabrication ESTmep 2018 Package (perpetual),flexlm,adskflex
-86186ESTMEP_F,Autodesk Fabrication ESTmep Package,flexlm,adskflex
-86186ESTMEP_T_F,Autodesk Fabrication ESTmep 2018 Package (rental),flexlm,adskflex
-86186ESTMEP_T_F,Autodesk Fabrication ESTmep,flexlm,adskflex
+86186ESTMEP_F,Autodesk Fabrication ESTmep Package (perpetual),flexlm,adskflex
+86186ESTMEP_T_F,Autodesk Fabrication ESTmep Package (rental),flexlm,adskflex
 86187RMNTRY_2014_0F,Autodesk Fabrication RemoteEntry 2014,flexlm,adskflex
 86188RMNTRY_F,Autodesk Fabrication RemoteEntry Package,flexlm,adskflex
 86189TRCKIT_2014_0F,Autodesk Fabrication Tracker 2014,flexlm,adskflex
@@ -1198,17 +1080,14 @@ lm_feature_code,description,lm_system,lm_vendor
 86196RTRTCL_2014_0F,Autodesk Real-Time Ray Tracing Cluster 2014,flexlm,adskflex
 86197IMRH_2014_0F,Autodesk InfraWorks Roads & Highways 2014,flexlm,adskflex
 86198FDU_2014_0F,Autodesk Factory Design Utilities 2014,flexlm,adskflex
-86199FDU_F,Autodesk Factory Design Utilities 2018 Package (perpetual),flexlm,adskflex
-86199FDU_F,Autodesk Factory Design Utilities Package,flexlm,adskflex
-86199FDU_T_F,Autodesk Factory Design Utilities 2018 Package (rental),flexlm,adskflex
-86199FDU_T_F,Autodesk Factory Design Utilities,flexlm,adskflex
+86199FDU_F,Autodesk Factory Design Utilities Package (perpetual),flexlm,adskflex
+86199FDU_T_F,Autodesk Factory Design Utilities Package (rental),flexlm,adskflex
 86200SMKMACBRN_2014_0F,Autodesk Smoke 2014 for Mac OS X Burn,flexlm,adskflex
 86200SMKMACWG_2014_0F,Autodesk Smoke Wiretap Gateway 2014,flexlm,adskflex
 86200SMKMAC_2014_0F,Autodesk Smoke 2014 for Mac OS X,flexlm,adskflex
 86201INVPUB_2013_1F,Autodesk Inventor Publisher 2013 R1,flexlm,adskflex
 86202INVPUB_F,Autodesk Inventor Publisher Package,flexlm,adskflex
 86203SBPNL_2014_0F,Autodesk SketchBook Pro for Enterprise 2014,flexlm,adskflex
-86204SBPNL_F,Autodesk SketchBook Pro for Enterprise Package,flexlm,adskflex
 86204SBPNL_F,Autodesk SketchBook for Enterprise Package (perpetual),flexlm,adskflex
 86204SBPNL_T_F,Autodesk SketchBook for Enterprise Package (rental),flexlm,adskflex
 86205IMS5A_2014_0F,Autodesk Infrastructure Map Server 5 Activations 2014,flexlm,adskflex
@@ -1240,8 +1119,7 @@ lm_feature_code,description,lm_system,lm_vendor
 86236REVSYP_2015_0F,Autodesk AutoCAD Revit MEP Suite 2015,flexlm,adskflex
 86237REVSU_2015_0F,Autodesk AutoCAD Revit Structure Suite 2015,flexlm,adskflex
 86238BDSPRM_2015_0F,Autodesk Building Design Suite Premium 2015,flexlm,adskflex
-86240T1MFPB_F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2018 Package (perpetual),flexlm,adskflex
-86240T1MFPB_F,T1 Enterprise Multi-Flex Standard Prior Version Bundle Package,flexlm,adskflex
+86240T1MFPB_F,T1 Enterprise Multi-Flex Standard Prior Version Bundle Package (perpetual),flexlm,adskflex
 86241MXECSP_2015_0F,Autodesk 3ds Max Entertainment Creation Suite Premium 2015,flexlm,adskflex
 86242MXECS_2015_0F,Autodesk 3ds Max Entertainment Creation Suite Standard 2015,flexlm,adskflex
 86243ENCSU_2015_0F,Autodesk Entertainment Creation Suite Ultimate 2015,flexlm,adskflex
@@ -1283,10 +1161,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86279AMECH_PP_2015_0F,Autodesk AutoCAD Mechanical 2015,flexlm,adskflex
 86280STRDET_2015_0F,Autodesk AutoCAD Structural Detailing 2015,flexlm,adskflex
 86281CADMEP_2015_0F,Autodesk Fabrication CADmep 2015,flexlm,adskflex
-86282CADMEP_F,Autodesk Fabrication CADmep 2018 Package (perpetual),flexlm,adskflex
-86282CADMEP_F,Autodesk Fabrication CADmep Package,flexlm,adskflex
-86282CADMEP_T_F,Autodesk Fabrication CADmep 2018 Package (rental),flexlm,adskflex
-86282CADMEP_T_F,Autodesk Fabrication CADmep,flexlm,adskflex
+86282CADMEP_F,Autodesk Fabrication CADmep Package (perpetual),flexlm,adskflex
+86282CADMEP_T_F,Autodesk Fabrication CADmep Package (rental),flexlm,adskflex
 86283CAMDCT_2015_0F,Autodesk Fabrication CAMduct 2015,flexlm,adskflex
 86284CAMLTE_2015_0F,Autodesk Fabrication CAMduct Components 2015,flexlm,adskflex
 86285ESTMEP_2015_0F,Autodesk Fabrication ESTmep 2015,flexlm,adskflex
@@ -1310,31 +1186,19 @@ lm_feature_code,description,lm_system,lm_vendor
 86304PCOFFI_2015_0F,Autodesk Vault Office 2015,flexlm,adskflex
 86305VLTM_2015_0F,Autodesk Vault Professional 2015,flexlm,adskflex
 86306VLTWG_2015_0F,Autodesk Vault Workgroup 2015,flexlm,adskflex
-86307VRDDES_F,Autodesk VRED Design 2018 Package (perpetual),flexlm,adskflex
-86307VRDDES_F,Autodesk VRED Design Package,flexlm,adskflex
-86307VRDDES_T_F,Autodesk VRED Design 2018 Package (rental),flexlm,adskflex
-86307VRDDES_T_F,Autodesk VRED Design,flexlm,adskflex
+86307VRDDES_F,Autodesk VRED Design Package (perpetual),flexlm,adskflex
+86307VRDDES_T_F,Autodesk VRED Design Package (rental),flexlm,adskflex
 86308DCMVRD_F,Autodesk Display Cluster Module for Autodesk VRED Design Package,flexlm,adskflex
-86309RCMVRD_F,Autodesk Raytracing Cluster Module for Autodesk VRED Package,flexlm,adskflex
-86309RCMVRD_F,Autodesk VRED Render Node 2018 Package (perpetual),flexlm,adskflex
-86309RCMVRD_T_F,Autodesk VRED Render Node 2018 Package (rental),flexlm,adskflex
-86309RCMVRD_T_F,Autodesk VRED Render Node,flexlm,adskflex
-86310ADKVRD_F,Autodesk VRED 2018 Package (perpetual),flexlm,adskflex
-86310ADKVRD_F,Autodesk VRED Package,flexlm,adskflex
-86310ADKVRD_T_F,Autodesk VRED 2018 Package (rental),flexlm,adskflex
-86310ADKVRD_T_F,Autodesk VRED,flexlm,adskflex
-86311VRDPRS_F,Autodesk VRED Presenter 2018 Package (perpetual),flexlm,adskflex
-86311VRDPRS_F,Autodesk VRED Presenter Package,flexlm,adskflex
-86311VRDPRS_T_F,Autodesk VRED Presenter 2018 Package (rental),flexlm,adskflex
-86311VRDPRS_T_F,Autodesk VRED Presenter,flexlm,adskflex
-86312VRDPRO_F,Autodesk VRED Professional 2018 Package (perpetual),flexlm,adskflex
-86312VRDPRO_F,Autodesk VRED Professional Package,flexlm,adskflex
-86312VRDPRO_T_F,Autodesk VRED Professional 2018 Package (rental),flexlm,adskflex
-86312VRDPRO_T_F,Autodesk VRED Professional,flexlm,adskflex
-86313VRDSRV_F,Autodesk VRED Server 2018 Package (perpetual),flexlm,adskflex
-86313VRDSRV_F,Autodesk VRED Server Package,flexlm,adskflex
-86313VRDSRV_T_F,Autodesk VRED Server 2018 Package (rental),flexlm,adskflex
-86313VRDSRV_T_F,Autodesk VRED Server,flexlm,adskflex
+86309RCMVRD_F,Autodesk VRED Render Node Package (perpetual),flexlm,adskflex
+86309RCMVRD_T_F,Autodesk VRED Render Node Package (rental),flexlm,adskflex
+86310ADKVRD_F,Autodesk VRED Package (perpetual),flexlm,adskflex
+86310ADKVRD_T_F,Autodesk VRED Package (rental),flexlm,adskflex
+86311VRDPRS_F,Autodesk VRED Presenter Package (perpetual),flexlm,adskflex
+86311VRDPRS_T_F,Autodesk VRED Presenter Package (rental),flexlm,adskflex
+86312VRDPRO_F,Autodesk VRED Professional Package (perpetual),flexlm,adskflex
+86312VRDPRO_T_F,Autodesk VRED Professional Package (rental),flexlm,adskflex
+86313VRDSRV_F,Autodesk VRED Server Package (perpetual),flexlm,adskflex
+86313VRDSRV_T_F,Autodesk VRED Server Package (rental),flexlm,adskflex
 86314INVNTOR_2015_0F,Autodesk Inventor 2015,flexlm,adskflex
 86315INTSER_2015_0F,Autodesk Inventor Engineer-to-Order Server 2015,flexlm,adskflex
 86316INVLT_2015_0F,Autodesk Inventor LT 2015,flexlm,adskflex
@@ -1351,17 +1215,13 @@ lm_feature_code,description,lm_system,lm_vendor
 86327MFCD_2015_0F,CADdoctor for Autodesk Simulation 2015,flexlm,adskflex
 86328SBRDES_2014_0F,Autodesk Structural Bridge Design 2014,flexlm,adskflex
 86328SBRDES_2016_0F,Autodesk Structural Bridge Design 2016,flexlm,adskflex
-86329SBRDES_F,Autodesk Structural Bridge Design 2018 Package (perpetual),flexlm,adskflex
-86329SBRDES_F,Autodesk Structural Bridge Design Package,flexlm,adskflex
-86329SBRDES_T_F,Autodesk Structural Bridge Design 2018 Package (rental),flexlm,adskflex
-86329SBRDES_T_F,Autodesk Structural Bridge Design,flexlm,adskflex
+86329SBRDES_F,Autodesk Structural Bridge Design Package (perpetual),flexlm,adskflex
+86329SBRDES_T_F,Autodesk Structural Bridge Design Package (rental),flexlm,adskflex
 86330TSPRHN_4_0F,Autodesk T-Splines Plug-in 4.0 for Rhino 2015,flexlm,adskflex
 86332RDIW360P_F,Autodesk Roadway Design for InfraWorks 360 Pro Package,flexlm,adskflex
 86333VEHTRK_2014_0F,Autodesk Vehicle Tracking 2014,flexlm,adskflex
-86334VEHTRK_F,Autodesk Vehicle Tracking 2018 Package (perpetual),flexlm,adskflex
-86334VEHTRK_F,Autodesk Vehicle Tracking Package,flexlm,adskflex
-86334VEHTRK_T_F,Autodesk Vehicle Tracking 2018 Package (rental),flexlm,adskflex
-86334VEHTRK_T_F,Autodesk Vehicle Tracking,flexlm,adskflex
+86334VEHTRK_F,Autodesk Vehicle Tracking Package (perpetual),flexlm,adskflex
+86334VEHTRK_T_F,Autodesk Vehicle Tracking Package (rental),flexlm,adskflex
 86335FDU_2015_0F,Autodesk Factory Design Utilities 2015,flexlm,adskflex
 86336SCFD_2015_0F,Autodesk Simulation CFD 2015,flexlm,adskflex
 86337SCFDA_2015_0F,Autodesk Simulation CFD 2015 Advanced,flexlm,adskflex
@@ -1372,15 +1232,11 @@ lm_feature_code,description,lm_system,lm_vendor
 86342SCDSE_2015_0F,Autodesk Simulation CFD 2015 Design Study Environment,flexlm,adskflex
 86343SCFDM_2015_0F,Autodesk Simulation CFD 2015 Motion,flexlm,adskflex
 86344ACMPAN_2015_0F,Autodesk Simulation Composite Analysis 2015,flexlm,adskflex
-86345ACMPAN_F,Autodesk Helius PFA 2018 Package (perpetual),flexlm,adskflex
-86345ACMPAN_F,Autodesk Simulation Composite Analysis Package,flexlm,adskflex
-86345ACMPAN_T_F,Autodesk Helius PFA 2018 Package (rental),flexlm,adskflex
-86345ACMPAN_T_F,Autodesk Helius PFA,flexlm,adskflex
+86345ACMPAN_F,Autodesk Helius PFA Package (perpetual),flexlm,adskflex
+86345ACMPAN_T_F,Autodesk Helius PFA Package (rental),flexlm,adskflex
 86346ACMPDS_2015_0F,Autodesk Simulation Composite Design 2015,flexlm,adskflex
-86347ACMPDS_F,Autodesk Helius Composite 2018 Package (perpetual),flexlm,adskflex
-86347ACMPDS_F,Autodesk Simulation Composite Design Package,flexlm,adskflex
-86347ACMPDS_T_F,Autodesk Helius Composite 2018 Package (rental),flexlm,adskflex
-86347ACMPDS_T_F,Autodesk Helius Composite,flexlm,adskflex
+86347ACMPDS_F,Autodesk Helius Composite Package (perpetual),flexlm,adskflex
+86347ACMPDS_T_F,Autodesk Helius Composite Package (rental),flexlm,adskflex
 86348ASMES_2015_0F,Autodesk Simulation Mechanical 2015,flexlm,adskflex
 86349ASPRO_2015_0F,Autodesk Simulation Multiphysics 2015,flexlm,adskflex
 86350NAVMAN_2015_0F,Autodesk Navisworks Manage 2015,flexlm,adskflex
@@ -1402,18 +1258,14 @@ lm_feature_code,description,lm_system,lm_vendor
 86369SHOWCASE_2015_0F,Autodesk Showcase 2015,flexlm,adskflex
 86370SHOWPRO_2015_0F,Autodesk Showcase Professional 2015,flexlm,adskflex
 86371ALAUST_2015_0F,Autodesk Alias AutoStudio 2015,flexlm,adskflex
-86372ALAUST_F,Autodesk Alias AutoStudio 2018 Package (perpetual),flexlm,adskflex
-86372ALAUST_F,Autodesk Alias AutoStudio Package,flexlm,adskflex
-86372ALAUST_T_F,Autodesk Alias AutoStudio 2018 Package (rental),flexlm,adskflex
-86372ALAUST_T_F,Autodesk Alias AutoStudio,flexlm,adskflex
+86372ALAUST_F,Autodesk Alias AutoStudio Package (perpetual),flexlm,adskflex
+86372ALAUST_T_F,Autodesk Alias AutoStudio Package (rental),flexlm,adskflex
 86373ADSTCP_2015_0F,Autodesk Advance Concrete 2015,flexlm,adskflex
 86374ADSTCP_F,Autodesk Advance Concrete Package,flexlm,adskflex
 86374ADSTCP_T_F,Autodesk Advance Concrete,flexlm,adskflex
 86375ADSTPR_2015_0F,Autodesk Advance Steel 2015,flexlm,adskflex
-86376ADSTPR_F,Autodesk Advance Steel 2018 Package (perpetual),flexlm,adskflex
-86376ADSTPR_F,Autodesk Advance Steel Package,flexlm,adskflex
-86376ADSTPR_T_F,Autodesk Advance Steel 2018 Package (rental),flexlm,adskflex
-86376ADSTPR_T_F,Autodesk Advance Steel,flexlm,adskflex
+86376ADSTPR_F,Autodesk Advance Steel Package (perpetual),flexlm,adskflex
+86376ADSTPR_T_F,Autodesk Advance Steel Package (rental),flexlm,adskflex
 86377SMKMACBRN_2015_0F,Autodesk Smoke 2015 for Mac OS X Burn,flexlm,adskflex
 86377SMKMACWG_2015_0F,Autodesk Smoke Wiretap Gateway 2015,flexlm,adskflex
 86377SMKMAC_2015_0F,Autodesk Smoke 2015 for Mac OS X,flexlm,adskflex
@@ -1425,61 +1277,45 @@ lm_feature_code,description,lm_system,lm_vendor
 86382ASPACD_T_F,Autodesk Advance Steel with AutoCAD,flexlm,adskflex
 86383DCMVRD_2015_0F,Autodesk Display Cluster Module for Autodesk VRED Design 2015,flexlm,adskflex
 86384PNTLAY_2015_0F,Autodesk Point Layout 2015,flexlm,adskflex
-86385PNTLAY_F,Autodesk Point Layout 2018 Package (perpetual),flexlm,adskflex
-86385PNTLAY_F,Autodesk Point Layout Bundle,flexlm,adskflex
-86385PNTLAY_T_F,Autodesk Point Layout 2018 Package (rental),flexlm,adskflex
-86385PNTLAY_T_F,Autodesk Point Layout,flexlm,adskflex
+86385PNTLAY_F,Autodesk Point Layout Package (perpetual),flexlm,adskflex
+86385PNTLAY_T_F,Autodesk Point Layout Package (rental),flexlm,adskflex
 86386RCMVRD_2015_0F,Autodesk Raytracing Cluster Module for Autodesk VRED 2015,flexlm,adskflex
-86387MFIP_F,Autodesk Moldflow Insight Premium 2018 Package (perpetual),flexlm,adskflex
-86387MFIP_F,Autodesk Simulation Moldflow Insight Premium Package,flexlm,adskflex
-86387MFIP_T_F,Autodesk Moldflow Insight Premium 2018 Package (rental),flexlm,adskflex
-86387MFIP_T_F,Autodesk Moldflow Insight Premium,flexlm,adskflex
+86387MFIP_F,Autodesk Moldflow Insight Premium Package (perpetual),flexlm,adskflex
+86387MFIP_T_F,Autodesk Moldflow Insight Premium Package (rental),flexlm,adskflex
 86388VEHTRK_2015_0F,Autodesk Vehicle Tracking 2015,flexlm,adskflex
 86389ACMPAN_F,Autodesk Simulation Composite Analysis Package,flexlm,adskflex
 86390IW360P_2015_0F,Autodesk InfraWorks 360 2015,flexlm,adskflex
 86391IW360P_F,Autodesk InfraWorks 360 Package,flexlm,adskflex
 86391IW360P_T_F,Autodesk InfraWorks 360,flexlm,adskflex
 86392INVHSM_2015_0F,Autodesk Inventor HSM 2015,flexlm,adskflex
-86393INVHSM_F,Autodesk Inventor HSM Package,flexlm,adskflex
-86393INVHSM_F,Autodesk Inventor HSM Premium 2018 Package (perpetual),flexlm,adskflex
-86393INVHSM_T_F,Autodesk Inventor HSM Premium 2018 Package (rental),flexlm,adskflex
-86393INVHSM_T_F,Autodesk Inventor HSM,flexlm,adskflex
+86393INVHSM_F,Autodesk Inventor HSM Premium Package (perpetual),flexlm,adskflex
+86393INVHSM_T_F,Autodesk Inventor HSM Premium Package (rental),flexlm,adskflex
 86394INHSMP_2015_0F,Autodesk Inventor HSM Pro 2015,flexlm,adskflex
-86395INHSMP_F,Autodesk Inventor HSM Pro Package,flexlm,adskflex
-86395INHSMP_F,Autodesk Inventor HSM Ultimate 2018 Package (perpetual),flexlm,adskflex
-86395INHSMP_T_F,Autodesk Inventor HSM Pro,flexlm,adskflex
-86395INHSMP_T_F,Autodesk Inventor HSM Ultimate 2018 Package (rental),flexlm,adskflex
+86395INHSMP_F,Autodesk Inventor HSM Ultimate Package (perpetual),flexlm,adskflex
+86395INHSMP_T_F,Autodesk Inventor HSM Ultimate Package (rental),flexlm,adskflex
 86396IW360C_2015_0F,Autodesk InfraWorks 360 - companion 2015,flexlm,adskflex
 86397IW360C_F,Autodesk InfraWorks 360 - companion Package,flexlm,adskflex
 863983DSMXS_2015_0F,Autodesk 3ds Max with SoftImage 2015,flexlm,adskflex
 863993DSMXS_F,Autodesk 3ds Max 2018 with Softimage Package (perpetual),flexlm,adskflex
-863993DSMXS_F,Autodesk 3ds Max with SoftImage Package,flexlm,adskflex
 863993DSMXS_T_F,Autodesk 3ds Max 2018 with Softimage Package (rental),flexlm,adskflex
-863993DSMXS_T_F,Autodesk 3ds Max with SoftImage,flexlm,adskflex
 86400MAYAS_2015_0F,Autodesk Maya with SoftImage 2015,flexlm,adskflex
 86401MAYAS_F,Autodesk Maya with SoftImage Package,flexlm,adskflex
 86402RECAP_2015_0F,Autodesk ReCap 2015,flexlm,adskflex
-86403RECAP_F,Autodesk ReCap 360 Ultimate Package,flexlm,adskflex
 86403RECAP_F,Autodesk ReCap Pro Package (perpetual),flexlm,adskflex
-86403RECAP_T_F,Autodesk ReCap 360 Pro,flexlm,adskflex
 86403RECAP_T_F,Autodesk ReCap Pro Package (rental),flexlm,adskflex
 86404HSMPRM_2015_0F,Autodesk HSMWorks Premium 2015,flexlm,adskflex
-86405HSMPRM_F,Autodesk HSMWorks Premium Package,flexlm,adskflex
-86405HSMPRM_F,HSMWorks Ultimate 2018 Package (perpetual),flexlm,adskflex
-86405HSMPRM_T_F,HSMWorks Ultimate 2018 Package (rental),flexlm,adskflex
+86405HSMPRM_F,HSMWorks Ultimate Package (perpetual),flexlm,adskflex
+86405HSMPRM_T_F,HSMWorks Ultimate Package (rental),flexlm,adskflex
 86406HSMPRO_2015_0F,Autodesk HSMWorks Professional 2015,flexlm,adskflex
-86407HSMPRO_F,Autodesk HSMWorks Professional Package,flexlm,adskflex
-86407HSMPRO_F,HSMWorks Premium 2018 Package (perpetual),flexlm,adskflex
-86407HSMPRO_T_F,HSMWorks Premium 2018 Package (rental),flexlm,adskflex
+86407HSMPRO_F,HSMWorks Premium Package (perpetual),flexlm,adskflex
+86407HSMPRO_T_F,HSMWorks Premium Package (rental),flexlm,adskflex
 86408T1MF_2015_0F,T1 Enterprise Multi-flex 2015,flexlm,adskflex
-86409T1MF_F,T1 Enterprise Multi-flex 2018 Package (perpetual),flexlm,adskflex
-86409T1MF_F,T1 Enterprise Multi-flex Package,flexlm,adskflex
+86409T1MF_F,T1 Enterprise Multi-flex Package (perpetual),flexlm,adskflex
 86410INVPUB_2015_0F,Autodesk Inventor Publisher 2015,flexlm,adskflex
 86412T1MFPV_2015_0F,T1 Enterprise Multi-flex Prior Version 2015,flexlm,adskflex
-86413T1MFPV_F,T1 Enterprise Multi-flex Prior Version 2018 Package (perpetual),flexlm,adskflex
+86413T1MFPV_F,T1 Enterprise Multi-flex Prior Version Package (perpetual),flexlm,adskflex
 86414T1MFSB_2015_0F,T1 Enterprise Multi-flex Standard Bundle 2015,flexlm,adskflex
-86415T1MFSB_F,T1 Enterprise Multi-flex Standard Bundle 2018 Package (perpetual),flexlm,adskflex
-86415T1MFSB_F,T1 Enterprise Multi-flex Standard Bundle Package,flexlm,adskflex
+86415T1MFSB_F,T1 Enterprise Multi-flex Standard Bundle Package (perpetual),flexlm,adskflex
 86416T1MFPB_2015_0F,T1 Enterprise Multi-Flex Standard Prior Version Bundle 2015,flexlm,adskflex
 86417EMFEB_2015_0F,Enterprise Multi-Flex Enhanced Bundle 2015,flexlm,adskflex
 86419BRDGMD_2015_0F,Autodesk Bridge Module 2015,flexlm,adskflex
@@ -1490,7 +1326,6 @@ lm_feature_code,description,lm_system,lm_vendor
 86424RFAMOD_F,Autodesk River and Flood Analysis Module Package,flexlm,adskflex
 86425SMKDS_2015_0F,Autodesk Smoke 2015 Desktop Rental,flexlm,adskflex
 86426SMKDS_F,Autodesk Smoke 2018 Desktop Rental Package (perpetual),flexlm,adskflex
-86426SMKDS_F,Autodesk Smoke Desktop Rental Package,flexlm,adskflex
 86426SMKDS_T_F,Autodesk Smoke 2018 Desktop Rental Package (rental),flexlm,adskflex
 86427ALAUST_2016_0F,Autodesk Alias AutoStudio 2016,flexlm,adskflex
 86428DESNST_2016_0F,Autodesk Alias Design 2016,flexlm,adskflex
@@ -1563,15 +1398,11 @@ lm_feature_code,description,lm_system,lm_vendor
 86496INVLT_2016_0F,Autodesk Inventor LT 2016,flexlm,adskflex
 86497INVPROSA_2016_0F,Autodesk Inventor Professional 2016,flexlm,adskflex
 86498NSTRN_2015_0F,Autodesk Nastran 2015,flexlm,adskflex
-86499NSTRN_F,Autodesk Nastran 2018 Package (perpetual),flexlm,adskflex
-86499NSTRN_F,Autodesk Nastran Package,flexlm,adskflex
-86499NSTRN_T_F,Autodesk Nastran 2018 Package (rental),flexlm,adskflex
-86499NSTRN_T_F,Autodesk Nastran,flexlm,adskflex
+86499NSTRN_F,Autodesk Nastran Package (perpetual),flexlm,adskflex
+86499NSTRN_T_F,Autodesk Nastran Package (rental),flexlm,adskflex
 86500NINCAD_2015_0F,Autodesk Nastran In-CAD 2015,flexlm,adskflex
-86501NINCAD_F,Autodesk Nastran In-CAD 2018 Package (perpetual),flexlm,adskflex
-86501NINCAD_F,Autodesk Nastran In-CAD Package,flexlm,adskflex
-86501NINCAD_T_F,Autodesk Nastran In-CAD 2018 Package (rental),flexlm,adskflex
-86501NINCAD_T_F,Autodesk Nastran In-CAD,flexlm,adskflex
+86501NINCAD_F,Autodesk Nastran In-CAD Package (perpetual),flexlm,adskflex
+86501NINCAD_T_F,Autodesk Nastran In-CAD Package (rental),flexlm,adskflex
 86502FDSS_2016_0F,Autodesk Factory Design Suite Standard 2016,flexlm,adskflex
 86503INVETO_2016_0F,Autodesk Inventor Engineer-to-Order Series 2016,flexlm,adskflex
 86504SMKDS_2016_0F,Autodesk Smoke 2016 Desktop Rental,flexlm,adskflex
@@ -1607,7 +1438,6 @@ lm_feature_code,description,lm_system,lm_vendor
 86530IW360C_2016_0F,Autodesk InfraWorks 360 - companion 2016,flexlm,adskflex
 86531IW360P_2016_0F,Autodesk InfraWorks 360 2016,flexlm,adskflex
 86532IMRH_2016_0F,Autodesk InfraWorks bundle ? Roads & Highways 2016,flexlm,adskflex
-86532IMRH_2016_0F,Autodesk InfraWorks bundle – Roads & Highways 2016,flexlm,adskflex
 86533INVPUB_2016_0F,Autodesk Inventor Publisher 2016,flexlm,adskflex
 86534NAVMAN_2016_0F,Autodesk Navisworks Manage 2016,flexlm,adskflex
 86535PNTLAY_2016_0F,Autodesk Point Layout 2016,flexlm,adskflex
@@ -1642,8 +1472,7 @@ lm_feature_code,description,lm_system,lm_vendor
 86567VRDPRS_2016_0F,Autodesk VRED Presenter 2016,flexlm,adskflex
 86568VRDPRO_2016_0F,Autodesk VRED Professional 2016,flexlm,adskflex
 86569EMFEB_2016_0F,Enterprise Multi-Flex Enhanced Bundle 2016,flexlm,adskflex
-86570EMFEB_F,Ent Multi-Flex Enhanced Bndl 2018 Package (perpetual),flexlm,adskflex
-86570EMFEB_F,Enterprise Multi-Flex Enhanced Bundle Package,flexlm,adskflex
+86570EMFEB_F,Ent Multi-Flex Enhanced Bndl Package (perpetual),flexlm,adskflex
 86571T1MF_2016_0F,T1 Enterprise Multi-flex 2016,flexlm,adskflex
 86572VRDSRV_2016_0F,Autodesk VRED Server 2016,flexlm,adskflex
 86573T1MFPV_2016_0F,T1 Enterprise Multi-flex Prior Version 2016,flexlm,adskflex
@@ -1656,33 +1485,22 @@ lm_feature_code,description,lm_system,lm_vendor
 86581ALSCPT_2016_0F,Autodesk Alias Concept 2016,flexlm,adskflex
 86581ALSSF_2015_0F,Autodesk Alias Speedform 2015,flexlm,adskflex
 86581ALSSF_2016_0F,Autodesk Alias SpeedForm 2016,flexlm,adskflex
-86582ALSCPT_F,Autodesk Alias Concept 2018 Package (perpetual),flexlm,adskflex
-86582ALSCPT_F,Autodesk Alias Concept Package,flexlm,adskflex
-86582ALSCPT_T_F,Autodesk Alias Concept 2018 Package (rental),flexlm,adskflex
-86582ALSCPT_T_F,Autodesk Alias Concept,flexlm,adskflex
-86582ALSSF_F,Autodesk Alias SpeedForm 2018 Package (perpetual),flexlm,adskflex
-86582ALSSF_F,Autodesk Alias SpeedForm Package,flexlm,adskflex
-86582ALSSF_T_F,Autodesk Alias SpeedForm 2018 Package (rental),flexlm,adskflex
-86582ALSSF_T_F,Autodesk Alias SpeedForm,flexlm,adskflex
+86582ALSCPT_F,Autodesk Alias Concept Package (perpetual),flexlm,adskflex
+86582ALSCPT_T_F,Autodesk Alias Concept Package (rental),flexlm,adskflex
+86582ALSSF_F,Autodesk Alias SpeedForm Package (perpetual),flexlm,adskflex
+86582ALSSF_T_F,Autodesk Alias SpeedForm Package (rental),flexlm,adskflex
 86582SHOWCASE_2016_0F,Autodesk Showcase 2016,flexlm,adskflex
 86583RETODP_2015_0F,Autodesk Revit Engineer-to-Order 2015 - Distribution Package,flexlm,adskflex
 86584RETODP_F,Autodesk Revit Engineer-to-Order - Distribution Package Package,flexlm,adskflex
-86586MFIB_F,Autodesk Moldflow Insight Standard 2018 Package (perpetual),flexlm,adskflex
-86586MFIB_F,Autodesk Moldflow Insight Standard Package,flexlm,adskflex
-86586MFIB_T_F,Autodesk Moldflow Insight Standard 2018 Package (rental),flexlm,adskflex
-86586MFIB_T_F,Autodesk Moldflow Insight Standard,flexlm,adskflex
+86586MFIB_F,Autodesk Moldflow Insight Standard Package (perpetual),flexlm,adskflex
+86586MFIB_T_F,Autodesk Moldflow Insight Standard Package (rental),flexlm,adskflex
 86589RETODP_2016_0F,Autodesk Revit Engineer-to-Order 2016 - Distribution Package,flexlm,adskflex
 86590RETODP_F,Autodesk Revit Engineer-to-Order - Distribution Package Package,flexlm,adskflex
-86591IETODEV_F,Autodesk Inventor Engineer-to-Order - Developer Package,flexlm,adskflex
 86591IETODEV_F,Autodesk Inventor Engineer-to-Order 2018 - Developer Package (perpetual),flexlm,adskflex
-86592IETOSRV_F,Autodesk Inventor Engineer-to-Order - Server Package,flexlm,adskflex
 86592IETOSRV_F,Autodesk Inventor Engineer-to-Order 2018 - Server Package (perpetual),flexlm,adskflex
-86592IETOSRV_T_F,Autodesk Inventor Engineer Server,flexlm,adskflex
 86592IETOSRV_T_F,Autodesk Inventor Engineer-to-Order 2018 - Server Package (rental),flexlm,adskflex
 86593IETODIS_2016_0F,Autodesk Inventor Engineer-to-Order 2016 - Distribution,flexlm,adskflex
-86594IETODIS_F,Autodesk Inventor Engineer-to-Order - Distribution Package,flexlm,adskflex
 86594IETODIS_F,Autodesk Inventor Engineer-to-Order 2018 - Distribution Package (perpetual),flexlm,adskflex
-86594IETODIS_T_F,Autodesk Inventor Engineer Dist,flexlm,adskflex
 86594IETODIS_T_F,Autodesk Inventor Engineer-to-Order 2018 - Distribution Package (rental),flexlm,adskflex
 86595STUWAL_2016_0F,Autodesk Studio Wall 2016,flexlm,adskflex
 86596CONCRD_2016_0F,Autodesk Project Concord 2016,flexlm,adskflex
@@ -1727,36 +1545,22 @@ lm_feature_code,description,lm_system,lm_vendor
 86660ACMPAN_2017_0F,Autodesk Helius PFA 2017,flexlm,adskflex
 86662ACMPDS_2017_0F,Autodesk Helius Composite 2017,flexlm,adskflex
 86668IW360DBP_F,Autodesk InfraWorks 360 - Design Bundle Plus Package,flexlm,adskflex
-86669TRUCOM_F,Autodesk TruComp 2018 Package (perpetual),flexlm,adskflex
-86669TRUCOM_F,Autodesk TruComp Package,flexlm,adskflex
-86669TRUCOM_T_F,Autodesk TruComp 2018 Package (rental),flexlm,adskflex
-86669TRUCOM_T_F,Autodesk TruComp,flexlm,adskflex
-86670TRULSR_F,Autodesk TruLaser 2018 Package (perpetual),flexlm,adskflex
-86670TRULSR_F,Autodesk TruLaser Package,flexlm,adskflex
-86670TRULSR_T_F,Autodesk TruLaser 2018 Package (rental),flexlm,adskflex
-86670TRULSR_T_F,Autodesk TruLaser,flexlm,adskflex
+86669TRUCOM_F,Autodesk TruComp Package (perpetual),flexlm,adskflex
+86669TRUCOM_T_F,Autodesk TruComp Package (rental),flexlm,adskflex
+86670TRULSR_F,Autodesk TruLaser Package (perpetual),flexlm,adskflex
+86670TRULSR_T_F,Autodesk TruLaser Package (rental),flexlm,adskflex
 86671STUWAL_F,Autodesk Studio Wall Package,flexlm,adskflex
 86671STUWAL_T_F,Autodesk Studio Wall,flexlm,adskflex
-86673VRNCBL_F,Autodesk VRED Render Node - consumption-based license 2018 Package (perpetual),flexlm,adskflex
-86673VRNCBL_F,Autodesk VRED Render Node - consumption-based license Package,flexlm,adskflex
-86673VRNCBL_T_F,Autodesk VRED On-Demand Render Node,flexlm,adskflex
-86673VRNCBL_T_F,Autodesk VRED Render Node - consumption-based license 2018 Package (rental),flexlm,adskflex
-86676TRUNST_F,Autodesk TruNest - Nesting Engine Package,flexlm,adskflex
-86676TRUNST_F,Autodesk TruNest 2018 - Nesting Engine Package (perpetual),flexlm,adskflex
-86676TRUNST_T_F,Autodesk TruNest - Nesting Engine,flexlm,adskflex
-86676TRUNST_T_F,Autodesk TruNest 2018 - Nesting Engine Package (rental),flexlm,adskflex
-86678TNCONT_F,Autodesk TruNest Contour 2018 Package (perpetual),flexlm,adskflex
-86678TNCONT_F,Autodesk TruNest Contour Package,flexlm,adskflex
-86678TNCONT_T_F,Autodesk TruNest Contour 2018 Package (rental),flexlm,adskflex
-86678TNCONT_T_F,Autodesk TruNest Contour,flexlm,adskflex
-86680TNCOMP_F,Autodesk TruNest Composites 2018 Package (perpetual),flexlm,adskflex
-86680TNCOMP_F,Autodesk TruNest Composites Package,flexlm,adskflex
-86680TNCOMP_T_F,Autodesk TruNest Composites 2018 Package (rental),flexlm,adskflex
-86680TNCOMP_T_F,Autodesk TruNest Composites,flexlm,adskflex
-86682TNMULT_F,Autodesk TruNest Multi-Tool 2018 Package (perpetual),flexlm,adskflex
-86682TNMULT_F,Autodesk TruNest Multi-Tool Package,flexlm,adskflex
-86682TNMULT_T_F,Autodesk TruNest Multi-Tool 2018 Package (rental),flexlm,adskflex
-86682TNMULT_T_F,Autodesk TruNest Multi-Tool,flexlm,adskflex
+86673VRNCBL_F,Autodesk VRED Render Node - consumption-based license Package (perpetual),flexlm,adskflex
+86673VRNCBL_T_F,Autodesk VRED On-Demand Render Node Package (rental),flexlm,adskflex
+86676TRUNST_F,Autodesk TruNest - Nesting Engine Package (perpetual),flexlm,adskflex
+86676TRUNST_T_F,Autodesk TruNest - Nesting Engine Package (rental),flexlm,adskflex
+86678TNCONT_F,Autodesk TruNest Contour Package (perpetual),flexlm,adskflex
+86678TNCONT_T_F,Autodesk TruNest Contour Package (rental),flexlm,adskflex
+86680TNCOMP_F,Autodesk TruNest Composites Package (perpetual),flexlm,adskflex
+86680TNCOMP_T_F,Autodesk TruNest Composites Package (rental),flexlm,adskflex
+86682TNMULT_F,Autodesk TruNest Multi-Tool Package (perpetual),flexlm,adskflex
+86682TNMULT_T_F,Autodesk TruNest Multi-Tool Package (rental),flexlm,adskflex
 86683DSSTD_2017_0F,Autodesk AutoCAD Design Suite Standard 2017,flexlm,adskflex
 86685DSPRM_2017_0F,Autodesk AutoCAD Design Suite Premium 2017,flexlm,adskflex
 86687DSADV_2017_0F,Autodesk AutoCAD Design Suite Ultimate 2017,flexlm,adskflex
@@ -1792,12 +1596,9 @@ lm_feature_code,description,lm_system,lm_vendor
 86736INVETO_2017_0F,Autodesk Inventor Engineer-to-Order Series 2017,flexlm,adskflex
 86737ALSSF_2017_0F,Autodesk Alias SpeedForm 2017,flexlm,adskflex
 86738STUWAL_2017_0F,Autodesk Studio Wall 2017,flexlm,adskflex
-86740MEPCS_F,Autodesk MEP Fabrication Suite 2018 Package (perpetual),flexlm,adskflex
-86740MEPCS_F,Autodesk MEP Fabrication Suite Package,flexlm,adskflex
-86740MEPCS_T_F,Autodesk MEP Fabrication Suite 2018 Package (rental),flexlm,adskflex
-86740MEPCS_T_F,Autodesk MEP Fabrication Suite,flexlm,adskflex
-86742SFS_F,Autodesk Structural Fabrication Suite 2018 Package (perpetual),flexlm,adskflex
-86742SFS_F,Autodesk Structural Fabrication Suite Package,flexlm,adskflex
+86740MEPCS_F,Autodesk MEP Fabrication Suite Package (perpetual),flexlm,adskflex
+86740MEPCS_T_F,Autodesk MEP Fabrication Suite Package (rental),flexlm,adskflex
+86742SFS_F,Autodesk Structural Fabrication Suite Package (perpetual),flexlm,adskflex
 86742SFS_T_F,Autodesk Structural Fabrication Suite,flexlm,adskflex
 86743TRULSR_2017_0F,Autodesk TruLaser 2017,flexlm,adskflex
 86744INVHSM_2017_0F,Autodesk Inventor HSM 2017,flexlm,adskflex
@@ -1840,22 +1641,18 @@ lm_feature_code,description,lm_system,lm_vendor
 86791SFS_2017_0F,Autodesk Structural Fabrication Suite 2017,flexlm,adskflex
 86792SBRDES_2017_0F,Autodesk Structural Bridge Design 2017,flexlm,adskflex
 86802PLC0000023_2017_0F,Autodesk SimStudio Tools 2016 R2,flexlm,adskflex
-86802PLC0000023_F,Autodesk SimStudio Tools 2016 R2 Package,flexlm,adskflex
-86802PLC0000023_F,Autodesk SimStudio Tools 2016 R3 Package (perpetual),flexlm,adskflex
-86802PLC0000023_T_F,Autodesk SimStudio Tools 2016 R2,flexlm,adskflex
-86802PLC0000023_T_F,Autodesk SimStudio Tools 2016 R3 Package (rental),flexlm,adskflex
+86802PLC0000023_F,Autodesk SimStudio Tools 2016 R2/R3 Package (perpetual),flexlm,adskflex
+86802PLC0000023_T_F,Autodesk SimStudio Tools 2016 R2/R3 Package (rental),flexlm,adskflex
 86803SHOWCASE_2017_0F,Autodesk Showcase 2017,flexlm,adskflex
 86804SCFD_2017_0F,Autodesk CFD 2017,flexlm,adskflex
 86805SCFDA_2017_0F,Autodesk CFD 2017 Advanced,flexlm,adskflex
 86806SCDSE_2017_0F,Autodesk CFD 2017 Design Study Environment,flexlm,adskflex
 86807SCFDM_2017_0F,Autodesk CFD 2017 Motion,flexlm,adskflex
-86808TRUFBR_F,Autodesk TruFiber 2018 Package (perpetual),flexlm,adskflex
-86808TRUFBR_T_F,Autodesk TruFiber 2018 Package (rental),flexlm,adskflex
+86808TRUFBR_F,Autodesk TruFiber Package (perpetual),flexlm,adskflex
+86808TRUFBR_T_F,Autodesk TruFiber Package (rental),flexlm,adskflex
 86809TRUPLN_2017_0F,Autodesk TruPlan 2017,flexlm,adskflex
-86809TRUPLN_F,Autodesk TruPlan 2018 Package (perpetual),flexlm,adskflex
-86809TRUPLN_F,Autodesk TruPlan Package,flexlm,adskflex
-86809TRUPLN_T_F,Autodesk TruPlan 2018 Package (rental),flexlm,adskflex
-86809TRUPLN_T_F,Autodesk TruPlan,flexlm,adskflex
+86809TRUPLN_F,Autodesk TruPlan Package (perpetual),flexlm,adskflex
+86809TRUPLN_T_F,Autodesk TruPlan Package (rental),flexlm,adskflex
 86812MMNTO_2017_0F,Autodesk Memento,flexlm,adskflex
 86812MMNTO_F,Autodesk Memento Package,flexlm,adskflex
 86812MMNTO_T_F,Autodesk Memento,flexlm,adskflex
@@ -1868,99 +1665,98 @@ lm_feature_code,description,lm_system,lm_vendor
 86826INVLT_2018_0F,Autodesk Inventor LT 2018,flexlm,adskflex
 86827INVOEM_2018_0F,Autodesk Inventor OEM 2018,flexlm,adskflex
 86829PDCOLL_F,PD Collection Package (perpetual),flexlm,adskflex
-86829PDCOLL_F,PD Collection,flexlm,adskflex
 86829PDCOLL_T_F,PD Collection Package (rental),flexlm,adskflex
 86830ACD_2018_0F,Autodesk AutoCAD 2018,flexlm,adskflex
 86831ACDLT_2018_0F,Autodesk AutoCAD LT 2018,flexlm,adskflex
 86832ARDES_2018_0F,Autodesk AutoCAD Raster Design 2018,flexlm,adskflex
 868333DSMAX_2018_0F,Autodesk 3ds Max 2018,flexlm,adskflex
-86834NETFS_F,Autodesk Netfabb Standard 2018 Package (perpetual),flexlm,adskflex
-86834NETFS_T_F,Autodesk Netfabb Standard 2018 Package (rental),flexlm,adskflex
-86835NETFA_F,Autodesk Netfabb Premium 2018 Package (perpetual),flexlm,adskflex
-86835NETFA_T_F,Autodesk Netfabb Premium 2018 Package (rental),flexlm,adskflex
-86836NETFE_F,Autodesk Netfabb Ultimate 2018 Package (perpetual),flexlm,adskflex
-86836NETFE_T_F,Autodesk Netfabb Ultimate 2018 Package (rental),flexlm,adskflex
+86834NETFS_F,Autodesk Netfabb Standard Package (perpetual),flexlm,adskflex
+86834NETFS_T_F,Autodesk Netfabb Standard Package (rental),flexlm,adskflex
+86835NETFA_F,Autodesk Netfabb Premium Package (perpetual),flexlm,adskflex
+86835NETFA_T_F,Autodesk Netfabb Premium Package (rental),flexlm,adskflex
+86836NETFE_F,Autodesk Netfabb Ultimate Package (perpetual),flexlm,adskflex
+86836NETFE_T_F,Autodesk Netfabb Ultimate Package (rental),flexlm,adskflex
 86837FDU_2018_0F,Autodesk Factory Design Utilities 2018,flexlm,adskflex
 86839AMECH_PP_2018_0F,Autodesk AutoCAD Mechanical 2018,flexlm,adskflex
-86840PWRSU_F,Autodesk PowerShape Ultimate 2018 Package (perpetual),flexlm,adskflex
-86840PWRSU_T_F,Autodesk PowerShape Ultimate 2018 Package (rental),flexlm,adskflex
-86841PWRSS_F,Autodesk PowerShape Standard 2018 Package (perpetual),flexlm,adskflex
-86841PWRSS_T_F,Autodesk PowerShape Standard 2018 Package (rental),flexlm,adskflex
-86842PWRSP_F,Autodesk PowerShape Premium 2018 Package (perpetual),flexlm,adskflex
-86842PWRSP_T_F,Autodesk PowerShape Premium 2018 Package (rental),flexlm,adskflex
-86843PWRMS_F,Autodesk PowerMill Standard 2018 Package (perpetual),flexlm,adskflex
-86843PWRMS_T_F,Autodesk PowerMill Standard 2018 Package (rental),flexlm,adskflex
-86844PWRMP_F,Autodesk PowerMill Premium 2018 Package (perpetual),flexlm,adskflex
-86844PWRMP_T_F,Autodesk PowerMill Premium 2018 Package (rental),flexlm,adskflex
-86845PWRMU_F,Autodesk PowerMill Ultimate 2018 Package (perpetual),flexlm,adskflex
-86845PWRMU_T_F,Autodesk PowerMill Ultimate 2018 Package (rental),flexlm,adskflex
-86846PWRIS_F,Autodesk PowerInspect Standard 2018 Package (perpetual),flexlm,adskflex
-86846PWRIS_T_F,Autodesk PowerInspect Standard 2018 Package (rental),flexlm,adskflex
+86840PWRSU_F,Autodesk PowerShape Ultimate Package (perpetual),flexlm,adskflex
+86840PWRSU_T_F,Autodesk PowerShape Ultimate Package (rental),flexlm,adskflex
+86841PWRSS_F,Autodesk PowerShape Standard Package (perpetual),flexlm,adskflex
+86841PWRSS_T_F,Autodesk PowerShape Standard Package (rental),flexlm,adskflex
+86842PWRSP_F,Autodesk PowerShape Premium Package (perpetual),flexlm,adskflex
+86842PWRSP_T_F,Autodesk PowerShape Premium Package (rental),flexlm,adskflex
+86843PWRMS_F,Autodesk PowerMill Standard Package (perpetual),flexlm,adskflex
+86843PWRMS_T_F,Autodesk PowerMill Standard Package (rental),flexlm,adskflex
+86844PWRMP_F,Autodesk PowerMill Premium Package (perpetual),flexlm,adskflex
+86844PWRMP_T_F,Autodesk PowerMill Premium Package (rental),flexlm,adskflex
+86845PWRMU_F,Autodesk PowerMill Ultimate Package (perpetual),flexlm,adskflex
+86845PWRMU_T_F,Autodesk PowerMill Ultimate Package (rental),flexlm,adskflex
+86846PWRIS_F,Autodesk PowerInspect Standard Package (perpetual),flexlm,adskflex
+86846PWRIS_T_F,Autodesk PowerInspect Standard Package (rental),flexlm,adskflex
 86847PWRIP_2017_0F,Autodesk PowerInspect Premium 2018,flexlm,adskflex
-86847PWRIP_F,Autodesk PowerInspect Premium 2018 Package (perpetual),flexlm,adskflex
-86847PWRIP_T_F,Autodesk PowerInspect Premium 2018 Package (rental),flexlm,adskflex
-86848PWRIU_F,Autodesk PowerInspect Ultimate 2018 Package (perpetual),flexlm,adskflex
-86848PWRIU_T_F,Autodesk PowerInspect Ultimate 2018 Package (rental),flexlm,adskflex
-86849ARTCS_F,Autodesk ArtCAM Standard 2018 Package (perpetual),flexlm,adskflex
-86849ARTCS_T_F,Autodesk ArtCAM Standard 2018 Package (rental),flexlm,adskflex
-86850ARTCE_F,Autodesk ArtCAM Express 2018 Package (perpetual),flexlm,adskflex
-86850ARTCE_T_F,Autodesk ArtCAM Express 2018 Package (rental),flexlm,adskflex
-86851ARTCP_F,Autodesk ArtCAM Premium 2018 Package (perpetual),flexlm,adskflex
-86851ARTCP_T_F,Autodesk ArtCAM Premium 2018 Package (rental),flexlm,adskflex
-86852FCAMU_F,Autodesk FeatureCAM Ultimate 2018 Package (perpetual),flexlm,adskflex
-86852FCAMU_T_F,Autodesk FeatureCAM Ultimate 2018 Package (rental),flexlm,adskflex
-86853FCAMS_F,Autodesk FeatureCAM Standard 2018 Package (perpetual),flexlm,adskflex
-86853FCAMS_T_F,Autodesk FeatureCAM Standard 2018 Package (rental),flexlm,adskflex
-86854FCAMP_F,Autodesk FeatureCAM Premium 2018 Package (perpetual),flexlm,adskflex
-86854FCAMP_T_F,Autodesk FeatureCAM Premium 2018 Package (rental),flexlm,adskflex
+86847PWRIP_F,Autodesk PowerInspect Premium Package (perpetual),flexlm,adskflex
+86847PWRIP_T_F,Autodesk PowerInspect Premium Package (rental),flexlm,adskflex
+86848PWRIU_F,Autodesk PowerInspect Ultimate Package (perpetual),flexlm,adskflex
+86848PWRIU_T_F,Autodesk PowerInspect Ultimate Package (rental),flexlm,adskflex
+86849ARTCS_F,Autodesk ArtCAM Standard Package (perpetual),flexlm,adskflex
+86849ARTCS_T_F,Autodesk ArtCAM Standard Package (rental),flexlm,adskflex
+86850ARTCE_F,Autodesk ArtCAM Express Package (perpetual),flexlm,adskflex
+86850ARTCE_T_F,Autodesk ArtCAM Express Package (rental),flexlm,adskflex
+86851ARTCP_F,Autodesk ArtCAM Premium Package (perpetual),flexlm,adskflex
+86851ARTCP_T_F,Autodesk ArtCAM Premium Package (rental),flexlm,adskflex
+86852FCAMU_F,Autodesk FeatureCAM Ultimate Package (perpetual),flexlm,adskflex
+86852FCAMU_T_F,Autodesk FeatureCAM Ultimate Package (rental),flexlm,adskflex
+86853FCAMS_F,Autodesk FeatureCAM Standard Package (perpetual),flexlm,adskflex
+86853FCAMS_T_F,Autodesk FeatureCAM Standard Package (rental),flexlm,adskflex
+86854FCAMP_F,Autodesk FeatureCAM Premium Package (perpetual),flexlm,adskflex
+86854FCAMP_T_F,Autodesk FeatureCAM Premium Package (rental),flexlm,adskflex
 86855BLDSYS_2018_0F,Autodesk AutoCAD MEP 2018,flexlm,adskflex
 86856ARCHDESK_2018_0F,Autodesk AutoCAD Architecture 2018,flexlm,adskflex
 86857ADSTPR_2018_0F,Autodesk Advance Steel 2018,flexlm,adskflex
-86859MFGDEXUTLP_F,Autodesk Manufacturing Data Exchange Utility Premium 2018 Package (perpetual),flexlm,adskflex
-86859MFGDEXUTLP_T_F,Autodesk Manufacturing Data Exchange Utility Premium 2018 Package (rental),flexlm,adskflex
-86860MFGPPUTL_F,Autodesk Manufacturing Post Processor Utility 2018 Package (perpetual),flexlm,adskflex
-86860MFGPPUTL_T_F,Autodesk Manufacturing Post Processor Utility 2018 Package (rental),flexlm,adskflex
-86861PMAKER_F,Autodesk PartMaker 2018 Package (perpetual),flexlm,adskflex
-86861PMAKER_T_F,Autodesk PartMaker 2018 Package (rental),flexlm,adskflex
-86862PWRMMOD_F,Autodesk PowerMill Modeling 2018 Package (perpetual),flexlm,adskflex
-86862PWRMMOD_T_F,Autodesk PowerMill Modeling 2018 Package (rental),flexlm,adskflex
+86859MFGDEXUTLP_F,Autodesk Manufacturing Data Exchange Utility Premium Package (perpetual),flexlm,adskflex
+86859MFGDEXUTLP_T_F,Autodesk Manufacturing Data Exchange Utility Premium Package (rental),flexlm,adskflex
+86860MFGPPUTL_F,Autodesk Manufacturing Post Processor Utility Package (perpetual),flexlm,adskflex
+86860MFGPPUTL_T_F,Autodesk Manufacturing Post Processor Utility Package (rental),flexlm,adskflex
+86861PMAKER_F,Autodesk PartMaker Package (perpetual),flexlm,adskflex
+86861PMAKER_T_F,Autodesk PartMaker Package (rental),flexlm,adskflex
+86862PWRMMOD_F,Autodesk PowerMill Modeling Package (perpetual),flexlm,adskflex
+86862PWRMMOD_T_F,Autodesk PowerMill Modeling Package (rental),flexlm,adskflex
 86863ALAUST_2018_0F,Autodesk Alias AutoStudio 2018,flexlm,adskflex
 86865SURFST_2018_0F,Autodesk Alias Surface 2018,flexlm,adskflex
 86866MAP_2018_0F,Autodesk AutoCAD Map 3D 2018,flexlm,adskflex
 86867UTLDESN_2018_0F,Autodesk AutoCAD Utility Design 2018,flexlm,adskflex
-86868MPPUS_F,Autodesk Manufacturing Automation Utility 2018 Package (perpetual),flexlm,adskflex
-86868MPPUS_T_F,Autodesk Manufacturing Automation Utility 2018 Package (rental),flexlm,adskflex
-86869MDEUS_F,Autodesk Manufacturing Data Exchange Utility Standard 2018 Package (perpetual),flexlm,adskflex
-86869MDEUS_T_F,Autodesk Manufacturing Data Exchange Utility Standard 2018 Package (rental),flexlm,adskflex
+86868MPPUS_F,Autodesk Manufacturing Automation Utility Package (perpetual),flexlm,adskflex
+86868MPPUS_T_F,Autodesk Manufacturing Automation Utility Package (rental),flexlm,adskflex
+86869MDEUS_F,Autodesk Manufacturing Data Exchange Utility Standard Package (perpetual),flexlm,adskflex
+86869MDEUS_T_F,Autodesk Manufacturing Data Exchange Utility Standard Package (rental),flexlm,adskflex
 86870ACPLH_2018_0F,ArtCAM Premium 2018,flexlm,adskflex
-86870ACPLH_F,ArtCAM Premium 2018 Package (perpetual),flexlm,adskflex
-86870ACPLH_T_F,ArtCAM Premium 2018 Package (rental),flexlm,adskflex
-86871ACSLH_F,ArtCAM Standard 2018 Package (perpetual),flexlm,adskflex
-86871ACSLH_T_F,ArtCAM Standard 2018 Package (rental),flexlm,adskflex
-86872FCMPLH_F,FeatureCAM Premium 2018 Package (perpetual),flexlm,adskflex
-86872FCMPLH_T_F,FeatureCAM Premium 2018 Package (rental),flexlm,adskflex
-86873FCMSLH_F,FeatureCAM Standard 2018 Package (perpetual),flexlm,adskflex
-86873FCMSLH_T_F,FeatureCAM Standard 2018 Package (rental),flexlm,adskflex
-86874FCMULH_F,FeatureCAM Ultimate 2018 Package (perpetual),flexlm,adskflex
-86874FCMULH_T_F,FeatureCAM Ultimate 2018 Package (rental),flexlm,adskflex
-86875PWIPLH_F,PowerInspect Premium 2018 Package (perpetual),flexlm,adskflex
-86875PWIPLH_T_F,PowerInspect Premium 2018 Package (rental),flexlm,adskflex
-86876PWISLH_F,PowerInspect Standard 2018 Package (perpetual),flexlm,adskflex
-86876PWISLH_T_F,PowerInspect Standard 2018 Package (rental),flexlm,adskflex
-86877PWIULH_F,PowerInspect Ultimate 2018 Package (perpetual),flexlm,adskflex
-86877PWIULH_T_F,PowerInspect Ultimate 2018 Package (rental),flexlm,adskflex
-86878PMPLHD_F,PowerMill Premium 2018 Package (perpetual),flexlm,adskflex
-86878PMPLHD_T_F,PowerMill Premium 2018 Package (rental),flexlm,adskflex
-86879PMSLHD_F,PowerMill Standard 2018 Package (perpetual),flexlm,adskflex
-86879PMSLHD_T_F,PowerMill Standard 2018 Package (rental),flexlm,adskflex
-86880PMULHD_F,PowerMill Ultimate 2018 Package (perpetual),flexlm,adskflex
-86880PMULHD_T_F,PowerMill Ultimate 2018 Package (rental),flexlm,adskflex
-86881PWSPLH_F,PowerShape Premium 2018 Package (perpetual),flexlm,adskflex
-86881PWSPLH_T_F,PowerShape Premium 2018 Package (rental),flexlm,adskflex
-86882PWSSLH_F,PowerShape Standard 2018 Package (perpetual),flexlm,adskflex
-86882PWSSLH_T_F,PowerShape Standard 2018 Package (rental),flexlm,adskflex
-86883PWSULH_F,PowerShape Ultimate 2018 Package (perpetual),flexlm,adskflex
-86883PWSULH_T_F,PowerShape Ultimate 2018 Package (rental),flexlm,adskflex
+86870ACPLH_F,ArtCAM Premium Package (perpetual),flexlm,adskflex
+86870ACPLH_T_F,ArtCAM Premium Package (rental),flexlm,adskflex
+86871ACSLH_F,ArtCAM Standard Package (perpetual),flexlm,adskflex
+86871ACSLH_T_F,ArtCAM Standard Package (rental),flexlm,adskflex
+86872FCMPLH_F,FeatureCAM Premium Package (perpetual),flexlm,adskflex
+86872FCMPLH_T_F,FeatureCAM Premium Package (rental),flexlm,adskflex
+86873FCMSLH_F,FeatureCAM Standard Package (perpetual),flexlm,adskflex
+86873FCMSLH_T_F,FeatureCAM Standard Package (rental),flexlm,adskflex
+86874FCMULH_F,FeatureCAM Ultimate Package (perpetual),flexlm,adskflex
+86874FCMULH_T_F,FeatureCAM Ultimate Package (rental),flexlm,adskflex
+86875PWIPLH_F,PowerInspect Premium Package (perpetual),flexlm,adskflex
+86875PWIPLH_T_F,PowerInspect Premium Package (rental),flexlm,adskflex
+86876PWISLH_F,PowerInspect Standard Package (perpetual),flexlm,adskflex
+86876PWISLH_T_F,PowerInspect Standard Package (rental),flexlm,adskflex
+86877PWIULH_F,PowerInspect Ultimate Package (perpetual),flexlm,adskflex
+86877PWIULH_T_F,PowerInspect Ultimate Package (rental),flexlm,adskflex
+86878PMPLHD_F,PowerMill Premium Package (perpetual),flexlm,adskflex
+86878PMPLHD_T_F,PowerMill Premium Package (rental),flexlm,adskflex
+86879PMSLHD_F,PowerMill Standard Package (perpetual),flexlm,adskflex
+86879PMSLHD_T_F,PowerMill Standard Package (rental),flexlm,adskflex
+86880PMULHD_F,PowerMill Ultimate Package (perpetual),flexlm,adskflex
+86880PMULHD_T_F,PowerMill Ultimate Package (rental),flexlm,adskflex
+86881PWSPLH_F,PowerShape Premium Package (perpetual),flexlm,adskflex
+86881PWSPLH_T_F,PowerShape Premium Package (rental),flexlm,adskflex
+86882PWSSLH_F,PowerShape Standard Package (perpetual),flexlm,adskflex
+86882PWSSLH_T_F,PowerShape Standard Package (rental),flexlm,adskflex
+86883PWSULH_F,PowerShape Ultimate Package (perpetual),flexlm,adskflex
+86883PWSULH_T_F,PowerShape Ultimate Package (rental),flexlm,adskflex
 86893CIV3D_2018_0F,Autodesk AutoCAD Civil 3D 2018,flexlm,adskflex
 86894PLNT3D_2018_0F,Autodesk AutoCAD Plant 3D 2018,flexlm,adskflex
 86895PNID_2018_0F,Autodesk AutoCAD P&ID 2018,flexlm,adskflex
@@ -1989,8 +1785,8 @@ lm_feature_code,description,lm_system,lm_vendor
 86918RVTLT_2018_0F,Autodesk Revit LT 2018,flexlm,adskflex
 86919SBRDES_2018_0F,Autodesk Structural Bridge Design 2018,flexlm,adskflex
 86920VEHTRK_2018_0F,Autodesk Vehicle Tracking 2018,flexlm,adskflex
-86921NTFABLS_F,Autodesk Netfabb Local Simulation 2018 Package (perpetual),flexlm,adskflex
-86921NTFABLS_T_F,Autodesk Netfabb Local Simulation 2018 Package (rental),flexlm,adskflex
+86921NTFABLS_F,Autodesk Netfabb Local Simulation Package (perpetual),flexlm,adskflex
+86921NTFABLS_T_F,Autodesk Netfabb Local Simulation Package (rental),flexlm,adskflex
 86926INVLTS_2018_0F,Autodesk AutoCAD Inventor LT Suite 2018,flexlm,adskflex
 86927IETODEV_2018_0F,Autodesk Inventor Engineer-to-Order 2018 - Developer,flexlm,adskflex
 86928IETODIS_2018_0F,Autodesk Inventor Engineer-to-Order 2018 - Distribution,flexlm,adskflex
@@ -2055,40 +1851,40 @@ lm_feature_code,description,lm_system,lm_vendor
 86986ALSCPT_2018_0F,Autodesk Alias Concept 2018,flexlm,adskflex
 86987SMKDS_2018_0F,Autodesk Smoke 2018 Desktop Rental,flexlm,adskflex
 86988A250_2018_0F,Autodesk Flame 2018,flexlm,adskflex
-86988A250_F,Autodesk Flame 2018 Package (perpetual),flexlm,adskflex
-86988A250_T_F,Autodesk Flame 2018 Package (rental),flexlm,adskflex
+86988A250_F,Autodesk Flame Package (perpetual),flexlm,adskflex
+86988A250_T_F,Autodesk Flame Package (rental),flexlm,adskflex
 86989A350_2018_0F,Autodesk Flame Assist 2018,flexlm,adskflex
-86989A350_F,Autodesk Flame Assist 2018 Package (perpetual),flexlm,adskflex
-86989A350_T_F,Autodesk Flame Assist 2018 Package (rental),flexlm,adskflex
+86989A350_F,Autodesk Flame Assist Package (perpetual),flexlm,adskflex
+86989A350_T_F,Autodesk Flame Assist Package (rental),flexlm,adskflex
 86990A400_2018_0F,Autodesk Flare 2018,flexlm,adskflex
-86990A400_F,Autodesk Flare 2018 Package (perpetual),flexlm,adskflex
-86990A400_T_F,Autodesk Flare 2018 Package (rental),flexlm,adskflex
+86990A400_F,Autodesk Flare Package (perpetual),flexlm,adskflex
+86990A400_T_F,Autodesk Flare Package (rental),flexlm,adskflex
 86991K100_2018_0F,Autodesk Lustre 2018,flexlm,adskflex
-86991K100_F,Autodesk Lustre 2018 Package (perpetual),flexlm,adskflex
-86991K100_T_F,Autodesk Lustre 2018 Package (rental),flexlm,adskflex
+86991K100_F,Autodesk Lustre Package (perpetual),flexlm,adskflex
+86991K100_T_F,Autodesk Lustre Package (rental),flexlm,adskflex
 86992A280_2018_0F,Autodesk Flame Premium 2018,flexlm,adskflex
-86992A280_F,Autodesk Flame Premium 2018 Package (perpetual),flexlm,adskflex
-86992A280_T_F,Autodesk Flame Premium 2018 Package (rental),flexlm,adskflex
+86992A280_F,Autodesk Flame Premium Package (perpetual),flexlm,adskflex
+86992A280_T_F,Autodesk Flame Premium Package (rental),flexlm,adskflex
 86993C300_2018_0F,Autodesk Burn 2018,flexlm,adskflex
-86993C300_F,Autodesk Burn 2018 Package (perpetual),flexlm,adskflex
-86993C300_T_F,Autodesk Burn 2018 Package (rental),flexlm,adskflex
+86993C300_F,Autodesk Burn Package (perpetual),flexlm,adskflex
+86993C300_T_F,Autodesk Burn Package (rental),flexlm,adskflex
 86994WTGTWY_2018_0F,Autodesk Wiretap Gateway 2018,flexlm,adskflex
-86994WTGTWY_F,Autodesk Wiretap Gateway 2018 Package (perpetual),flexlm,adskflex
-86994WTGTWY_T_F,Autodesk Wiretap Gateway 2018 Package (rental),flexlm,adskflex
+86994WTGTWY_F,Autodesk Wiretap Gateway Package (perpetual),flexlm,adskflex
+86994WTGTWY_T_F,Autodesk Wiretap Gateway Package (rental),flexlm,adskflex
 86995LSTRBRN_2018_0F,Autodesk Lustre Burn 2018,flexlm,adskflex
-86995LSTRBRN_F,Autodesk Lustre Burn 2018 Package (perpetual),flexlm,adskflex
-86995LSTRBRN_T_F,Autodesk Lustre Burn 2018 Package (rental),flexlm,adskflex
+86995LSTRBRN_F,Autodesk Lustre Burn Package (perpetual),flexlm,adskflex
+86995LSTRBRN_T_F,Autodesk Lustre Burn Package (rental),flexlm,adskflex
 86996LSTRSR_2018_0F,Autodesk Lustre ShotReactor 2018,flexlm,adskflex
-86996LSTRSR_F,Autodesk Lustre ShotReactor 2018 Package (perpetual),flexlm,adskflex
-86996LSTRSR_T_F,Autodesk Lustre ShotReactor 2018 Package (rental),flexlm,adskflex
+86996LSTRSR_F,Autodesk Lustre ShotReactor Package (perpetual),flexlm,adskflex
+86996LSTRSR_T_F,Autodesk Lustre ShotReactor Package (rental),flexlm,adskflex
 86997ALSSF_2018_0F,Autodesk Alias SpeedForm 2018,flexlm,adskflex
 86998NAVMAN_2018_0F,Autodesk Navisworks Manage 2018,flexlm,adskflex
 86999NAVSIM_2018_0F,Autodesk Navisworks Simulate 2018,flexlm,adskflex
 87000VRDPRO_2018_0F,Autodesk VRED Professional 2018,flexlm,adskflex
-87001HSMULT_F,Autodesk HSM Ultimate 2018 Package (perpetual),flexlm,adskflex
-87001HSMULT_T_F,Autodesk HSM Ultimate 2018 Package (rental),flexlm,adskflex
-87002HSMPREM_F,Autodesk HSM Premium 2018 Package (perpetual),flexlm,adskflex
-87002HSMPREM_T_F,Autodesk HSM Premium 2018 Package (rental),flexlm,adskflex
+87001HSMULT_F,Autodesk HSM Ultimate Package (perpetual),flexlm,adskflex
+87001HSMULT_T_F,Autodesk HSM Ultimate Package (rental),flexlm,adskflex
+87002HSMPREM_F,Autodesk HSM Premium Package (perpetual),flexlm,adskflex
+87002HSMPREM_T_F,Autodesk HSM Premium Package (rental),flexlm,adskflex
 87003HSMULT_2018_0F,Autodesk HSM Ultimate 2018,flexlm,adskflex
 87004HSMPREM_2018_0F,Autodesk HSM Premium 2018,flexlm,adskflex
 87005ASMES_2018_0F,Autodesk Simulation Mechanical 2018,flexlm,adskflex
