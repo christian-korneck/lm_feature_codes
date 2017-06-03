@@ -1992,11 +1992,12 @@ SRM,SmartPlant Review Modules,flexlm,adskflex
 SRP,SmartPlant Review Publisher,flexlm,adskflex
 SSK,SmartSketch,flexlm,adskflex
 ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
+VrayPatternFor3dsMax,iCube R&D Group VrayPattern for 3ds Max,cerber,cerber
 bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
 bokeh_r,Bokeh Plugin for Nuke - Render,rlm,peregrinel
-deadline-balancer,Deadline Balancer,flexlm,thinkbox
 deadline,Deadline Slave,flexlm,thinkbox
 deadline,Deadline,flexlm,frantic
+deadline-balancer,Deadline Balancer,flexlm,thinkbox
 directorstudio,Craft Director Studio for 3ds Max,rlm,craftanim
 draft,Draft for Deadline,flexlm,thinkbox
 fabric,Fabric Engine,rlm,fabricinc 
@@ -2007,12 +2008,12 @@ hdrlspro,HDR LightStudio Pro,rlm,lightmap
 host,Qube - Worker,qube,pipelinefx
 katana_i,Katana - Interactive,rlm,foundry
 katana_r,Katana - Render,rlm,foundry
-krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
-krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,thinkbox
 krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,frantic
 krakatoa-max,Krakatoa plugin for 3ds Max - GUI,flexlm,thinkbox
-krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
+krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,frantic
+krakatoa-max-render,Krakatoa plugin for 3ds Max - Render,flexlm,thinkbox
 krakatoa-maya,Krakatoa plugin for Maya - GUI,flexlm,thinkbox
+krakatoa-maya-render,Krakatoa plugin for Maya - Render,flexlm,thinkbox
 krakatoa-render,Krakatoa - Render,flexlm,thinkbox
 mari_i,Mari - Interactive,rlm,foundry
 massive-prime,Massive - Prime,mhost,massive
@@ -2045,8 +2046,8 @@ reelsmartmotionblur,RE:Vision Effects Reelsmart Motion Blur (RSMB),rvl,revisionf
 rlm_server_enable_vm,enables to run golaem rlm daemon in a virtual machine,rlm,golaem
 rlm_server_enable_vm,enables to run lightmap rlm daemon in a virtual machine,rlm,lightmap
 rollingshutter_ofx_i,Rollingshutter OFX Plugin - Interactive,flexlm,foundry
-rv-sdi,RV with SDI Output - GUI,tlm_server,tweak
 rv,RV - GUI,tlm_server,tweak
+rv-sdi,RV with SDI Output - GUI,tlm_server,tweak
 rvio,RV - Render,tlm_server,tweak
 rvsolo,RV - GUI,tlm_server,tweak
 rvx,RVX,tlm_server,tweak
