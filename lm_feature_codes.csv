@@ -1500,6 +1500,7 @@ lm_feature_code,description,lm_system,lm_vendor
 86436GMCADC_2016_0F,Autodesk GM CAD Convertors 2016,flexlm,adskflex
 86437MAYAMMR1_2016_0F,Autodesk Maya 2016 Mental Ray 1,flexlm,adskflex
 86437MAYA_2016_0F,Autodesk Maya 2016,flexlm,adskflex
+86437TRTLPB_2016_0F,Turtle for Maya 2016,flexlm,adskflex
 86438MYECS_2016_0F,Autodesk Maya Entertainment Creation Suite Standard 2016,flexlm,adskflex
 86439RSAPRO_2016_0F,Autodesk Robot Structural Analysis Professional 2016,flexlm,adskflex
 86440SBPNL_2016_0F,Autodesk SketchBook Pro 2016,flexlm,adskflex
@@ -2243,6 +2244,8 @@ lm_feature_code,description,lm_system,lm_vendor
 87067INVNTOR_2019_0F,Autodesk Inventor 2019,flexlm,adskflex
 87068INVPROSA_2019_0F,Autodesk Inventor Professional 2019,flexlm,adskflex
 870723DSMAX_2019_0F,Autodesk 3ds Max 2019,flexlm,adskflex
+87077MOBPRO_2019_0F,Autodesk MotionBuilder Pro 2019,flexlm,adskflex
+87078MBXPRO_2019_0F,Autodesk Mudbox Pro 2019,flexlm,adskflex
 87079ALAUST_2019_0F,Autodesk Alias AutoStudio 2019,flexlm,adskflex
 87080ALSCPT_2019_0F,Autodesk Alias Concept 2019,flexlm,adskflex
 87081DESNST_2019_0F,Autodesk Alias Design 2019,flexlm,adskflex
