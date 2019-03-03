@@ -2407,12 +2407,38 @@ PLIST,PLIST,flexlm,adskflex
 PLMXMLMayaTranslator,PLMXMLMayaTranslator (Maya plugins for AssemblyConfiguration),flexlm,rttlmd
 PMD,SupportModeler for PDS,flexlm,adskflex
 PMN,SupportManager for PDS,flexlm,adskflex
+PRMan-INTEL,Pixar Renderman,PixarLicense,pixar
+PRMan-INTEL-NT,Pixar Renderman,PixarLicense,pixar
+PRMan-Linux-x86-64,Pixar Renderman,PixarLicense,pixar
+PRMan-OSX,Pixar Renderman,PixarLicense,pixar
 PWN1400,GTXRaster CAD PLUS,flexlm,adskflex
+PhotoRealistic-RenderMan,Pixar Renderman,PixarLicense,pixar
 R11.5 Upgrade,Cinema 4D R11.5 Upgrade,maxon,maxon
 RD,SmartPlant Reference Data,flexlm,adskflex
+RFM-21.0,Pixar Renderman,PixarLicense,pixar
+RFM-22.0,Pixar Renderman,PixarLicense,pixar
+RMS-18.0,Pixar Renderman,PixarLicense,pixar
+RMS-19.0,Pixar Renderman,PixarLicense,pixar
+RMS-20.0,Pixar Renderman,PixarLicense,pixar
+RMS-21.0,Pixar Renderman,PixarLicense,pixar
+RMS-22.0,Pixar Renderman,PixarLicense,pixar
+RMSit,Pixar Renderman,PixarLicense,pixar
+RMSrenderswatch,Pixar Renderman,PixarLicense,pixar
+RMSslim,Pixar Renderman,PixarLicense,pixar
+RPS-15.0,Pixar Renderman,PixarLicense,pixar
+RPS-16.0,Pixar Renderman,PixarLicense,pixar
+RPS-17.0,Pixar Renderman,PixarLicense,pixar
+RPS-18.0,Pixar Renderman,PixarLicense,pixar
+RPS-19.0,Pixar Renderman,PixarLicense,pixar
+RPS-20.0,Pixar Renderman,PixarLicense,pixar
+RPS-21.0,Pixar Renderman,PixarLicense,pixar
+RPS-22.0,Pixar Renderman,PixarLicense,pixar
+RPS-Denoiser-21.0,Pixar Renderman,PixarLicense,pixar
+RPS-Denoiser-22.0,Pixar Renderman,PixarLicense,pixar
 RTTCTLoadCATIAv5,DeltaGen Catia V5 Import,flexlm,rttlmd
 RWN1400,GTXRaster CAD,flexlm,adskflex
 Render,Houdini or Mantra - Render,hserver,sidefx
+RixSubdivAPI,Pixar Renderman,PixarLicense,pixar
 S3D,SmartPlant 3D,flexlm,adskflex
 SDF,SDNF Import,flexlm,adskflex
 SEB,SmartPlant Electrical SAP Module,flexlm,adskflex
@@ -2430,8 +2456,8 @@ SRP,SmartPlant Review Publisher,flexlm,adskflex
 SSK,SmartSketch,flexlm,adskflex
 ShaderWorkbench,DeltaGen Deltabatch,flexlm,rttlmd
 ShaderWorkbench,ShaderWorkbench for Deltagen,flexlm,rttlmd
-Tractor,Tractor,Pixar,PixarLicense
-Tractor-2.0,Tractor 2.0,Pixar,PixarLicense
+Tractor,Tractor,PixarLicense,pixar
+Tractor-2.0,Tractor 2.0,PixarLicense,pixar
 VrayPatternFor3dsMax,iCube R&D Group VrayPattern for 3ds Max,cerber,cerber
 arnold,Arnold,solidangle,rlm
 bokeh_i,Bokeh Plugin for Nuke - GUI,rlm,peregrinel
@@ -2506,5 +2532,7 @@ uvlayoutv2 ,UVLayout 2,hlserver,headus
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,frantic
 xmesh-saver,Xmesh plugin for 3ds Max,flexlm,thinkbox
 xtex,Vizoo xTex,tfs,xtextfs
+yeti_i,Yeti - GUI,rlm,peregrinel
+yeti_r,Yeti - Render,rlm,peregrinel
 ziva-vfx-author,Ziva VFX Author (GUI),zivadyn,rlm
 ziva-vfx-batch,Ziva VFX Batch (Commandline),zivadyn,rlm
